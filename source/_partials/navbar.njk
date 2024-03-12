@@ -1,0 +1,25 @@
+<!--START NAVBAR-->
+<nav class="navbar">
+    <div class="container">
+      <div class="navbar-brand">
+        <a class="navbar-item" href="../">
+            LOGO
+        </a>
+        <span class="navbar-burger burger" data-target="navbarMenu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </span>
+      </div>
+      <div id="navbarMenu" class="navbar-menu">
+        <div class="navbar-end">
+          {% for link in navlinks %}
+            <a class="navbar-item is-active is-size-5 has-text-weight-semibold" 
+               href="{{ link.url | url }}">
+            {{ link.title }}</a>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </nav>
+  <!--END NAVBAR-->
