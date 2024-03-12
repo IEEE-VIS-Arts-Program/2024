@@ -1,9 +1,9 @@
 <!--START NAVBAR-->
-<nav class="navbar">
+<nav class="navbar is-fixed-top">
     <div class="container">
       <div class="navbar-brand">
         <a class="navbar-item" href="../">
-            LOGO
+            IEEE VISAP 2024
         </a>
         <span class="navbar-burger burger" data-target="navbarMenu">
           <span></span>
@@ -14,7 +14,7 @@
       <div id="navbarMenu" class="navbar-menu">
         <div class="navbar-end">
           {% for link in navlinks %}
-            <a class="navbar-item is-active is-size-5 has-text-weight-semibold" 
+            <a class="navbar-item is-active" 
                href="{{ link.url | url }}">
             {{ link.title }}</a>
           {% endfor %}

@@ -1,3 +1,9 @@
 body {
     font-family: reforma2018;
 }
+
+.navbar-brand {
+    font-family: ancho !important;
+    font-weight: 200;
+}
+
