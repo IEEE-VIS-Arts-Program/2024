@@ -6,14 +6,18 @@ layout: default
 ## Important Dates
 
 <table>
+<colgroup>
+  <col style="width: 50%;">
+  <col style="width: 50%;">
+</colgroup>
 <tr><td>Call opening:</td><td>April, 2023</td>
 <tr><td>Submissions deadline:</td><td>June 6, 2023</td>
 <tr><td>Acceptance notifications:</td><td>July 14, 2023</td>
 <tr><td>Camera ready deadline:</td><td>August 14, 2023</td>
 <tr><td>Exhibition materials submission:</td><td>August 14, 2023</td>
-<tr><td>VISAP exhibition:</td><td>Wed 4 October–Sun 29 October 2023\
-[[Library at the Dock
-Gallery]{.underline}](https://www.melbourne.vic.gov.au/community/hubs-bookable-spaces/the-dock/library-at-the-dock/Pages/library-at-the-dock.aspx)
+<tr><td>VISAP exhibition:</td><td>
+    Wed 4 October–Sun 29 October 2023<br>
+    <a href="https://www.melbourne.vic.gov.au/community/hubs-bookable-spaces/the-dock/library-at-the-dock/Pages/library-at-the-dock.aspx">Library at the Dock</a>
 </td>
 </table>
 

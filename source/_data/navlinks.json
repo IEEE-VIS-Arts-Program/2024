@@ -1,26 +1,10 @@
 [
     {
-        "title": "Home",
+        "title": "Call for Entries",
         "url": "/"
     },
     {
-        "title": "Contributions",
-        "url": "/contributions"
-    },
-    {
-        "title": "Catalogue",
-        "url": "/catalogue"
-    },
-    {
-        "title": "Programme",
-        "url": "/programme"
-    },
-    {
-        "title": "Supporters",
-        "url": "/supporters"
-    },
-    {
-        "title": "Organizers",
-        "url": "/organizers"
+        "title": "Submission Process",
+        "url": "/submission"
     }
 ]
