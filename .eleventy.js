@@ -1,6 +1,7 @@
 module.exports = function (eleventyConfig) {
     // copy these files without processing them
     eleventyConfig.addLayoutAlias('post', './source/_layouts/default.njk');
+    eleventyConfig.addPassthroughCopy("./source/styles/fonts/");
     eleventyConfig.addPassthroughCopy("./source/images/");
     eleventyConfig.addPassthroughCopy("./source/scripts/");
     // return the configuration object
