@@ -11888,6 +11888,7 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
 
 body {
     font-family: reforma2018;
+    /* background-color: #FFFF9E; */
 }
 
 .navbar-brand {
@@ -11895,4 +11896,7 @@ body {
     font-weight: 200;
 }
 
+.hero {
+    background: linear-gradient(0deg, #FFFFFF 0%, #CCCCCC 50%, #CCCCCC 100%);
+}
 
