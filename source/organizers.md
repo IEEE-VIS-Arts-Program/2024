@@ -5,30 +5,49 @@ layout: default
 
 ### General Chairs
 
-Name\
-*Title*\
-[Link](http://visap.net)
+Rebecca Ruige Xu\
+_Syracuse University_\
+[rebeccaxu.com](http://rebeccaxu.com)
 
-Name\
-*Title*\
-[Link](http://visap.net)
+Pedro Cruz\
+_Northeastern University_\
+[pmcruz.com](https://pmcruz.com/)
 
-### Exhibition Chairs
+Rewa Wright\
+_Queensland University of Technology_\
+[rewawright.com/](https://rewawright.com/)
 
-Name\
-*Title*\
-[Link](http://visap.net)
+### Exhibition Chairs	
 
-Name\
-*Title*\
-[Link](http://visap.net)
+Santiago Echeverry\
+_University of Tampa_\
+[echeverry.tv/](https://echeverry.tv/)
 
-### Design Chairs
+Gregg Perkins\
+_University of Tampa_\
+[www.greggperkins.com/](https://www.greggperkins.com/)
 
-Name\
-*Title*\
-[Link](http://visap.net)
+### Design Chairs	
 
-Name\
-*Title*\
-[Link](http://visap.net)
+Kate Terrado\
+_Northeastern University_\
+[www.kateterrado.com/](https://www.kateterrado.com/)
+
+Todd Linkner\
+_Northeastern University_\
+[toddlinkner.com/](https://toddlinkner.com/)
+
+### Steering Committee
+
+Maria Lantin\
+_Emily Carr University Art + Design_\
+[marialantin.com](http://marialantin.com)
+
+Yoon Chung Han\
+_San Jose State University_\
+[yoonchunghan.com](http://yoonchunghan.com)
+
+Uta Hinrichs\
+_University of Edinburgh_\
+[www.utahinrichs.de](http://www.utahinrichs.de)
+
