@@ -11966,3 +11966,7 @@ a.navbar-item:hover {
     background: linear-gradient(0deg, #A2CDF5 0%, #FEEAFD 100%);
 }
 
+.footer h4 {
+    font-weight: bold;
+}
+
