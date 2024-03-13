@@ -11857,6 +11857,7 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
     font-style: normal;
 }
 
+/*
 @font-face {
     font-family: 'reforma2018';
     src: url('fonts/reforma2018blanca-webfont.woff2') format('woff2'),
@@ -11868,6 +11869,21 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
     font-family: 'reforma2018';
     src: url('fonts/reforma2018blancaitalica-webfont.woff2') format('woff2'),
          url('fonts/reforma2018blancaitalica-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+*/
+@font-face {
+    font-family: 'reforma2018';
+    src: url('fonts/reforma2018gris-webfont.woff2') format('woff2'),
+         url('fonts/reforma2018gris-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'reforma2018';
+    src: url('fonts/reforma2018grisitalica-webfont.woff2') format('woff2'),
+         url('fonts/reforma2018bgrisitalica-webfont.woff') format('woff');
     font-weight: normal;
     font-style: italic;
 }
@@ -11886,17 +11902,67 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
     font-style: italic;
 }
 
+html {
+    background-color: #1682E5;
+}
+
 body {
     font-family: reforma2018;
-    /* background-color: #FFFF9E; */
+    background: linear-gradient(to bottom, #1682E5 0 ,#1682E5 60px, #FEEAFD 260px, #FEEAFD 100%);
+    min-height: 100vh;
+}
+
+a {
+   color: #48195C;
+}
+
+.navbar.is-fixed-top {
+  color: #FDDCFB;
+  background-color: #1682E5;
+}
+
+@media screen and (max-width: 1023px) {
+    .navbar-menu {
+        background-color: #1682E5;
+        box-shadow: 0 8px 16px rgba(10, 10, 10, 0.1);
+        padding: 0.5rem 0;
+    }
+}
+
+a.navbar-item {
+    color: #FDDCFB;
+    background-color: #1682E5;
+}
+
+a.navbar-item:hover {
+    color: #FDDCFB;
+    background-color: #48195C;
 }
 
 .navbar-brand {
     font-family: ancho !important;
     font-weight: 200;
+    color: #FDDCFB;
+}
+
+.navbar-brand a {
+    color: #FDDCFB;
+}
+
+.navbar-brand a:hover {
+    color: #FDDCFB;
+    background-color: #48195C;
+}
+
+.navbar-burger span {
+    background-color: #FDDCFB;
 }
 
 .hero {
-    background: linear-gradient(0deg, #FFFFFF 0%, #CCCCCC 50%, #CCCCCC 100%);
+    background: linear-gradient(0deg, #FEEAFD 0%, #1682E5 50%, #1682E5 100%);
+}
+
+.footer {
+    background: linear-gradient(0deg, #A2CDF5 0%, #FEEAFD 100%);
 }
 
