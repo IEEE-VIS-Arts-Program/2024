@@ -4,6 +4,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("./source/styles/fonts/");
     eleventyConfig.addPassthroughCopy("./source/images/");
     eleventyConfig.addPassthroughCopy("./source/scripts/");
+    eleventyConfig.addPassthroughCopy("./source/downloads/");
     eleventyConfig.addWatchTarget("./source/styles/");
     // return the configuration object
     return {

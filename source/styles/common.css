@@ -12,6 +12,11 @@ a {
    color: #48195C;
 }
 
+hr {
+    background-color: rgb(219,219,219);
+    height: 1px;
+}
+
 .navbar.is-fixed-top {
   color: #FDDCFB;
   background-color: #1682E5;
