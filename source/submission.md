@@ -17,7 +17,7 @@ layout: default
 <tr><td>Exhibition materials submission:</td><td>August 14, 2024</td>
 <tr><td>VISAP exhibition:</td><td>
     October 14&ndash;17, 2024<br>
-    <!--Location-->
+    <a href="https://ieeevis.org/year/2024/destination">Tradewinds Island Grand Beach Resort</a>
 </a>
 </td>
 </table>
@@ -241,8 +241,7 @@ All accepted artworks will be included in the online proceedings of
 VISAP on the [visap.net](https://visap.net/2024/) website,
 as well as in a VISAP 2024 catalog that will be shared on the VISAP
 website. All accepted artworks will be presented in the gallery space of
-the [Library at the
-Docs](https://www.melbourne.vic.gov.au/community/hubs-bookable-spaces/the-dock/library-at-the-dock/Pages/library-at-the-dock.aspx)from
+the [Tradewinds Island Grand Beach Resort](https://ieeevis.org/year/2024/destination) from
 October 15 to October 17, 2024. This means that, in contrast to previous
 years, the VISAP exhibition will be open prior to the conference, and
 remain open for almost one month.
