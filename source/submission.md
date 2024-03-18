@@ -62,13 +62,13 @@ encouraged to help reviewers evaluate the submission.
 
 Accepted authors will present their work in-person in one of the two
 VISAP Papers sessions during the conference. All accepted papers will be
-published online in the IEEE VIS 2023 Arts Program proceedings, and
+published online in the IEEE VIS 2024 Arts Program proceedings, and
 indexed in the IEEE Xplore digital library.
 
 #### Previous VISAP Papers
 
 Please see the online proceedings from previous years
-([2022](https://ieeexplore.ieee.org/xpl/conhome/9975351/proceeding), [2021](https://ieeexplore.ieee.org/xpl/conhome/9622893/proceeding), [2020](https://ieeexplore.ieee.org/xpl/conhome/9307976/proceeding), [2019](https://visap.net/2019/program), [2018](http://visap.net/2018/program), [2017](http://visap.uic.edu/2017/papers.html), [2016](http://visap.uic.edu/2016/papers.html), [2015](http://visap.uic.edu/2015/papers.html), [2014](http://visap.uic.edu/2014/program.html#papers), [2013](http://visap.uic.edu/2013/#program))
+([2023](https://ieeexplore.ieee.org/xpl/conhome/10343460/proceeding), [2022](https://ieeexplore.ieee.org/xpl/conhome/9975351/proceeding), [2021](https://ieeexplore.ieee.org/xpl/conhome/9622893/proceeding), [2020](https://ieeexplore.ieee.org/xpl/conhome/9307976/proceeding), [2019](https://visap.net/2019/program), [2018](http://visap.net/2018/program), [2017](http://visap.uic.edu/2017/papers.html), [2016](http://visap.uic.edu/2016/papers.html), [2015](http://visap.uic.edu/2015/papers.html), [2014](http://visap.uic.edu/2014/program.html#papers), [2013](http://visap.uic.edu/2013/#program))
 for examples of accepted submissions. (Selected VISAP papers have also
 been featured in IEEE Computer Graphics and Applications and Leonardo).
 
@@ -135,8 +135,8 @@ encouraged to help reviewers evaluate the submission.
 
 Please see the five pictorials
 ([1](http://visap.net/2018/media/Cruz-VISAP18-AP.pdf), [2](http://visap.net/2018/media/Bihanic-VISAP18-AP.pdf), [3](http://visap.net/2018/media/Perin-VISAP18-AP.pdf), [4](http://visap.net/2018/media/Glissmann-VISAP18-AP.pdf), [5](http://visap.net/2018/media/Hunter-VISAP18-AP.pdf))
-from the inaugural edition of this format in the [[2018
-program]{.underline}](http://visap.net/2018/program), the three
+from the inaugural edition of this format in the [2018
+program](http://visap.net/2018/program), the three
 pictorials
 ([1](https://visap.net/media/Offenhuber-VISAP19.pdf), [2](https://visap.net/media/Richardson-VISAP19.pdf), [3](https://visap.net/media/Samsel-VISAP19.pdf))
 in the [2019 program](https://visap.net/2019/index.html),
@@ -146,18 +146,17 @@ in the [2020
 program](https://visap.net/2020/program.html) the five
 pictorials
 ([1](https://ieeexplore.ieee.org/document/9623013), [2](https://ieeexplore.ieee.org/document/9622972), [3](https://ieeexplore.ieee.org/document/9622946), [4](https://ieeexplore.ieee.org/document/9622987), [5](https://ieeexplore.ieee.org/document/9623000))
-in the [2021
-program](https://visap.net/2021/program.html), and and
+in the [2021 program](https://visap.net/2021/program.html), 
 three pictorials
 ([1](https://ieeexplore.ieee.org/document/9975687), [2](https://ieeexplore.ieee.org/document/9975449), [3](https://ieeexplore.ieee.org/document/9975443))
-in the [2022 program](https://visap.net/2022/programme).
+in the [2022 program](https://visap.net/2022/programme) and four pictorials ([1](https://visap.net/2023/contributions/bitter-data-an-exploration-into-data-edibilization-of-negative-emotion), [2](https://visap.net/2023/contributions/posts-with-no-response-the-island-of-loneliness), [3](https://visap.net/2023/contributions/associative-forms-for-encoding-multivariate-climate-data), [4](https://visap.net/2023/contributions/reinterpreted-spaces-an-ai-printmaking-collaboration)) in the [2023 program](https://visap.net/2023/programme).
 
 #### Pictorial Acceptance
 
-All accepted Pictorials will be published online in the IEEE VIS 2023
+All accepted Pictorials will be published online in the IEEE VIS 2024
 Arts Program proceedings, and indexed in the IEEE Xplore digital
-library. Pictorials will be part of the VISAP 2023 exhibition as printed
-booklets and showcased in the VISAP 2023 catalog, which will be
+library. Pictorials will be part of the VISAP 2024 exhibition as printed
+booklets and showcased in the VISAP 2024 catalog, which will be
 available both online and in print. Selected submissions will be invited
 to present their work in-person in one of the VISAP Papers sessions
 during the conference.
@@ -179,7 +178,7 @@ included (consider structuring your proposal based on these headings):
 
 1.  **General Information**: Title of the work, Year, Authors (and roles), Medium and Dimensions of the work
 2.  **Description**: Description of the work and any interactive elements. Explain how your work relates to this year's theme and how it links to information visualization, scientific visualization, and/or visual analytics. Discuss the reception of your work at previous exhibitions (if it has been exhibited before)
-3.  **Technical Requirements**: Given that VISAP' 23 is an in-person event, describe how the work will be presented at the gallery space. Provide technical details of the project. For example, what technical equipment is required? Does the project require the audience to interact with it live? Are there any time of day requirements or specific lighting conditions needed? Does it require any specific space or technical setup (e.g. VR gadgets or audiovisual equipment)? Consider how your artwork could be integrated in both a physical and virtual art exhibition.
+3.  **Technical Requirements**: Given that VISAP' 24 is an in-person event, describe how the work will be presented at the gallery space. Provide technical details of the project. For example, what technical equipment is required? Does the project require the audience to interact with it live? Are there any time of day requirements or specific lighting conditions needed? Does it require any specific space or technical setup (e.g. VR gadgets or audiovisual equipment)? Consider how your artwork could be integrated in both a physical and virtual art exhibition.
 4.  **Supporting Material**: Provide links to high-resolution images, audio, webpages and/or videos that will help give the reviewers a clear sense of your work
 
 Artworks could involve any of the following forms:
@@ -203,7 +202,7 @@ Artworks could involve any of the following forms:
 -   Digital humanities visualization
 -   Physical visualization and sculptural design
 
-**SUBMISSION FORMAT (EXHIBITION)**
+**Submission Format (Exhibition)**
 
 Artists and designers are required to submit a 2 page .pdf file
 describing the work they wish to exhibit. No specific format is imposed.
@@ -212,11 +211,9 @@ Submitting additional images, videos, or audio files as supplementary
 material is strongly encouraged to help reviewers evaluate the
 submission.
 
-**PREVIOUS ACCEPTED WORK**
+**Previous Accepted Work**
 
-Please see
-the [2022](https://visap.net/2022/VISAP22_catalogue_v6.pdf) and [2021
-catalogues](https://visap.net/2021/media/VISAP21-Catalogue.pdf) (designed
+Please see [2023](https://visap.net/2023/visap-catalogue-2023-web.pdf) catalog (designed by Tommaso Elli and Francesca Morini), [2022](https://visap.net/2022/VISAP22_catalogue_v6.pdf) and [2021](https://visap.net/2021/media/VISAP21-Catalogue.pdf) catalogues (designed
 by Bon Adriel Aseniero), the [2020
 catalog](https://visap.net/2020/media/IEEE_VISAP_20_Catalog_Final.pdf) (designed
 by Christy Cheung), the [2019
@@ -238,15 +235,15 @@ have been accepted previously. Please feel welcome to contact the chairs
 if you have questions about whether or not your work is an appropriate
 submission to VISAP.
 
-**ACCEPTANCE**
+**Acceptance**
 
 All accepted artworks will be included in the online proceedings of
-VISAP on the [visap.net](https://visap.net/2023/) website,
-as well as in a VISAP 2023 catalog that will be shared on the VISAP
+VISAP on the [visap.net](https://visap.net/2024/) website,
+as well as in a VISAP 2024 catalog that will be shared on the VISAP
 website. All accepted artworks will be presented in the gallery space of
 the [Library at the
 Docs](https://www.melbourne.vic.gov.au/community/hubs-bookable-spaces/the-dock/library-at-the-dock/Pages/library-at-the-dock.aspx)from
-October 2 to October 29, 2023. This means that, in contrast to previous
+October 2 to October 29, 2024. This means that, in contrast to previous
 years, the VISAP exhibition will be open prior to the conference, and
 remain open for almost one month.
 
