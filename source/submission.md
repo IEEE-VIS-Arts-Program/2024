@@ -242,9 +242,7 @@ VISAP on the [visap.net](https://visap.net/2024/) website,
 as well as in a VISAP 2024 catalog that will be shared on the VISAP
 website. All accepted artworks will be presented in the gallery space of
 the [Tradewinds Island Grand Beach Resort](https://ieeevis.org/year/2024/destination) from
-October 15 to October 17, 2024. This means that, in contrast to previous
-years, the VISAP exhibition will be open prior to the conference, and
-remain open for almost one month.
+October 15 to October 17, 2024. 
 
 The official opening of the exhibition will take place during the week
 of the VIS conference (presumably Tuesday, October 12, 2024). Some
