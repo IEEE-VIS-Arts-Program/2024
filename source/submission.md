@@ -243,7 +243,7 @@ as well as in a VISAP 2024 catalog that will be shared on the VISAP
 website. All accepted artworks will be presented in the gallery space of
 the [Library at the
 Docs](https://www.melbourne.vic.gov.au/community/hubs-bookable-spaces/the-dock/library-at-the-dock/Pages/library-at-the-dock.aspx)from
-October 2 to October 29, 2024. This means that, in contrast to previous
+October 15 to October 17, 2024. This means that, in contrast to previous
 years, the VISAP exhibition will be open prior to the conference, and
 remain open for almost one month.
 
