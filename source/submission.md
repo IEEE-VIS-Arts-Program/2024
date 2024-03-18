@@ -149,7 +149,7 @@ pictorials
 in the [2021 program](https://visap.net/2021/program.html), 
 three pictorials
 ([1](https://ieeexplore.ieee.org/document/9975687), [2](https://ieeexplore.ieee.org/document/9975449), [3](https://ieeexplore.ieee.org/document/9975443))
-in the [2022 program](https://visap.net/2022/programme) and four pictorials ([1](https://visap.net/2023/contributions/bitter-data-an-exploration-into-data-edibilization-of-negative-emotion), [2](https://visap.net/2023/contributions/posts-with-no-response-the-island-of-loneliness), [3](https://visap.net/2023/contributions/associative-forms-for-encoding-multivariate-climate-data), [4](https://visap.net/2023/contributions/reinterpreted-spaces-an-ai-printmaking-collaboration)) in the [2023 program](https://visap.net/2023/programme).
+in the [2022 program](https://visap.net/2022/programme) and three pictorials ([1](https://ieeexplore.ieee.org/document/10344076), [2](https://ieeexplore.ieee.org/document/10344278), [3](https://ieeexplore.ieee.org/document/10343770)) in the [2023 program](https://visap.net/2023/programme).
 
 #### Pictorial Acceptance
 
