@@ -122,7 +122,7 @@ works.
 Artists and designers are required to use the VISAP'24 Pictorials format
 for pictorial and annotated portfolio
 submissions. <a href="https://visap.net/2024/downloads/VISAP_pictorial_Indd_2024.zip">InDesign</a> and <a href="https://visap.net/2024/downloads/VISAP_pictorial_Word_2024.zip">Word</a> templates
-are available. It is mandatory to use this format. Pictorials use the [IBM Plex](https://github.com/IBM/plex/releases/latest) typeface.
+are available. It is mandatory to use this format. **Attention that the templates changed for this 2024 edition.** Pictorials use the [IBM Plex](https://github.com/IBM/plex/releases/latest) typeface.
 
 Pictorials and annotated portfolios must not exceed 16 pages. We
 encourage submitters to use the space in the most creative and visual
@@ -131,25 +131,15 @@ way.
 Submitting supplementary material and/or links to external material is
 encouraged to help reviewers evaluate the submission.
 
-#### Previous Accepted Works
+#### Pictorials and annotated porfolios from previous years
 
-Please see the five pictorials
-([1](http://visap.net/2018/media/Cruz-VISAP18-AP.pdf), [2](http://visap.net/2018/media/Bihanic-VISAP18-AP.pdf), [3](http://visap.net/2018/media/Perin-VISAP18-AP.pdf), [4](http://visap.net/2018/media/Glissmann-VISAP18-AP.pdf), [5](http://visap.net/2018/media/Hunter-VISAP18-AP.pdf))
-from the inaugural edition of this format in the [2018
-program](http://visap.net/2018/program), the three
-pictorials
-([1](https://visap.net/media/Offenhuber-VISAP19.pdf), [2](https://visap.net/media/Richardson-VISAP19.pdf), [3](https://visap.net/media/Samsel-VISAP19.pdf))
-in the [2019 program](https://visap.net/2019/index.html),
-the two pictorials
-([1](https://visap.net/media/vis20m-sub1033-cam-i7.pdf) and [2](https://visap.net/media/vis20m-sub1047-cam-i7.pdf))
-in the [2020
-program](https://visap.net/2020/program.html) the five
-pictorials
-([1](https://ieeexplore.ieee.org/document/9623013), [2](https://ieeexplore.ieee.org/document/9622972), [3](https://ieeexplore.ieee.org/document/9622946), [4](https://ieeexplore.ieee.org/document/9622987), [5](https://ieeexplore.ieee.org/document/9623000))
-in the [2021 program](https://visap.net/2021/program.html), 
-three pictorials
-([1](https://ieeexplore.ieee.org/document/9975687), [2](https://ieeexplore.ieee.org/document/9975449), [3](https://ieeexplore.ieee.org/document/9975443))
-in the [2022 program](https://visap.net/2022/programme) and three pictorials ([1](https://ieeexplore.ieee.org/document/10344076), [2](https://ieeexplore.ieee.org/document/10344278), [3](https://ieeexplore.ieee.org/document/10343770)) in the [2023 program](https://visap.net/2023/programme).
+2018.   [See program](http://visap.net/2018/program): [1](http://visap.net/2018/media/Cruz-VISAP18-AP.pdf), [2](http://visap.net/2018/media/Bihanic-VISAP18-AP.pdf), [3](http://visap.net/2018/media/Perin-VISAP18-AP.pdf), [4](http://visap.net/2018/media/Glissmann-VISAP18-AP.pdf), [5](http://visap.net/2018/media/Hunter-VISAP18-AP.pdf)
+2019.   [See program](https://visap.net/2019/index.html): [1](https://visap.net/2019/media/Offenhuber-VISAP19.pdf), [2](https://visap.net/2019/media/Richardson-VISAP19.pdf), [3](https://visap.net/2019/media/Samsel-VISAP19.pdf)
+2020.   [See program](https://visap.net/2020/program.html): [1](https://visap.net/2020/media/vis20m-sub1033-cam-i7.pdf), [2](https://visap.net/2020/media/vis20m-sub1047-cam-i7.pdf)
+2021.   [See program](https://visap.net/2021/program.html): [1](https://ieeexplore.ieee.org/document/9623013), [2](https://ieeexplore.ieee.org/document/9622972), [3](https://ieeexplore.ieee.org/document/9622946), [4](https://ieeexplore.ieee.org/document/9622987), [5](https://ieeexplore.ieee.org/document/9623000)
+2022.   [See program](https://visap.net/2022/programme): [1](https://ieeexplore.ieee.org/document/9975687), [2](https://ieeexplore.ieee.org/document/9975449), [3](https://ieeexplore.ieee.org/document/9975443)
+2023.   [See program](https://visap.net/2023/programme): [1](https://ieeexplore.ieee.org/document/10344076), [2](https://ieeexplore.ieee.org/document/10344278), [3](https://ieeexplore.ieee.org/document/10343770)
+
 
 #### Pictorial Acceptance
 
