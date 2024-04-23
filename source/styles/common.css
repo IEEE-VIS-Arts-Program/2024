@@ -8,8 +8,14 @@ body {
     min-height: 100vh;
 }
 
-a {
-   color: #48195C;
+.content a {
+   color: #F551EA;
+}
+
+.content a:hover {
+    color: #FFFFFF;
+    background-color: #F551EA;
+    outline: 4px solid #F551EA;
 }
 
 hr {

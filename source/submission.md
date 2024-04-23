@@ -133,12 +133,12 @@ encouraged to help reviewers evaluate the submission.
 
 #### Pictorials and annotated porfolios from previous years
 
-2018.   [See program](http://visap.net/2018/program): [1](http://visap.net/2018/media/Cruz-VISAP18-AP.pdf), [2](http://visap.net/2018/media/Bihanic-VISAP18-AP.pdf), [3](http://visap.net/2018/media/Perin-VISAP18-AP.pdf), [4](http://visap.net/2018/media/Glissmann-VISAP18-AP.pdf), [5](http://visap.net/2018/media/Hunter-VISAP18-AP.pdf)
-2019.   [See program](https://visap.net/2019/index.html): [1](https://visap.net/2019/media/Offenhuber-VISAP19.pdf), [2](https://visap.net/2019/media/Richardson-VISAP19.pdf), [3](https://visap.net/2019/media/Samsel-VISAP19.pdf)
-2020.   [See program](https://visap.net/2020/program.html): [1](https://visap.net/2020/media/vis20m-sub1033-cam-i7.pdf), [2](https://visap.net/2020/media/vis20m-sub1047-cam-i7.pdf)
-2021.   [See program](https://visap.net/2021/program.html): [1](https://ieeexplore.ieee.org/document/9623013), [2](https://ieeexplore.ieee.org/document/9622972), [3](https://ieeexplore.ieee.org/document/9622946), [4](https://ieeexplore.ieee.org/document/9622987), [5](https://ieeexplore.ieee.org/document/9623000)
-2022.   [See program](https://visap.net/2022/programme): [1](https://ieeexplore.ieee.org/document/9975687), [2](https://ieeexplore.ieee.org/document/9975449), [3](https://ieeexplore.ieee.org/document/9975443)
-2023.   [See program](https://visap.net/2023/programme): [1](https://ieeexplore.ieee.org/document/10344076), [2](https://ieeexplore.ieee.org/document/10344278), [3](https://ieeexplore.ieee.org/document/10343770)
+2018\. [See program](http://visap.net/2018/program): [1](http://visap.net/2018/media/Cruz-VISAP18-AP.pdf), [2](http://visap.net/2018/media/Bihanic-VISAP18-AP.pdf), [3](http://visap.net/2018/media/Perin-VISAP18-AP.pdf), [4](http://visap.net/2018/media/Glissmann-VISAP18-AP.pdf), [5](http://visap.net/2018/media/Hunter-VISAP18-AP.pdf)  
+2019\. [See program](https://visap.net/2019/index.html): [1](https://visap.net/2019/media/Offenhuber-VISAP19.pdf), [2](https://visap.net/2019/media/Richardson-VISAP19.pdf), [3](https://visap.net/2019/media/Samsel-VISAP19.pdf)  
+2020\. [See program](https://visap.net/2020/program.html): [1](https://visap.net/2020/media/vis20m-sub1033-cam-i7.pdf), [2](https://visap.net/2020/media/vis20m-sub1047-cam-i7.pdf)  
+2021\. [See program](https://visap.net/2021/program.html): [1](https://ieeexplore.ieee.org/document/9623013), [2](https://ieeexplore.ieee.org/document/9622972), [3](https://ieeexplore.ieee.org/document/9622946), [4](https://ieeexplore.ieee.org/document/9622987), [5](https://ieeexplore.ieee.org/document/9623000)  
+2022\. [See program](https://visap.net/2022/programme): [1](https://ieeexplore.ieee.org/document/9975687), [2](https://ieeexplore.ieee.org/document/9975449), [3](https://ieeexplore.ieee.org/document/9975443)  
+2023\. [See program](https://visap.net/2023/programme): [1](https://ieeexplore.ieee.org/document/10344076), [2](https://ieeexplore.ieee.org/document/10344278), [3](https://ieeexplore.ieee.org/document/10343770)
 
 
 #### Pictorial Acceptance
