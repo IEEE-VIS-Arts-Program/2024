@@ -22,7 +22,7 @@ layout: default
 </td>
 </table>
 
-All submissions are due by June 2, 2024; 11:59pm (23:59) [Anywhere On
+All submissions are due by June 9, 2024; 11:59pm (23:59) [Anywhere On
 Earth (AOE)](https://time.is/Anywhere_on_Earth), using
 the [Precision Conference System
 (PCS)](https://new.precisionconference.com/submissions).
