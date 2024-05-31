@@ -156,7 +156,7 @@ during the conference.
 ## Artwork Submission
 
 We invite artists and designers to submit data-driven artworks related
-to the theme Perpetual Presence. We welcome submissions in any medium,
+to the theme Diverse Data. We welcome submissions in any medium,
 e.g., interactive projections, multimedia sculptures, mobile devices,
 illustrations, physicalizations, video game art, digital prints,
 screen-based art, fixed audio-visual pieces, etc.
