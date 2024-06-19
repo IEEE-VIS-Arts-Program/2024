@@ -23,9 +23,9 @@ Santiago Echeverry\
 _University of Tampa_\
 [echeverry.tv/](https://echeverry.tv/)
 
-Gregg Perkins\
+Lori Jacques\
 _University of Tampa_\
-[www.greggperkins.com/](https://www.greggperkins.com/)
+[www.ut.edu/directory/jacques-lori](https://www.ut.edu/directory/jacques-lori)
 
 ### Design Chairs	
 

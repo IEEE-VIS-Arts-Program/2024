@@ -12,7 +12,7 @@ layout: default
 </colgroup>
 <tr><td>Call opening:</td><td>April, 2024</td>
 <tr><td>Submissions deadline:</td><td><s>June 2, 2024</s> June 9, 2024</td>
-<tr><td>Acceptance notifications:</td><td>July 14, 2024</td>
+<tr><td>Acceptance notifications:</td><td>July 26, 2024</td>
 <tr><td>Camera ready deadline:</td><td>August 14, 2024</td>
 <tr><td>Exhibition materials submission:</td><td>August 14, 2024</td>
 <tr><td>VISAP exhibition:</td><td>
