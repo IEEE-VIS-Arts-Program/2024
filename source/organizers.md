@@ -51,154 +51,151 @@ Uta Hinrichs\
 _University of Edinburgh_\
 [www.utahinrichs.de](http://www.utahinrichs.de)
 
-### Reviewers
-
-Beckwith, Megan\
-_The University of Melbourne_
-
-Li, Qingyue\
-_Northeastern University_
-
-Marttila, Terhi\
-_ITI/LARSyS_
-
-Shibuya, Felipe\
-_Independent, Boston, MA_
-
-Xu, Yamin\
-_Digital Arts, Bowling Green State University_
-
 ### Program Committee
 
-Adams, Jane\
+Jane Adams\
 _Data Visualization Lab, Khoury College of Computer Sciences, Northeastern University_
 
-Ahmedien, Diaa\
+Diaa Ahmedien\
 _Helwan University_
 
-Aseniero, Bon Adriel\
+Bon Adriel Aseniero\
 _Autodesk Research_
 
-Autuori, Antonella\
+Antonella Autuori\
 _SUPSI_
 
-Aversa, Elena\
+Elena Aversa\
 _DensityDesign Lab, Politecnico di Milano_
 
-Benedetti, Andrea\
+Andrea Benedetti\
 _Department of Design, Politecnico di Milano_
 
-Bennett, Alison\
+Alison Bennett\
 _School of Art, RMIT University_
 
-Bihanic, David\
+David Bihanic\
 _Design Department, University of Paris 1 Pantheon-Sorbonne_
 
-Briones Rojas, María de Los Ángeles\
+Briones Rojas and María de Los Ángeles\
 _DensityDesign Research Lab, Politecnico di Milano_
 
-Elek, Oskar\
+Oskar Elek\
 _Computational Media, University of California_
 
-Elli, Tommaso\
+Tommaso Elli\
 _Dipartimento di Design, Politecnico di Milano_
 
-Forbes, Angus\
+Angus Forbes\
 _Purdue University_
 
-Grisoni, Laurent\
+Laurent Grisoni\
 _University of Lille_
 
-Han, Byeong-jun\
+Byeong-jun Han\
 _School of information, communications and electronics, The Catholic University of Korea_
 
-Han, Yoon Chung\
+Yoon Chung Han\
 _San Jose State University_
 
-Harrison, Lane\
+Lane Harrison\
 _Worcester Polytechnic Institute_
 
-Hinrichs, Uta\
+Uta Hinrichs\
 _School of Informatics, University of Edinburgh_
 
-Ho, Xavier\
+Xavier Ho\
 _Department of Design, Monash University_
 
-Huang, Scottie Chih-Chieh\
+Scottie Chih-Chieh Huang\
 _National Tsing Hua University_
 
-Hull, Carmen\
+Carmen Hull\
 _Northeastern University_
 
-Johnson, Andrew\
+Andrew Johnson\
 _Electronic Visualization Laboratory, University of Illinois Chicago_
 
-Keefe, Daniel\
+Daniel Keefe\
 _University of Minnesota_
 
-Kosminsky, Doris\
+Doris Kosminsky\
 _School of Fine Arts, Universidade Federal do Rio de Janeiro_
 
-Lantin, Maria\
+Maria Lantin\
 _Independent, Vancouver BC_
 
-Li, Jiabao\
+Jiabao Li\
 _The University of Texas at Austin_
 
-Long, Juanjuan\
+Juanjuan Long\
 _Jiangnan University, School of Design_
 
-Meier, Sebastian\
-_HafenCity University Hamburg, CityScienceLab_
-
-Meirelles, Isabel\
+Isabel Meirelles\
 _OCAD University_
 
-Meshi, Avital\
+Avital Meshi\
 _Performance Studies Graduate Group, UC Davis_
 
-Nagel, Till\
+Till Nagel\
 _University of Applied Sciences Mannheim_
 
-Oliveira, Lucas\
+Lucas Oliveira\
 _Department of Systems Engineering and Computer Science, Federal University of Rio de Janeiro_
 
-Ong, Joel\
+Joel Ong\
 _Computational Arts, York University_
 
-Perin, Charles\
+Charles Perin\
 _Department of Computer Science, University of Victoria_
 
-Reilly, Derek\
+Derek Reilly\
 _Dalhousie University_
 
-Roberts, Charlie\
+Charlie Roberts\
 _School of Interactive Games and Media, Rochester Institute of Technology_
 
-Segal, Adrien\
+Adrien Segal\
 _California College of the Arts_
 
-Shen, Yvette\
+Yvette Shen\
 _Department of Design, The Ohio State University_
 
-Shu, Xinhuan\
+Xinhuan Shu\
 _School of Computing, Newcastle University_
 
-Song, Hyemi\
+Hyemi Song\
 _Bohyemian Lab_
 
-Walny, Jagoda\
+Jagoda Walny\
 _University of Calgary_
 
-Windhager, Florian\
+Florian Windhager\
 _Department for Knowledge and Communication Management, Danube University Krems_
 
-Wood, Jo\
+Jo Wood\
 _City, University of London_
 
-Yamazaki, Midori\
+Midori Yamazaki\
 _Out of Blue_
 
-Zhang, Weidi\
+Weidi Zhang\
 _Media and Immersive eXperience (MIX) center, Arizona State University_
+
+### Reviewers
+
+Megan Beckwith\
+_The University of Melbourne_
+
+Qingyue Li\
+_Northeastern University_
+
+Terhi Marttila\
+_ITI/LARSyS_
+
+Felipe Shibuya\
+_Independent, Boston, MA_
+
+Yamin Xu\
+_Digital Arts, Bowling Green State University_
 
