@@ -194,7 +194,7 @@ Terhi Marttila\
 _ITI/LARSyS_
 
 Felipe Shibuya\
-_Independent, Boston, MA_
+_Rhode Island School of Design_
 
 Yamin Xu\
 _Digital Arts, Bowling Green State University_
