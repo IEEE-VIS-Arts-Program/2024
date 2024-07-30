@@ -3,6 +3,8 @@ title: "Home"
 layout: "home.njk"
 ---
 
+<div style="font-weight: bold; font-size: 1.25em;">The conference and exhibition will be held alongside <a href="https://ieeevis.org/year/2024/welcome">IEEE VIS 2024</a> at TradeWinds Island Grand Beach Resort,  St. Pete Beach, Florida, 13–18 October 2024</div>
+
 ## VISAP 2024 Theme: Diverse Data
 
 Data surrounds all life on planet Earth, and in this age of machine
