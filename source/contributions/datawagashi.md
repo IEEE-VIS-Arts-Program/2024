@@ -1,0 +1,28 @@
+---
+tags: contribution
+layout: contribution-item
+type: artwork
+submission: 1097
+title: "DataWagashi: Feeling Climate Data via New Design Medium"
+weblink: "https://vimeo.com/892809493/dae9f9db99"
+contributors: 
+- name: Tiange Wang
+  affiliation: VLab
+  location: Cambridge, Massachusetts, United States
+- name: I-Yang Huang
+  affiliation: VLab
+  location: Cambridge, Massachusetts, United States
+---
+
+Inspired by Wagashi, the traditional Japanese confection art regarded as
+a microcosm of time, space and nature, DataWagashi is a new medium
+aiming to make data tangible, accessible and fun by blending taste,
+smell, touch, texture, and physical interaction into the vocabulary of
+data communication. By embracing a sensory upgrade from data
+visualization to data physicalization, Data Wagashi turns data into an
+experience that is sharable among people and accessible to those with
+different sensory capabilities, making complex environmental data
+approachable, foster empathy, and empower people to make better
+choices.
+
+

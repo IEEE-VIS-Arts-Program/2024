@@ -1,0 +1,46 @@
+<style>
+table {
+    border-collapse: collapse;
+    font-family: sans-serif;
+    font-size: 0.75em;
+}
+th, td {
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid #999;
+    padding: 0.25em;
+}
+tr:nth-child(even) {
+    background: #ddd
+}
+</style>
+
+<table border="1">
+<tr>
+    <th>Sub.</th>
+    <th>Title</th>
+    <th>Type</th>
+    <th>Contributors</th>
+    <th>Weblink</th>
+</tr>
+{%  set sortedContributors = collections.contribution | sortContributions %}
+{% for post in collections.contribution %}
+    <tr>
+        <td>{{ post.data.submission }}</td>
+        <td><a href="{{ post.url }}">{{ post.data.title }}</a></td>
+        <td>{{ post.data.type }}</td>
+        <td>
+            <ul>
+                {%- for contrib in post.data.contributors -%}
+                    <li>
+                      <b>{{contrib.name}}</b>, 
+                      {{contrib.affiliation}}, 
+                      {{contrib.location}}
+                    </li>
+                {%- endfor -%}
+            </ul>            
+        </td>
+        <td><a href="{{ post.data.weblink }}">{{ post.data.weblink }}</a></td>
+    </tr>
+{% endfor %}
+</table>

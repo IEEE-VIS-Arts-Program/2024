@@ -1,7 +1,8 @@
 ---
 title: "Contributions"
-layout: default
+layout: contribution-list
 ---
 
-Placeholder
+## Artworks, pictorials, and papers
+
 

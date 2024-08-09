@@ -1,0 +1,27 @@
+<style>
+html {
+    font-family: sans-serif;
+}
+</style>
+    
+{%  set sortedContributors = collections.contribution | sortContributions %}
+{% for post in collections.contribution %}
+
+<div class="visap_submission_id">{{ post.data.submission }}: {{ post.data.type }}</div>
+<h1 class="visap_title">{{ post.data.title }}</h1>
+<h4 class="visap_contributors">
+    {% for contrib in post.data.contributors %}
+    {% if not loop.last %}
+      {{ contrib.name }},
+    {% else %}
+      {{ contrib.name }}
+    {% endif %}
+  {% endfor %}
+</h4>
+<h4 class="visap_weblink">{{ post.data.weblink }}</h4>
+  <div class="visap_abstract">
+    {{ post.content | safe }}
+</div>
+<p>---</p>
+{% endfor %}
+    
