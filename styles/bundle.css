@@ -11922,6 +11922,11 @@ body {
     outline: 4px solid #F551EA;
 }
 
+.content a.nohover:hover {
+    background-color: transparent;
+    outline: 0;
+}
+
 hr {
     background-color: rgb(219,219,219);
     height: 1px;
