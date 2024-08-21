@@ -109,7 +109,7 @@ any work that is AI generated as being so.
 
 ## Supporters
 
-VISAP 2023 is possible thanks to the support of:
+VISAP 2024 is possible thanks to the support of:
 
 <div class="columns	is-desktop">
 <div class="column"><a class="nohover" href="https://camd.northeastern.edu/art-design/"><img src="{{ '/images/northeastern_camd.png' | url }}" style="max-width: 400px;" alt="Northeastern University Art + Design"></a></div>
