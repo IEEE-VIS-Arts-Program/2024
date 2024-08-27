@@ -1,7 +1,17 @@
 @font-face {
     font-family: 'ancho';
-    src: url('fonts/ancholight-webfont.woff2') format('woff2'),
-         url('fonts/ancholight-webfont.woff') format('woff');
+    src: url('ancholight-webfont.woff2') format('woff2'),
+         url('ancholight-webfont.woff') format('woff');
     font-weight: 200;
     font-style: normal;
 }
+
+@font-face {
+    font-family: 'ancho';
+    src: url('ancho-ultrabold.woff2') format('woff2'),
+         url('ancho-ultrabold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+

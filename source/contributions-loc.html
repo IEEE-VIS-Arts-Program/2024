@@ -1,0 +1,39 @@
+<style>
+    table {
+        border-collapse: collapse;
+        font-family: sans-serif;
+        font-size: 0.75em;
+    }
+    th, td {
+        text-align: left;
+        vertical-align: top;
+        border: 1px solid #999;
+        padding: 0.25em;
+    }
+    tr:nth-child(even) {
+        background: #ddd
+    }
+    </style>
+    
+    <table border="1">
+    <tr>
+        <th>Sub.</th>
+        <th>Title</th>
+        <th>Name</th>
+        <th>Affiliation</th>
+        <th>Location</th>
+    </tr>
+    {%  set sortedContributors = collections.contribution | sortContributions %}
+    {% for post in collections.contribution %}
+    {%- for contrib in post.data.contributors -%}
+    <tr>
+        <td>{{ post.data.submission }}</td>
+        <td>{{ post.data.title }}</td>
+        <td>{{contrib.name}}</td>
+        <td>{{contrib.affiliation}}</td>
+        <td>{{contrib.location}}</td>
+    </tr>
+    {%- endfor -%}
+    {% endfor %}
+    </table>
+    

@@ -13,27 +13,48 @@
   <div class="columns">
     <div class="column is-8 is-offset-2">
       <div class="content">
-        <h1>{{ title}}</h1>
+        <h2 class="title">{{ title}}</h2>
         {{ content | safe }}
-        <h2>Artwork</h2>
+        <h3 class="title">Artworks</h3>
+        <div class="card-group">
         {%  set sortedContributors = collections.contribution | sortContributions %}
         {% for post in sortedContributors %}
           {% if post.data.type == "artwork" %}
-            <p><a href="{{ post.url }}">{{ post.data.title }}</a>{{ post.data.type }}</p>
+            <a class="card" href="{{ post.url }}">
+              {% if post.data.thumb %}
+                <img src="{{ post.data.thumb | url }}" alt="{{ post.data.title }}">
+              {% endif %}
+                <p>{{ post.data.title }}</p>
+            </a>
           {% endif %}
         {% endfor %}
-        <h2>Paper</h2>
-        {% for post in sortedContributors %}
-          {% if post.data.type == "paper" %}
-            <p><a href="{{ post.url }}">{{ post.data.title }}</a>{{ post.data.type }}</p>
-          {% endif %}
-        {% endfor %}
-        <h2>Pictorial</h2>
-        {% for post in sortedContributors %}
-          {% if post.data.type == "pictorial" %}
-            <p><a href="{{ post.url }}">{{ post.data.title }}</a>{{ post.data.type }}</p>
-          {% endif %}
-        {% endfor %}
+        </div>
+        <h3 class="title">Papers</h3>
+        <div class="card-group">
+          {% for post in sortedContributors %}
+            {% if post.data.type == "paper" %}
+              <a class="card" href="{{ post.url }}">
+              {% if post.data.thumb %}
+                <img src="{{ post.data.thumb | url }}" alt="{{ post.data.title }}">
+              {% endif %}
+                <p>{{ post.data.title }}</p>
+              </a>
+            {% endif %}
+          {% endfor %}
+        </div>
+        <h3 class="title">Pictorials</h3>
+          <div class="card-group">
+          {% for post in sortedContributors %}
+            {% if post.data.type == "pictorial" %}
+              <a class="card" href="{{ post.url }}">
+              {% if post.data.thumb %}
+                <img src="{{ post.data.thumb | url }}" alt="{{ post.data.title }}">
+              {% endif %}
+                <p>{{ post.data.title }}</p>
+              </a>
+            {% endif %}
+          {% endfor %}
+        </div>
       </div>
     </div>
   </div>

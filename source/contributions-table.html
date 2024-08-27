@@ -13,12 +13,16 @@ th, td {
 tr:nth-child(even) {
     background: #ddd
 }
+img {
+    max-width: 100px;;
+}
 </style>
 
 <table border="1">
 <tr>
     <th>Sub.</th>
     <th>Title</th>
+    <th>Thumb</th>
     <th>Type</th>
     <th>Contributors</th>
     <th>Weblink</th>
@@ -28,6 +32,11 @@ tr:nth-child(even) {
     <tr>
         <td>{{ post.data.submission }}</td>
         <td><a href="{{ post.url }}">{{ post.data.title }}</a></td>
+        <td>
+            {% if post.data.thumb %}
+            <img src="{{ post.data.thumb  | url}}">
+            {% endif %}
+        </td>
         <td>{{ post.data.type }}</td>
         <td>
             <ul>

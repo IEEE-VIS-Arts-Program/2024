@@ -1,0 +1,13 @@
+/* hero.css */
+
+.wave-animation {
+    position: absolute;
+    top: 0;
+    width: 100vw;
+    height: 100vw;
+    z-index: -1;
+}
+
+.navbar {
+    background-color: transparent;
+}

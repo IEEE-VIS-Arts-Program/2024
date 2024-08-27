@@ -1,0 +1,43 @@
+/* footer.css */
+
+.footer {
+    margin: 0;
+    padding: 0 0 0 0;
+    font-family: reforma2018;
+    font-weight: 600;
+    font-size: 1.125em;
+    line-height: 1.75;
+    color: #8282FF;
+    background-color: transparent;
+}
+
+.footer .footer_head {
+    padding: 0;
+    background-image: url('../images/footer-wave.svg');
+    background-size: cover;
+    background-position: 0;
+}
+
+.footer .footer_head::before {
+    display: block;
+    content: '';
+    padding-bottom: 5%;
+}
+
+.footer .footer_body {
+    padding: 4em 0;
+    margin: 0;
+    background-color: #fef1f1;    
+}
+
+.footer .columns {
+    margin: 0;
+}
+
+.footer a {
+    color: #8282FF;
+}
+
+.footer h4 {
+    font-weight: 800;
+}

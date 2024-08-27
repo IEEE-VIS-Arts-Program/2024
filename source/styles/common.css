@@ -1,78 +1,46 @@
+/* common.css */
+
 html {
-    background-color: #1682E5;
+    background-color: rgb(230, 218, 218);
 }
 
 body {
-    font-family: reforma2018;
-    background: linear-gradient(to bottom, #1682E5 0 ,#1682E5 60px, #FEEAFD 260px, #FEEAFD 100%);
-    min-height: 100vh;
+    /* background-color: #ffe8e8; */
 }
 
-.content a {
-   color: #F551EA;
-}
+#visap24-lockup {
+    max-width: 490px;
+}    
 
-.content a:hover {
-    color: #FFFFFF;
-    background-color: #F551EA;
-    outline: 4px solid #F551EA;
+.section {
+    margin: 0 auto;
+    max-width: 1400px;
 }
 
 hr {
-    background-color: rgb(219,219,219);
+    background-color: #999999;
     height: 1px;
 }
 
-.navbar.is-fixed-top {
-  color: #FDDCFB;
-  background-color: #1682E5;
+.content h1, .content h2 {
+    font-family: ancho;
+    font-size: 1.875em;
+    line-height: 2.25em;
+    font-weight: 800;
+    color: #471a5c;
 }
 
-@media screen and (max-width: 1023px) {
-    .navbar-menu {
-        background-color: #1682E5;
-        box-shadow: 0 8px 16px rgba(10, 10, 10, 0.1);
-        padding: 0.5rem 0;
-    }
-}
-
-a.navbar-item {
-    color: #FDDCFB;
-    background-color: #1682E5;
-}
-
-a.navbar-item:hover {
-    color: #FDDCFB;
-    background-color: #48195C;
-}
-
-.navbar-brand {
-    font-family: ancho !important;
+.content h3, h3.title {
+    font-family: ancho;
+    font-size: 1.125em;
+    line-height: 2.25em;
     font-weight: 200;
-    color: #FDDCFB;
+    color: #471a5c;
 }
 
-.navbar-brand a {
-    color: #FDDCFB;
-}
-
-.navbar-brand a:hover {
-    color: #FDDCFB;
-    background-color: #48195C;
-}
-
-.navbar-burger span {
-    background-color: #FDDCFB;
-}
-
-.hero {
-    background: linear-gradient(0deg, #FEEAFD 0%, #1682E5 65%, #1682E5 100%);
-}
-
-.footer {
-    background: linear-gradient(0deg, #A2CDF5 0%, #FEEAFD 100%);
-}
-
-.footer h4 {
-    font-weight: bold;
+.content p {
+    font-family: reforma1918;
+    font-size: 18pt;
+    line-height: 24pt;
+    color: #471a5c;
 }

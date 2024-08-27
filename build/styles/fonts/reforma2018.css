@@ -1,44 +1,42 @@
-/*
 @font-face {
     font-family: 'reforma2018';
-    src: url('fonts/reforma2018blanca-webfont.woff2') format('woff2'),
-         url('fonts/reforma2018blanca-webfont.woff') format('woff');
-    font-weight: normal;
+    src: url('reforma2018blanca.woff2') format('woff2'),
+         url('reforma2018blanca.woff') format('woff');
+    font-weight: 400;
     font-style: normal;
 }
 @font-face {
     font-family: 'reforma2018';
-    src: url('fonts/reforma2018blancaitalica-webfont.woff2') format('woff2'),
-         url('fonts/reforma2018blancaitalica-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: italic;
-}
-*/
-@font-face {
-    font-family: 'reforma2018';
-    src: url('fonts/reforma2018gris-webfont.woff2') format('woff2'),
-         url('fonts/reforma2018gris-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'reforma2018';
-    src: url('fonts/reforma2018grisitalica-webfont.woff2') format('woff2'),
-         url('fonts/reforma2018bgrisitalica-webfont.woff') format('woff');
-    font-weight: normal;
+    src: url('reforma2018blancaitalica.woff2') format('woff2'),
+         url('reforma2018blancaitalica.woff') format('woff');
+    font-weight: 400;
     font-style: italic;
 }
 @font-face {
     font-family: 'reforma2018';
-    src: url('fonts/reforma2018negra-webfont.woff2') format('woff2'),
-         url('fonts/reforma2018negra-webfont.woff') format('woff');
-    font-weight: bold;
+    src: url('reforma2018gris.woff2') format('woff2'),
+         url('reforma2018gris.woff') format('woff');
+    font-weight: 600;
     font-style: normal;
 }
 @font-face {
     font-family: 'reforma2018';
-    src: url('fonts/reforma2018negraitalica-webfont.woff2') format('woff2'),
-         url('fonts/reforma2018negraitalica-webfont.woff') format('woff');
-    font-weight: bold;
+    src: url('reforma2018grisitalica.woff2') format('woff2'),
+         url('reforma2018bgrisitalica.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'reforma2018';
+    src: url('reforma2018negra.woff2') format('woff2'),
+         url('reforma2018negra.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'reforma2018';
+    src: url('reforma2018negraitalica.woff2') format('woff2'),
+         url('reforma2018negraitalica.woff') format('woff');
+    font-weight: 800;
     font-style: italic;
 }
