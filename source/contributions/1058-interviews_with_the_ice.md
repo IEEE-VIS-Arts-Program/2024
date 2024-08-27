@@ -4,7 +4,7 @@ layout: contribution-item
 type: artwork
 submission: 1058
 title: "Interviews with the Ice: Art and Science"
-thumb: "/images/1058-interviews_with_the_ice-thumb.jpg"
+thumb: "1058-interviews_with_the_ice-thumb.jpg"
 contributors: 
 - name: Francesca Samsel
   affiliation: University of Texas at Austin
@@ -12,13 +12,20 @@ contributors:
 - name: Benjamin Keisling
   affiliation: The University of Texas Institute for Geophysics (UTIG), University of Texas at Austin
   location: Austin, Texas, United States
----
+images: 
+  - src: 1058-interviews_with_the_ice-4_Panel5_detail.jpg
+    alt: "alt text"
+    style: "grid-column: span 2; grid-row: span 4;"
+  - src: 1058-interviews_with_the_ice-1_Front_5_panel.jpg
+    alt: "alt text"
+  - src: 1058-interviews_with_the_ice-2_Angled5Panel.jpg
+    alt: "alt text"
+  - src: 1058-interviews_with_the_ice-3_Panel_1-3.jpg
+    alt: "alt text"
+  - src: 1058-interviews_with_the_ice-5_panel4F_.jpg
+    alt: "alt text"
 
-![alt text](/images/1058-interviews_with_the_ice-1_Front_5_panel.jpg) 
-![alt text](/images/1058-interviews_with_the_ice-2_Angled5Panel.jpg) 
-![alt text](/images/1058-interviews_with_the_ice-3_Panel_1-3.jpg) 
-![alt text](/images/1058-interviews_with_the_ice-4_Panel5_detail.jpg) 
-![alt text](/images/1058-interviews_with_the_ice-5_panel4F_.jpg) 
+---
 
 "Interviews with the Ice", an art science collaboration is an
 installation made up of five columns, each representing a point in time

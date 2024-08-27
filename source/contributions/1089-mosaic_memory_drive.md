@@ -4,19 +4,26 @@ layout: contribution-item
 type: artwork
 submission: 1089
 title: "Mosaic Memory Drive"
-thumb: "/images/1089-mosaic_memory_drive-thumb.jpg"
+thumb: "1089-mosaic_memory_drive-thumb.jpg"
 weblink: "https://youtu.be/7kQUH994bhI?si=sK2V2Fl9ZauE2iVs"
 contributors: 
 - name: Ignacio Pérez-Messina
   affiliation: TU Wien, Institute of Visual Computing and Human-Centered Technology
   location: Vienna, Austria
----
+images: 
+  - src: 1089-mosaic_memory_drive-visap_images2.jpg
+    alt: "alt text"
+    full: true
+  - src: 1089-mosaic_memory_drive-visap_images.jpg
+    alt: "alt text"
+  - src: 1089-mosaic_memory_drive-visap_images5.jpg
+    alt: "alt text"
+  - src: 1089-mosaic_memory_drive-visap_images3.jpg
+    alt: "alt text"
+  - src: 1089-mosaic_memory_drive-visap_images4.jpg
+    alt: "alt text"
 
-![alt text](/images/1089-mosaic_memory_drive-visap_images.jpg) 
-![alt text](/images/1089-mosaic_memory_drive-visap_images2.jpg) 
-![alt text](/images/1089-mosaic_memory_drive-visap_images3.jpg) 
-![alt text](/images/1089-mosaic_memory_drive-visap_images4.jpg) 
-![alt text](/images/1089-mosaic_memory_drive-visap_images5.jpg)
+---
 
 Self-tracking data may be the most massive and pervasive type of data,
 often in a format not usually recognized as such: photos. Digital
@@ -50,4 +57,3 @@ Memory Drive is thus a process of encryption and decryption itself. The
 technique can also be used to encode space-filling and pixel-based
 visualizations into images, supporting the creation of novel data-driven
 narratives.
-

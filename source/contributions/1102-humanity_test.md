@@ -4,7 +4,7 @@ layout: contribution-item
 type: paper
 submission: 1102
 title: "Humanity Test — EEG Data Mediated Artificial Intelligence Multiplayer Interactive System"
-thumb: "/images/1102-humanity_test-thumb.jpg"
+thumb: "1102-humanity_test-thumb.jpg"
 weblink: "https://youtu.be/iiCw3mZ2dOU?si=Vgv-o1P5N8aVZAHK"
 contributors: 
 - name: Fang Fang
@@ -13,9 +13,12 @@ contributors:
 - name: 
   affiliation: 
   location: 
+images: 
+- src: 1102-humanity_test-thumb.jpg
+  alt: "alt text"
+  full: true
+  
 ---
-
-![alt text](/aimges/1102-humanity_test-thumb.jpg)
 
 Artificial Intelligence (AI) systems are increasingly prevalent in
 everyday life and across various sectors, notably intelligent
@@ -40,5 +43,3 @@ of the human-machine boundary but also encourages empathic interactions
 among users. Based on these findings, EEG data as a medium shows a
 promising potential to enrich interactive experiences, providing new
 insights into integrating technology with human emotions.
-
-

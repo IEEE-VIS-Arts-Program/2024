@@ -8,10 +8,6 @@ body {
     /* background-color: #ffe8e8; */
 }
 
-#visap24-lockup {
-    max-width: 490px;
-}    
-
 .section {
     margin: 0 auto;
     max-width: 1400px;
@@ -22,15 +18,23 @@ hr {
     height: 1px;
 }
 
-.content h1, .content h2 {
+.content h1 {
     font-family: ancho;
     font-size: 1.875em;
+    line-height: 1;
+    font-weight: 800;
+    color: #471a5c;
+}
+
+.content h2 {
+    font-family: ancho;
+    font-size: 1.125em;
     line-height: 2.25em;
     font-weight: 800;
     color: #471a5c;
 }
 
-.content h3, h3.title {
+.content h3 {
     font-family: ancho;
     font-size: 1.125em;
     line-height: 2.25em;

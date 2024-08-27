@@ -4,7 +4,7 @@ layout: contribution-item
 type: artwork
 submission: 1004
 title: "EchoVision"
-thumb: "/images/1004-echovision-thumb.jpg"
+thumb: "1004-echovision-thumb.jpg"
 weblink: "https://vimeo.com/955577972"
 contributors: 
 - name: Botao Amber Hu
@@ -25,14 +25,20 @@ contributors:
 - name: Yilan Elan Tao
   affiliation: Reality Design Lab
   location: New York, New York, United States
+images: 
+- src: 1004-echovision-ar_30.jpg 
+  alt: "alt text" 
+  full: true
+- src: 1004-echovision-01_bat_bridge.jpg 
+  alt: "alt text" 
+- src: 1004-echovision-ar.jpg 
+  alt: "alt text" 
+- src: 1004-echovision-vis24k-sub1004-i7.jpg 
+  alt: "alt text" 
+- src: 1004-echovision-vis24k-sub1004-i9.jpg 
+  alt: "alt text" 
+
 ---
-
-![alt text](/images/1004-echovision-01_bat_bridge.jpg) 
-![alt text](/images/1004-echovision-ar_30.jpg) 
-![alt text](/images/1004-echovision-ar.jpg) 
-![alt text](/images/1004-echovision-vis24k-sub1004-i7.jpg) 
-![alt text](/images/1004-echovision-vis24k-sub1004-i9.jpg)
-
 
 "EchoVision" is an immersive art installation that allows participants
 to experience the world of bats using sound visualization and mixed

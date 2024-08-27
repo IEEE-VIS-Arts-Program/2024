@@ -4,23 +4,34 @@ layout: contribution-item
 type: artwork
 submission: 1039
 title: "Transferscope — Synthesized Reality: Sample anything. Transform everything."
-thumb: "/images/1039-transferscope-thumb.jpg"
+thumb: "1039-transferscope-thumb.jpg"
 weblink: "https://vimeo.com/929277009"
 contributors: 
 - name: Christopher Pietsch
   affiliation: AI+Design Lab, University of Design Schwäbisch Gmünd
   location: Schwäbisch Gmünd, Germany
----
+images: 
+  - src: 1039-transferscope-steps.jpg
+    alt: "alt text"
+    full: true
+  - src: 1039-transferscope-action1.jpg
+    alt: "alt text"
+  - src: 1039-transferscope-action2.jpg
+    alt: "alt text"
+  - src: 1039-transferscope-action3.jpg
+    alt: "alt text"
+  - src: 1039-transferscope-chris.jpg
+    alt: "alt text"
+  - src: 1039-transferscope-components.jpg
+    alt: "alt text"
+  - src: 1039-transferscope-dev.jpg
+    alt: "alt text"
+  - src: 1039-transferscope-keyvisual.jpg
+    alt: "alt text"
+  - src: 1039-transferscope-transferscope-three.jpg
+    alt: "alt text"
 
-![alt text](/images/1039-transferscope-action1.jpg) 
-![alt text](/images/1039-transferscope-action2.jpg) 
-![alt text](/images/1039-transferscope-action3.jpg) 
-![alt text](/images/1039-transferscope-chris.jpg) 
-![alt text](/images/1039-transferscope-components.jpg) 
-![alt text](/images/1039-transferscope-dev.jpg) 
-![alt text](/images/1039-transferscope-keyvisual.jpg) 
-![alt text](/images/1039-transferscope-steps.jpg) 
-![alt text](/images/1039-transferscope-transferscope-three.jpg)
+---
 
 Transferscope is an interactive installation that lets users explore and
 reflect the implications of generative artificial intelligence on our
@@ -39,4 +50,3 @@ insights into the nature of visual data. This installation facilitates
 also reflecting on the ethical and cultural implications of data set
 curation for the aesthetic characteristics of current generative AI
 models.
-

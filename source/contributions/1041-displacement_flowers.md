@@ -4,26 +4,39 @@ layout: contribution-item
 type: artwork
 submission: 1041
 title: "Displacement Flowers: Visualizaing global human displacment due to natural disasters"
-thumb: "/images/1041-displacement_flowers-thumb.png"
+thumb: "1041-displacement_flowers-thumb.png"
 weblink: "https://vimeo.com/953616089"
 contributors: 
 - name: Elizabeth McCaffrey
   affiliation: Khoury College of Computer Sciences/College of Arts Media and Design, Northeastern University
   location: Boston, Massachusetts, United States
+images: 
+  - src: 1041-displacement_flowers-algeria.jpg
+    alt: "alt text"
+    key: true
+  - src: 1041-displacement_flowers-angola.jpg
+    alt: "alt text"
+  - src: 1041-displacement_flowers-canada.jpg
+    alt: "alt text"
+  - src: 1041-displacement_flowers-chile.jpg
+    alt: "alt text"
+  - src: 1041-displacement_flowers-fiji.jpg
+    alt: "alt text"
+  - src: 1041-displacement_flowers-greece.jpg
+    alt: "alt text"
+  - src: 1041-displacement_flowers-guatemala.jpg
+    alt: "alt text"
+  - src: 1041-displacement_flowers-japan.jpg
+    alt: "alt text"
+  - src: 1041-displacement_flowers-mexico.jpg
+    alt: "alt text"
+  - src: 1041-displacement_flowers-papua_new_guinea.jpg
+    alt: "alt text"
+  - src: 1041-displacement_flowers-united_kingdom.jpg
+    alt: "alt text"
+  - src: 1041-displacement_flowers-vietnam.jpg
+    alt: "alt text"
 ---
-
-![alt text](/images/1041-displacement_flowers-algeria.jpg) 
-![alt text](/images/1041-displacement_flowers-angola.jpg) 
-![alt text](/images/1041-displacement_flowers-canada.jpg) 
-![alt text](/images/1041-displacement_flowers-chile.jpg) 
-![alt text](/images/1041-displacement_flowers-fiji.jpg) 
-![alt text](/images/1041-displacement_flowers-greece.jpg) 
-![alt text](/images/1041-displacement_flowers-guatemala.jpg) 
-![alt text](/images/1041-displacement_flowers-japan.jpg) 
-![alt text](/images/1041-displacement_flowers-mexico.jpg) 
-![alt text](/images/1041-displacement_flowers-papua_new_guinea.jpg) 
-![alt text](/images/1041-displacement_flowers-united_kingdom.jpg) 
-![alt text](/images/1041-displacement_flowers-vietnam.jpg)
 
 One of the pressing consequences of carbon-fueled climate change is its
 direct link to causing various forms of natural disasters. These
@@ -39,4 +52,3 @@ world's inhabitants.
 This visualization was created in order to showcase the impact of
 natural disasters and the need for climate reform globally in an
 aesthetically beautiful, and interpretable, way.
-

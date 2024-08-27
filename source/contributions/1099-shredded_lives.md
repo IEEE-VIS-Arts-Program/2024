@@ -4,7 +4,7 @@ layout: contribution-item
 type: pictorial
 submission: 1099
 title: "Design Process of 'Shredded Lives': An Illustrated Exploration"
-thumb: "/images/1099-shredded_lives-thumb.png"
+thumb: "1099-shredded_lives-thumb.png"
 contributors: 
 - name: Foroozan Daneshzand
   affiliation: Simon fraser university
@@ -15,12 +15,18 @@ contributors:
 - name: Sheelagh Carpendale
   affiliation: Simon Fraser University
   location: Burnaby, British Columbia, Canada
----
+images: 
+  - src: 1099-shredded_lives-figure_7-zoom_3.jpg
+    alt: "alt text"
+    full: true
+  - src: 1099-shredded_lives-figure_9-_zoom_5.jpg
+    alt: "alt text"
+  - src: 1099-shredded_lives-figure_10-_the_5_piece_manifestation.jpg
+    alt: "alt text"
+  - src: 1099-shredded_lives-figure_8-_zoom_4.jpg
+    alt: "alt text"
 
-![alt text](/images/1099-shredded_lives-figure_7-zoom_3.jpg) 
-![alt text](/images/1099-shredded_lives-figure_8-_zoom_4.jpg) 
-![alt text](/images/1099-shredded_lives-figure_9-_zoom_5.jpg) 
-![alt text](/images/1099-shredded_lives-figure_10-_the_5_piece_manifestation.jpg) 
+---
 
 This pictorial illustrates an autoethnographic exploration of my design
 practice for the data physicalization "Shredded Lives: A Decade of

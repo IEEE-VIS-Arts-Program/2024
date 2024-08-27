@@ -4,7 +4,7 @@ layout: contribution-item
 type: pictorial
 submission: 1047
 title: "A Perfect Storm"
-thumb: "/images/1047-a_perfect_storm-thumb.jpg"
+thumb: "1047-a_perfect_storm-thumb.jpg"
 weblink: "https://vimeo.com/901381287"
 contributors: 
 - name: Chloe Hudson Prock
@@ -16,9 +16,11 @@ contributors:
 - name: Gregory Gold 
   affiliation: College of Arts Media and Design, Northeastern University
   location: Boston, Massachusetts, United States
----
+- src: 1047-a_perfect_storm-thumb.jpg
+  alt: "alt text"
+  full: true
 
-![alt text](/images/1047-a_perfect_storm-thumb.jpg)
+---
 
 In the face of pressing global issues like climate change, data
 visualization is a powerful tool for making sense of complexity. With
@@ -28,4 +30,3 @@ considers the emotional responses that the topic can trigger. Through a
 metaphorical approach of visually juxtaposing countries' climate risk
 with their climate responsibility, we encourage critical reflection on
 the human experience and inequities of climate change related loss.
-

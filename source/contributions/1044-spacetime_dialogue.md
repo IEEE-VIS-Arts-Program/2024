@@ -4,7 +4,7 @@ layout: contribution-item
 type: paper
 submission: 1044
 title: "Spacetime Dialogue: Integrating Astronomical Data and Khoomei in Spatial Installation"
-thumb: "/images/1044-spacetime_dialogue-thumb.jpg"
+thumb: "1044-spacetime_dialogue-thumb.jpg"
 contributors: 
 - name: Fiona You Wang
   affiliation: The Hong Kong University of Science and Technology
@@ -21,9 +21,12 @@ contributors:
 - name: Rose Liu
   affiliation: Washington University in St.Louis
   location: St.Louis, Missouri, United States
----
+images: 
+- src: /1044-spacetime_dialogue-thumb.jpg
+  alt: "alt text"
+  full: true
 
-![alt text](/images/1044-spacetime_dialogue-thumb.jpg)
+---
 
 As advanced technology reshapes our perception, the dialogue between
 humans and the universe undergoes a transformative shift. Understanding
@@ -43,4 +46,3 @@ and materializes them into tangible entities. By immersing observers in
 the spatial representation of this dialogue, we offer a profound
 experience of humanity's evolving relationship with the universe within
 the fluidity of spacetime.
-

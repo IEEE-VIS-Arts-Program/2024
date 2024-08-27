@@ -4,7 +4,7 @@ layout: contribution-item
 type: pictorial
 submission: 1077
 title: "City Pulse: Revealing City Identity Through Abstraction of Metro Lines"
-thumb: "/images/1077-city_pulse-thumb.jpg"
+thumb: "1077-city_pulse-thumb.jpg"
 weblink: "https://youtu.be/ShhqOakr7BE?si=we3FhuRwkV5giaIV"
 contributors: 
 - name: Xinyue Chen
@@ -28,9 +28,12 @@ contributors:
 - name: Xiaoru Yuan
   affiliation: Peking University
   location: Beijing, China
----
+images:
+- src: 1077-city_pulse-thumb.jpg
+  alt: "alt text"
+  full: true
 
-![alt text](/images/1077-city_pulse-thumb.jpg)
+---
 
 Metro systems are the pulsing veins of cities, traversing the city's
 texture and preserving the memory of urban life. Visualizing invisible
@@ -45,4 +48,3 @@ development are revealed. Moreover, the colorful global metro map
 efficiently portrays the diversity and evolution of metro lines
 worldwide. With this pictorial we narrate the design process and our
 reflections along the project.
-

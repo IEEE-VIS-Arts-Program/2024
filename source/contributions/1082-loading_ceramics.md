@@ -4,7 +4,7 @@ layout: contribution-item
 type: pictorial
 submission: 1082
 title: "Loading Ceramics: Visualising Possibilities of Robotics in Ceramics"
-thumb: "/images/1082-loading_ceramics-thumb.jpg"
+thumb: "1082-loading_ceramics-thumb.jpg"
 contributors: 
 - name: Varvara Guljajeva
   affiliation: Computational Media and Arts, Hong Kong University of Science and Technology
@@ -21,9 +21,12 @@ contributors:
 - name: Kaiko Kivi
   affiliation: Faculty of Architecture / 3DL, Estonian Academy of Arts
   location: Tallinn, Estonia
----
+images:
+- src: 1082-loading_ceramics-thumb.jpg
+  alt: "alt text"
+  full: true
 
-![alt text](/images/1082-loading_ceramics-thumb.jpg)
+---
 
 This article introduces an artistic research project that utilises
 artist-in-residency and exhibition as methods for exploring the
@@ -42,6 +45,3 @@ project\'s focus extends beyond artistic outcomes, aiming also to
 advance the pipeline of 3D robotic printing in clay, employing a
 digitally controlled material press that has been developed in-house,
 with its functionality refined through practice.
-
-
-

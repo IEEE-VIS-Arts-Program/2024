@@ -1,5 +1,13 @@
 /* hero.css */
 
+.hero-body {
+    margin-top: 20vw;
+}
+
+.hero-body a {
+    color: #000;
+}
+
 .wave-animation {
     position: absolute;
     top: 0;

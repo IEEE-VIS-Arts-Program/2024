@@ -12007,10 +12007,6 @@ body {
     /* background-color: #ffe8e8; */
 }
 
-#visap24-lockup {
-    max-width: 490px;
-}    
-
 .section {
     margin: 0 auto;
     max-width: 1400px;
@@ -12021,15 +12017,23 @@ hr {
     height: 1px;
 }
 
-.content h1, .content h2 {
+.content h1 {
     font-family: ancho;
     font-size: 1.875em;
+    line-height: 1;
+    font-weight: 800;
+    color: #471a5c;
+}
+
+.content h2 {
+    font-family: ancho;
+    font-size: 1.125em;
     line-height: 2.25em;
     font-weight: 800;
     color: #471a5c;
 }
 
-.content h3, h3.title {
+.content h3 {
     font-family: ancho;
     font-size: 1.125em;
     line-height: 2.25em;
@@ -12080,6 +12084,14 @@ a.navbar-item:hover {
 
 /* hero.css */
 
+.hero-body {
+    margin-top: 20vw;
+}
+
+.hero-body a {
+    color: #000;
+}
+
 .wave-animation {
     position: absolute;
     top: 0;
@@ -12114,6 +12126,13 @@ h3.title {
     margin-bottom: 3em;
 }
 
+.content p.content-type {
+    font-family: reforma2018;
+    font-size: 0.875em;
+    font-weight: 600;
+    line-height: 1.125em;
+    color: #471a5c;
+}
 .content p.byline {
     font-family: reforma2018;
     font-size: 0.875em;
@@ -12234,6 +12253,43 @@ p.secondary {
 .card:hover {
     color: #ffffff;
     background-color:#471a5c;
+}
+
+.image-grid {
+    margin: 2em 0 4em 0;
+    box-sizing: border-box;
+}
+
+.image-grid img {
+    width: 100%;
+    height: auto;
+}
+
+@media screen and (min-width: 900px) {
+    .image-grid {
+        width: 100%;
+        display: grid;
+        gap: 15px;
+        grid-template-columns: repeat(4, 1fr);
+    }
+    .grid-focus {
+        grid-column: span 2;
+        grid-row: span 2;
+    }
+    .grid-full {
+        grid-column: span 4;
+    }
+}
+@media screen and (max-width: 900px) {
+    .image-grid {
+        width: 100%;
+        display: grid;
+        gap: 15px;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .grid-focus {
+        grid-column: span 2;
+    }
 }
 /* footer.css */
 

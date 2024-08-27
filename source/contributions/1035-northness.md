@@ -4,7 +4,7 @@ layout: contribution-item
 type: pictorial
 submission: 1035
 title: '"Northness": Poetic Visualization of Data Infrastructure Inequality'
-thumb: "/images/1035-northness-thumb.jpg"
+thumb: "1035-northness-thumb.jpg"
 weblink: "https://youtu.be/IR1iZSixl54"
 contributors: 
 - name: Luiz Ludwig
@@ -13,9 +13,11 @@ contributors:
 - name: Doris Kosminsky School of Fine Arts
   affiliation: Universidade Federal do Rio de Janeiro 
   location: Rio de Janeiro, Brazil
+images: 
+- src: 1035-northness-thumb.jpg
+  alt: "alt text"
+  full: true
 ---
-
-![alt text](/images/1035-northness-thumb.jpg)
 
 "Northness" is an installation that maps the latitudes of the servers
 that host the most popular websites in Brazil. Composed of

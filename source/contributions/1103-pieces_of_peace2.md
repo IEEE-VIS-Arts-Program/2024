@@ -4,7 +4,7 @@ layout: contribution-item
 type: artwork
 submission: 1103
 title: "Pieces of Peace: Women and Gender in Peace Agreements"
-thumb: "/images/1103-pieces_of_peace2-thumb.png"
+thumb: "1103-pieces_of_peace2-thumb.png"
 contributors: 
 - name: Jinrui Wang
   affiliation: The School of Informatics, The University of Edinburgh
@@ -27,13 +27,21 @@ contributors:
 - name: Uta Hinrichs
   affiliation: School of Informatics, University of Edinburgh
   location: Edinburgh, United Kingdom
+images: 
+  - src: 1103-pieces_of_peace2-fig2_an_overview_of_the_9_peace_agreements_installed.jpg
+    alt: "alt text"
+    full: true
+  - src: 1103-pieces_of_peace2-fig5_debossing_close_up.jpg
+    alt: "alt text"
+    full: true
+  - src: 1103-pieces_of_peace2-fig4_peace_agreements_with_light_torch.jpg
+    alt: "alt text"
+  - src: 1103-pieces_of_peace2-fig1_a_peace_agreement_(id848)_from_the_afghanistan_2000s_post-intervention_process.jpg
+    alt: "alt text"
+  - src: 1103-pieces_of_peace2-fig3_final_text_and_expression_choice.jpg
+    alt: "alt text"
+    
 ---
-
-![alt text](/images/1103-pieces_of_peace2-fig1_a_peace_agreement_(id848)_from_the_afghanistan_2000s_post-intervention_process.jpg) 
-![alt text](/images/1103-pieces_of_peace2-fig2_an_overview_of_the_9_peace_agreements_installed.jpg) 
-![alt text](/images/1103-pieces_of_peace2-fig3_final_text_and_expression_choice.jpg) 
-![alt text](/images/1103-pieces_of_peace2-fig4_peace_agreements_with_light_torch.jpg) 
-![alt text](/images/1103-pieces_of_peace2-fig5_debossing_close_up.jpg) 
 
 With armed conflicts and wars continuing to occur globally, peace has
 been an enduring and crucial concern. In the efforts to resolve these
@@ -43,4 +51,3 @@ acknowledged or addressed in peace agreements. Using debossing, we
 physicalize the mentions of women and gender in these agreements as a
 means to increase awareness and recognition of these suffered but
 often-overlooked crowds.
-

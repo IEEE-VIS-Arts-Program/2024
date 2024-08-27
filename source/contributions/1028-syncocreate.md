@@ -4,7 +4,7 @@ layout: contribution-item
 type: artwork
 submission: 1028
 title: "SynCocreate: Fostering Interpersonal Connectedness via Brainwave-Driven Co-creation in Virtual Reality"
-thumb: "/images/1028-syncocreate-thumb.jpg"
+thumb: "1028-syncocreate-thumb.jpg"
 weblink: "https://vimeo.com/912243880"
 contributors: 
 - name: Xin Feng
@@ -13,14 +13,21 @@ contributors:
 - name: Tiange Wang
   affiliation: VLab, Independent Designer
   location: Cambridge, Massachusetts, United States
+images: 
+  - src: 1028-syncocreate-Representative_1.jpg
+    alt: "alt text"
+    full: true
+  - src: 1028-syncocreate-Representative_2.jpg
+    alt: "alt text"
+    key: true
+  - src: 1028-syncocreate-Sync_Art_1.jpg
+    alt: "alt text"
+  - src: 1028-syncocreate-Sync_Art_2.jpg
+    alt: "alt text"
+  - src: 1028-syncocreate-Typologies.jpg
+    alt: "alt text"
+
 ---
-
-![alt text](/images/1028-syncocreate-Representative_1.jpg) 
-![alt text](/images/1028-syncocreate-Representative_2.jpg) 
-![alt text](/images/1028-syncocreate-Sync_Art_1.jpg) 
-![alt text](/images/1028-syncocreate-Sync_Art_2.jpg) 
-![alt text](/images/1028-syncocreate-Typologies.jpg)
-
 
 Collaborative art and co-creation enhance social well-being and
 connectivity. However, the combination of art creation through mutual

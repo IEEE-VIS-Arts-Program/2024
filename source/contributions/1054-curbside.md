@@ -4,18 +4,25 @@ layout: contribution-item
 type: artwork
 submission: 1054
 title: "Curbside"
-thumb: "/images/1054-curbside-thumb.jpg"
+thumb: "1054-curbside-thumb.jpg"
 contributors: 
 - name: Karly Ross
   affiliation: University of Calgary
   location: Calgary, Alberta, Canada
----
+images: 
+  - src: 1054-curbside-1-117.jpg
+    alt: "alt text"
+    full: true
+  - src: 1054-curbside-1-80.jpg
+    alt: "alt text"
+  - src: 1054-curbside-1-81.jpg
+    alt: "alt text"
+  - src: 1054-curbside-1-90.jpg
+    alt: "alt text"
+  - src: 1054-curbside-1-92.jpg
+    alt: "alt text"
 
-![alt text](/images/1054-curbside-1-80.jpg) 
-![alt text](/images/1054-curbside-1-81.jpg) 
-![alt text](/images/1054-curbside-1-90.jpg) 
-![alt text](/images/1054-curbside-1-92.jpg) 
-![alt text](/images/1054-curbside-1-117.jpg) 
+---
 
 Abstract: Curbside is a personal exploration of (dis)ability and
 (im)mobility in wintertime Calgary. I use textiles, texts, and
@@ -29,4 +36,3 @@ embodies how different forms of data such as quantitative weather data,
 material traces, and personal stories can work together. Curbside also
 provides an example of how data art can incorporate highly personal
 experience to illuminate local systems in thoughtful ways.
-

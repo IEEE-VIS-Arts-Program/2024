@@ -4,19 +4,26 @@ layout: contribution-item
 type: artwork
 submission: 1068
 title: "Rage Against the Archive"
-thumb: "/images/1068-rage_against_the_archive-thumb.jpg"
+thumb: "1068-rage_against_the_archive-thumb.jpg"
 weblink: "https://youtu.be/9XWW8zewTNY?si=szAFgz8n2P6oQTUY"
 contributors: 
 - name: Anshul Roy
   affiliation: College of Visual and Performing Arts, Syracuse University
   location: Syracuse, New York, United States
----
+images: 
+  - src: 1068-rage_against_the_archive-performance_lecture_2023_su_zelikha_final.jpg
+    alt: "alt text"
+    full: true
+  - src: 1068-rage_against_the_archive-nypl_website_intervention_performance_act_common_space_syracuse_28_april_2022-7.jpg
+    alt: "alt text"
+  - src: 1068-rage_against_the_archive-nypl_website_intervention_performance_act_common_space_syracuse_28_april_2022-9.jpg
+    alt: "alt text"
+  - src: 1068-rage_against_the_archive-nypl_website_intervention_performance_act_common_space_syracuse_28_april_2022.jpg
+    alt: "alt text"
+  - src: 1068-rage_against_the_archive-performance_lecture_2023_su_zelikha_final-2.jpg
+    alt: "alt text"
 
-![alt text](/images/1068-rage_against_the_archive-nypl_website_intervention_performance_act_common_space_syracuse_28_april_2022-7.jpg) 
-![alt text](/images/1068-rage_against_the_archive-nypl_website_intervention_performance_act_common_space_syracuse_28_april_2022-9.jpg) 
-![alt text](/images/1068-rage_against_the_archive-nypl_website_intervention_performance_act_common_space_syracuse_28_april_2022.jpg) 
-![alt text](/images/1068-rage_against_the_archive-performance_lecture_2023_su_zelikha_final-2.jpg) 
-![alt text](/images/1068-rage_against_the_archive-performance_lecture_2023_su_zelikha_final.jpg) 
+---
 
 Rage Against the Archive is an artivist project comprising video,
 performance, and new media art that scrutinizes how the New York Public
@@ -64,4 +71,3 @@ decolonized digital archive where technology is harnessed to foster
 respect and care. I believe that digital archives, in some cases,
 instead of being harbingers of free knowledge, are just another way to
 amplify the camera's violence, and they must be raged against.
-

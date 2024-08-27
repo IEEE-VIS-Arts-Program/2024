@@ -4,7 +4,7 @@ layout: contribution-item
 type: artwork
 submission: 1014
 title: "Flags of Inequality"
-thumb: "/images/1014-flags_of_inequality-thumb.jpg"
+thumb: "1014-flags_of_inequality-thumb.jpg"
 contributors: 
 - name: Rita Costa
   affiliation: Independent
@@ -12,12 +12,19 @@ contributors:
 - name: Beatriz Malveiro
   affiliation: Independent
   location: Lisbon, Portugal
----
+images: 
+  - src: 1014-flags_of_inequality-still.jpg
+    alt: "alt text"
+    key: true
+  - src: 1014-flags_of_inequality-flags-grid.jpg
+    alt: "alt text"
+    key: true
+  - src: 1014-flags_of_inequality-italy.jpg
+    alt: "alt text"
+  - src: 1014-flags_of_inequality-portugal.jpg
+    alt: "alt text"
 
-![alt text](/images/1014-flags_of_inequality-flags-grid.jpg) 
-![alt text](/images/1014-flags_of_inequality-italy.jpg) 
-![alt text](/images/1014-flags_of_inequality-portugal.jpg) 
-![alt text](/images/1014-flags_of_inequality-still.jpg) 
+---
 
 Flags of Inequality is a physical data exhibit based on the digital
 project of the same name. This artwork is a collection of forty-nine

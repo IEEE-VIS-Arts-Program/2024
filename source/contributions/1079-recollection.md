@@ -69,4 +69,3 @@ experience. It offers an artistic approach and future prototype for
 cultural heritage reproduction and re-imagination and explores the
 tensions that exist in the co-relations between visual representations,
 language, and narratives.
-
