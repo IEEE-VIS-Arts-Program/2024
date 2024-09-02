@@ -4,7 +4,7 @@ layout: contribution-item
 type: artwork
 submission: 1078
 title: "BioRhythms: Artistic research with plants, real-time animation and sound"
-weblink: "https://youtu.be/Q5D8ABeS060?si=oHwwtxTeKzOOdPM6"
+url: "https://youtu.be/Q5D8ABeS060?si=oHwwtxTeKzOOdPM6"
 contributors: 
 - name: Rewa Wright
   affiliation: School of Creative Practice, Queensland University of Technology

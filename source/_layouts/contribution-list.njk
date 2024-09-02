@@ -10,11 +10,14 @@
 <body class="has-navbar-fixed-top">
 {% include "navbar.njk" %}
 <section class="section">
-  <div class="columns">
-    <div class="column is-8 is-offset-2">
-      <div class="content">
-        <h2 class="title">{{ title}}</h2>
-        {{ content | safe }}
+  <div class="column is-8 is-offset-2">
+    <div class="content">
+      <h2 class="title">{{ title}}</h2>
+      {{ content | safe }}
+    </div>
+  </div>  
+  <div class="column is-10 is-offset-1">
+    <div class="content">
         <h3 class="title">Artworks</h3>
         <div class="card-group">
         {%  set sortedContributors = collections.contribution | sortContributions %}
@@ -29,6 +32,10 @@
           {% endif %}
         {% endfor %}
         </div>
+    </div>
+  </div>  
+  <div class="column is-10 is-offset-1">
+    <div class="content">
         <h3 class="title">Papers</h3>
         <div class="card-group">
           {% for post in sortedContributors %}
@@ -42,6 +49,10 @@
             {% endif %}
           {% endfor %}
         </div>
+    </div>
+  </div>  
+  <div class="column is-10 is-offset-1">
+    <div class="content">
         <h3 class="title">Pictorials</h3>
           <div class="card-group">
           {% for post in sortedContributors %}
@@ -55,9 +66,8 @@
             {% endif %}
           {% endfor %}
         </div>
-      </div>
     </div>
-  </div>
+  </div>  
 </section>
 {% include "footer.njk" %}
 <script src="{{ '/scripts/scripts.js' | url }}"></script>

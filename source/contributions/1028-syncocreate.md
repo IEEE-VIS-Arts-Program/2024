@@ -5,7 +5,7 @@ type: artwork
 submission: 1028
 title: "SynCocreate: Fostering Interpersonal Connectedness via Brainwave-Driven Co-creation in Virtual Reality"
 thumb: "1028-syncocreate-thumb.jpg"
-weblink: "https://vimeo.com/912243880"
+url: "https://vimeo.com/912243880"
 contributors: 
 - name: Xin Feng
   affiliation: Independent Researcher

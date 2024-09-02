@@ -5,7 +5,7 @@ type: artwork
 submission: 1097
 title: "DataWagashi: Feeling Climate Data via New Design Medium"
 thumb: "1097-datawagashi-thumb.jpg"
-weblink: "https://vimeo.com/892809493/dae9f9db99"
+url: "https://vimeo.com/892809493/dae9f9db99"
 contributors: 
 - name: Tiange Wang
   affiliation: VLab

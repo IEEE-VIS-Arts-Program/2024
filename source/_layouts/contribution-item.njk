@@ -26,12 +26,24 @@
       </a>
       {% endif %}
   </header>
+  <div class="column is-8 is-offset-2">
+    <div class="content">
+      <h1>{{ title}}</h1>
+      <p class="byline">
+        <b>{{ type }}</b><br>
+        {% for contributor in contributors %}
+          {% if not loop.first %}, {% endif %}
+          {{ contributor.name }}
+        {% endfor %}<br>
+        {% if url %}
+        <a href="{{ url }}">{{ url }}</a>
+        {% endif %}
+      </p>
+    </div>
+  </div>
   <div class="columns">
-    <div class="column is-8 is-offset-2">
+    <div class="column is-10 is-offset-1">
       <div class="content">
-        <h1>{{ title}}</h1>
-        <p class="content-type">{{ type }}</p>
-        <p class="byline">byline</p>
         {% if images %}
           <div class="image-grid">
             {% for image in images %}
@@ -43,10 +55,16 @@
             {% endfor %}
           </div>
         {% endif %}
-        {{ content | safe }}
       </div>
     </div>
   </div>
+  <div class="columns">
+    <div class="column is-8 is-offset-2">
+      <div class="content">
+        {{ content | safe }}
+      </div>
+    </div>
+  </div>  
 </section>
 {% include "footer.njk" %}
 <script src="{{ '/scripts/scripts.js' | url }}"></script>

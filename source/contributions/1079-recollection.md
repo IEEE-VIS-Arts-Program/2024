@@ -4,7 +4,7 @@ layout: contribution-item
 type: artwork
 submission: 1079
 title: "ReCollection"
-weblink: "https://www.zhangweidi.com/recollection"
+url: "https://www.zhangweidi.com/recollection"
 contributors: 
 - name: weidi zhang
   affiliation: media and immersive experience center, Arizona State University 

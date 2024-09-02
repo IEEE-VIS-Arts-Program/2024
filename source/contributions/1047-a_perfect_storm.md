@@ -5,7 +5,7 @@ type: pictorial
 submission: 1047
 title: "A Perfect Storm"
 thumb: "1047-a_perfect_storm-thumb.jpg"
-weblink: "https://vimeo.com/901381287"
+url: "https://vimeo.com/901381287"
 contributors: 
 - name: Chloe Hudson Prock
   affiliation: College of Arts Media and Design, Northeastern University
@@ -16,6 +16,7 @@ contributors:
 - name: Gregory Gold 
   affiliation: College of Arts Media and Design, Northeastern University
   location: Boston, Massachusetts, United States
+images:
 - src: 1047-a_perfect_storm-thumb.jpg
   alt: "alt text"
   full: true

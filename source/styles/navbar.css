@@ -9,6 +9,11 @@
     background-color: #ffe8e8;
 }
 
+.navbar:hover {
+    background-color: rgb(230, 218, 218);
+}
+
+
 @media screen and (max-width: 1023px) {
     .navbar-menu {
         background-color: #ffe8e8;

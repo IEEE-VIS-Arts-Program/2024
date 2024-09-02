@@ -5,7 +5,7 @@ type: artwork
 submission: 1068
 title: "Rage Against the Archive"
 thumb: "1068-rage_against_the_archive-thumb.jpg"
-weblink: "https://youtu.be/9XWW8zewTNY?si=szAFgz8n2P6oQTUY"
+url: "https://youtu.be/9XWW8zewTNY?si=szAFgz8n2P6oQTUY"
 contributors: 
 - name: Anshul Roy
   affiliation: College of Visual and Performing Arts, Syracuse University
