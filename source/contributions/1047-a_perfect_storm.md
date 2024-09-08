@@ -18,7 +18,7 @@ contributors:
   location: Boston, Massachusetts, United States
 images:
 - src: 1047-a_perfect_storm-thumb.jpg
-  alt: "alt text"
+  alt: "Still from a video developed for large scale display, including a legend at the top left corner."
   full: true
 
 ---

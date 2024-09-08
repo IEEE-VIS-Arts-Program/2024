@@ -39,7 +39,8 @@ hr {
     font-size: 1.125em;
     line-height: 2.25em;
     font-weight: 200;
-    color: #471a5c;
+    /* color: #471a5c; */
+    /* color: #8282FF; */
 }
 
 .content p {

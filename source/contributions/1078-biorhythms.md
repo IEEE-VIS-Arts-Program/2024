@@ -4,11 +4,23 @@ layout: contribution-item
 type: artwork
 submission: 1078
 title: "BioRhythms: Artistic research with plants, real-time animation and sound"
+thumb: "1078-biorhythms-thumb.jpg"
 url: "https://youtu.be/Q5D8ABeS060?si=oHwwtxTeKzOOdPM6"
 contributors: 
 - name: Rewa Wright
   affiliation: School of Creative Practice, Queensland University of Technology
   location: Brisbane, Queensland, Australia
+images:
+- src: 1078-biorhythms-vis24k-sub1078-i8.jpg
+  alt: "alt text"
+  full: true
+- src: 1078-biorhythms-vis24k-sub1078-i7.jpg
+  alt: "alt text"
+  key: true
+- src: 1078-biorhythms-vis24k-sub1078-i9.jpg
+  alt: "alt text"
+  key: true
+
 ---
 
 In the video series 'Biological Rhythms', electrical signals generated

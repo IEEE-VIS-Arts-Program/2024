@@ -18,7 +18,7 @@ contributors:
   affiliation: School of Fine Arts, Universidade Federal do Rio de Janeiro
   location: Rio de Janeiro, Brazil
 - src: 1052-numerical_existence-thumb.jpg
-  alt: "alt text"
+  alt: "Woman helping a kid to write his name at Network of Us (2018)"
   full: true
 
 ---

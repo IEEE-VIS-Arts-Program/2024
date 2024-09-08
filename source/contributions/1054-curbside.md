@@ -11,16 +11,16 @@ contributors:
   location: Calgary, Alberta, Canada
 images: 
   - src: 1054-curbside-1-117.jpg
-    alt: "alt text"
+    alt: "Curbside in position at BRACKISH, view of full display."
     full: true
   - src: 1054-curbside-1-80.jpg
-    alt: "alt text"
+    alt: "Curbside on display during the BRACKISH exhibit"
   - src: 1054-curbside-1-81.jpg
-    alt: "alt text"
+    alt: "Curbside on display during the BRACKISH exhibit,"
   - src: 1054-curbside-1-90.jpg
-    alt: "alt text"
+    alt: "Curbside on display during the BRACKISH exhibit,"
   - src: 1054-curbside-1-92.jpg
-    alt: "alt text"
+    alt: "Curbside on display during the BRACKISH exhibit,"
 
 ---
 

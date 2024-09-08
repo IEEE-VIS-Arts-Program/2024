@@ -15,16 +15,16 @@ contributors:
   location: Cambridge, Massachusetts, United States
 images: 
   - src: 1097-datawagashi-DataWagashi_Ato_1.jpg
-    alt: "alt text"
+    alt: "DataWagashi set Ato (Carbon footprint in food production)"
     full: true
   - src: 1097-datawagashi-DataWagashi_Ato_2.jpg
-    alt: "alt text"
+    alt: "DataWagashi set Ato"
   - src: 1097-datawagashi-DataWagashi_Funka_1.jpg
-    alt: "alt text"
+    alt: "DataWagashi set Funka (Japanese volcanoes index)"
   - src: 1097-datawagashi-DataWagashi_Funka_2.jpg
-    alt: "alt text"
+    alt: "DataWagashi set Funka"
   - src: 1097-datawagashi-DataWagashi_KoriUmi_1.jpg
-    alt: "alt text"
+    alt: "DataWagashi set Kori Umi (Ocean heat, CO2 and Arctic Ice Mass changes)"
 
 ---
 

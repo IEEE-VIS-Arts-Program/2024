@@ -12,24 +12,24 @@ contributors:
   location: Schwäbisch Gmünd, Germany
 images: 
   - src: 1039-transferscope-steps.jpg
-    alt: "alt text"
+    alt: ""
     full: true
   - src: 1039-transferscope-action1.jpg
-    alt: "alt text"
+    alt: ""
   - src: 1039-transferscope-action2.jpg
-    alt: "alt text"
+    alt: ""
   - src: 1039-transferscope-action3.jpg
-    alt: "alt text"
+    alt: ""
   - src: 1039-transferscope-chris.jpg
-    alt: "alt text"
+    alt: ""
   - src: 1039-transferscope-components.jpg
-    alt: "alt text"
+    alt: ""
   - src: 1039-transferscope-dev.jpg
-    alt: "alt text"
+    alt: ""
   - src: 1039-transferscope-keyvisual.jpg
-    alt: "alt text"
+    alt: ""
   - src: 1039-transferscope-transferscope-three.jpg
-    alt: "alt text"
+    alt: ""
 
 ---
 

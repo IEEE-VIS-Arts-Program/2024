@@ -1,6 +1,8 @@
 ---
 title: "Home"
 layout: "home.njk"
+intro: "<p>The conference and exhibition will be held alongside <a href='https://ieeevis.org/year/2024/welcome'>IEEE VIS 2024</a> at TradeWinds Island Grand Beach Resort,  St. Pete Beach, Florida, 13&ndash;18 October 2024</p>"
+
 ---
 
 

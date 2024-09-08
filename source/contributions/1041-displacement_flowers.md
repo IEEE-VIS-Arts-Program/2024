@@ -12,30 +12,30 @@ contributors:
   location: Boston, Massachusetts, United States
 images: 
   - src: 1041-displacement_flowers-algeria.jpg
-    alt: "alt text"
+    alt: "Algeria"
     key: true
   - src: 1041-displacement_flowers-angola.jpg
-    alt: "alt text"
+    alt: "Angola"
   - src: 1041-displacement_flowers-canada.jpg
-    alt: "alt text"
+    alt: "Canada"
   - src: 1041-displacement_flowers-chile.jpg
-    alt: "alt text"
+    alt: "Chile"
   - src: 1041-displacement_flowers-fiji.jpg
-    alt: "alt text"
+    alt: "Fiji"
   - src: 1041-displacement_flowers-greece.jpg
-    alt: "alt text"
+    alt: "Greece"
   - src: 1041-displacement_flowers-guatemala.jpg
-    alt: "alt text"
+    alt: "Guatemala"
   - src: 1041-displacement_flowers-japan.jpg
-    alt: "alt text"
+    alt: "Japan"
   - src: 1041-displacement_flowers-mexico.jpg
-    alt: "alt text"
+    alt: "Mexico"
   - src: 1041-displacement_flowers-papua_new_guinea.jpg
-    alt: "alt text"
+    alt: "Papua New Guinea"
   - src: 1041-displacement_flowers-united_kingdom.jpg
-    alt: "alt text"
+    alt: "United Kingdom"
   - src: 1041-displacement_flowers-vietnam.jpg
-    alt: "alt text"
+    alt: "Vietnam"
 ---
 
 One of the pressing consequences of carbon-fueled climate change is its

@@ -12,13 +12,9 @@
 <section class="section">
   <div class="column is-8 is-offset-2">
     <div class="content">
-      <h2 class="title">{{ title}}</h2>
-      {{ content | safe }}
-    </div>
-  </div>  
-  <div class="column is-10 is-offset-1">
-    <div class="content">
+        <h2 class="title">{{ title}}</h2>
         <h3 class="title">Artworks</h3>
+      {{ content | safe }}
         <div class="card-group">
         {%  set sortedContributors = collections.contribution | sortContributions %}
         {% for post in sortedContributors %}
@@ -34,7 +30,7 @@
         </div>
     </div>
   </div>  
-  <div class="column is-10 is-offset-1">
+  <div class="column is-8 is-offset-2">
     <div class="content">
         <h3 class="title">Papers</h3>
         <div class="card-group">
@@ -51,7 +47,7 @@
         </div>
     </div>
   </div>  
-  <div class="column is-10 is-offset-1">
+  <div class="column is-8 is-offset-2">
     <div class="content">
         <h3 class="title">Pictorials</h3>
           <div class="card-group">

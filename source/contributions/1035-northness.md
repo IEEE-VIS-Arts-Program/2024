@@ -15,7 +15,7 @@ contributors:
   location: Rio de Janeiro, Brazil
 images: 
 - src: 1035-northness-thumb.jpg
-  alt: "alt text"
+  alt: "Photo of the ruins: from a mistake to an integral part of the artwork. Photo by Diana Sandes."
   full: true
 ---
 

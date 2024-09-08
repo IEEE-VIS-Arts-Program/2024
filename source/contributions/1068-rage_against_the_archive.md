@@ -12,16 +12,16 @@ contributors:
   location: Syracuse, New York, United States
 images: 
   - src: 1068-rage_against_the_archive-performance_lecture_2023_su_zelikha_final.jpg
-    alt: "alt text"
+    alt: "Performance lecture 2023"
     full: true
   - src: 1068-rage_against_the_archive-nypl_website_intervention_performance_act_common_space_syracuse_28_april_2022-7.jpg
-    alt: "alt text"
+    alt: "NYPL website intervention performance. Act Common Space, Syracuse, 28 april, 2022"
   - src: 1068-rage_against_the_archive-nypl_website_intervention_performance_act_common_space_syracuse_28_april_2022-9.jpg
-    alt: "alt text"
+    alt: "NYPL website intervention performance. Act Common Space, Syracuse, 28 april, 2022"
   - src: 1068-rage_against_the_archive-nypl_website_intervention_performance_act_common_space_syracuse_28_april_2022.jpg
-    alt: "alt text"
+    alt: "NYPL website intervention performance. Act Common Space, Syracuse, 28 april, 2022"
   - src: 1068-rage_against_the_archive-performance_lecture_2023_su_zelikha_final-2.jpg
-    alt: "alt text"
+    alt: "Performance lecture 2023"
 
 ---
 

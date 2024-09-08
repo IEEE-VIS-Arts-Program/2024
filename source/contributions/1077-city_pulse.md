@@ -30,7 +30,7 @@ contributors:
   location: Beijing, China
 images:
 - src: 1077-city_pulse-thumb.jpg
-  alt: "alt text"
+  alt: "City metro graphic poster"
   full: true
 
 ---

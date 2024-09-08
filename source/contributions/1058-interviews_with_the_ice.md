@@ -14,16 +14,16 @@ contributors:
   location: Austin, Texas, United States
 images: 
   - src: 1058-interviews_with_the_ice-4_Panel5_detail.jpg
-    alt: "alt text"
+    alt: "Frontal shot of the sculpture."
     style: "grid-column: span 2; grid-row: span 4;"
   - src: 1058-interviews_with_the_ice-1_Front_5_panel.jpg
-    alt: "alt text"
+    alt: "Angled shot of the sculpture."
   - src: 1058-interviews_with_the_ice-2_Angled5Panel.jpg
-    alt: "alt text"
+    alt: "Three panels."
   - src: 1058-interviews_with_the_ice-3_Panel_1-3.jpg
-    alt: "alt text"
+    alt: "Detail of panel 5."
   - src: 1058-interviews_with_the_ice-5_panel4F_.jpg
-    alt: "alt text"
+    alt: "composition created from the sculptural and 2D elements of the work."
 
 ---
 

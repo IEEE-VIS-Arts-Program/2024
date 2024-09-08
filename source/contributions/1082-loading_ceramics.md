@@ -23,7 +23,7 @@ contributors:
   location: Tallinn, Estonia
 images:
 - src: 1082-loading_ceramics-thumb.jpg
-  alt: "alt text"
+  alt: "Exhibition “Keraamika kannab | Loading Ceramics” at athe Estonian Architecture Museum from 12 Sep - 12 Nov 2023. Photos by Juta Kübarsepp."
   full: true
 
 ---

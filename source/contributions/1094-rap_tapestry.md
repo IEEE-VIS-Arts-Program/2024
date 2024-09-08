@@ -11,16 +11,16 @@ contributors:
   location: Boston, Massachusetts, United States
 images: 
   - src: 1094-rap_tapestry-img_9136_vsco.jpg
-    alt: "alt text"
+    alt: ""
     key: true
   - src: 1094-rap_tapestry-img_9140.jpg
-    alt: "alt text"
+    alt: ""
   - src: 1094-rap_tapestry-img_9151.jpg
-    alt: "alt text"
+    alt: ""
   - src: 1094-rap_tapestry-step_0.jpg
-    alt: "alt text"
+    alt: ""
   - src: 1094-rap_tapestry-screen_shot_2023-08-25_at_8.35.32_am.jpg
-    alt: "alt text"
+    alt: ""
 
 ---
 

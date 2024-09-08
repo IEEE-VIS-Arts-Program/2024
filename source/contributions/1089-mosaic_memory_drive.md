@@ -12,16 +12,16 @@ contributors:
   location: Vienna, Austria
 images: 
   - src: 1089-mosaic_memory_drive-visap_images2.jpg
-    alt: "alt text"
+    alt: ""
     full: true
   - src: 1089-mosaic_memory_drive-visap_images.jpg
-    alt: "alt text"
+    alt: ""
   - src: 1089-mosaic_memory_drive-visap_images5.jpg
-    alt: "alt text"
+    alt: ""
   - src: 1089-mosaic_memory_drive-visap_images3.jpg
-    alt: "alt text"
+    alt: ""
   - src: 1089-mosaic_memory_drive-visap_images4.jpg
-    alt: "alt text"
+    alt: ""
 
 ---
 

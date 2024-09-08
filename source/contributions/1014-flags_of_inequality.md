@@ -17,12 +17,12 @@ images:
     alt: "alt text"
     key: true
   - src: 1014-flags_of_inequality-flags-grid.jpg
-    alt: "alt text"
+    alt: "An illustrative example of the display of the complete collection, in a grid."
     key: true
   - src: 1014-flags_of_inequality-italy.jpg
-    alt: "alt text"
+    alt: "An illustrative example of a single flag display, to be shown in a loop."
   - src: 1014-flags_of_inequality-portugal.jpg
-    alt: "alt text"
+    alt: "An illustrative example of a single flag display, to be shown in a loop."
 
 ---
 

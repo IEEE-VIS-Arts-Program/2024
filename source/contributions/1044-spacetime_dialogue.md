@@ -23,7 +23,7 @@ contributors:
   location: St.Louis, Missouri, United States
 images: 
 - src: /1044-spacetime_dialogue-thumb.jpg
-  alt: "alt text"
+  alt: "3D Rendering of “Spacetime Dialogue” with Audience Interaction"
   full: true
 
 ---

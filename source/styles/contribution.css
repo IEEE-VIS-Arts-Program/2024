@@ -18,7 +18,7 @@ h3.title {
 
 .content h3 {
     margin-top: 3em;
-    margin-bottom: 3em;
+    /* margin-bottom: 3em; */
 }
 
 .content p.content-type {
@@ -65,6 +65,7 @@ p.secondary {
     padding: 0;
     width: 3em;
     font-size: 0.875em;
+    min-height: unset;
     height: unset;
     background-color: transparent;
     flex: 1 0 0;
@@ -72,6 +73,7 @@ p.secondary {
 }
 
 .postnav .label {
+    padding: 2pt 0;
     font-size: 0.875em;
     font-weight: 400;
     line-height: 1.125em;

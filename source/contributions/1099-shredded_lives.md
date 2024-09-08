@@ -17,14 +17,14 @@ contributors:
   location: Burnaby, British Columbia, Canada
 images: 
   - src: 1099-shredded_lives-figure_7-zoom_3.jpg
-    alt: "alt text"
+    alt: "Design Exploration Diagram Zoom 3."
     full: true
   - src: 1099-shredded_lives-figure_9-_zoom_5.jpg
-    alt: "alt text"
+    alt: "Design Exploration Diagram Zoom 5."
   - src: 1099-shredded_lives-figure_10-_the_5_piece_manifestation.jpg
-    alt: "alt text"
+    alt: "The five piece manifestations that emerged at the intersections of the seven design components."
   - src: 1099-shredded_lives-figure_8-_zoom_4.jpg
-    alt: "alt text"
+    alt: "Design Exploration Diagram Zoom 4."
 
 ---
 

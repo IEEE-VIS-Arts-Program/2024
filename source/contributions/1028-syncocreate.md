@@ -15,17 +15,17 @@ contributors:
   location: Cambridge, Massachusetts, United States
 images: 
   - src: 1028-syncocreate-Representative_1.jpg
-    alt: "alt text"
+    alt: "Representative image 1"
     full: true
   - src: 1028-syncocreate-Representative_2.jpg
-    alt: "alt text"
+    alt: "Representative image 2"
     key: true
   - src: 1028-syncocreate-Sync_Art_1.jpg
-    alt: "alt text"
+    alt: "Synchronization results gallery 1"
   - src: 1028-syncocreate-Sync_Art_2.jpg
-    alt: "alt text"
+    alt: "Synchronization results gallery 2"
   - src: 1028-syncocreate-Typologies.jpg
-    alt: "alt text"
+    alt: "Examples of artwork generated based on various synchronization events between users"
 
 ---
 

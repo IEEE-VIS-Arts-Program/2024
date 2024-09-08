@@ -29,17 +29,17 @@ contributors:
   location: Edinburgh, United Kingdom
 images: 
   - src: 1103-pieces_of_peace2-fig2_an_overview_of_the_9_peace_agreements_installed.jpg
-    alt: "alt text"
+    alt: ""
     full: true
   - src: 1103-pieces_of_peace2-fig5_debossing_close_up.jpg
-    alt: "alt text"
+    alt: ""
     full: true
   - src: 1103-pieces_of_peace2-fig4_peace_agreements_with_light_torch.jpg
-    alt: "alt text"
+    alt: ""
   - src: 1103-pieces_of_peace2-fig1_a_peace_agreement_(id848)_from_the_afghanistan_2000s_post-intervention_process.jpg
-    alt: "alt text"
+    alt: ""
   - src: 1103-pieces_of_peace2-fig3_final_text_and_expression_choice.jpg
-    alt: "alt text"
+    alt: ""
     
 ---
 

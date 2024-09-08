@@ -12,7 +12,7 @@ contributors:
   location: Shanghai, China
 images: 
 - src: 1102-humanity_test-thumb.jpg
-  alt: "alt text"
+  alt: "Voight-Kampff 2.0 interface design"
   full: true
   
 ---
