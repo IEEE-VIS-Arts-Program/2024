@@ -10,20 +10,61 @@
 <body class="has-navbar-fixed-top">
 {% include "navbar.njk" %}
 <section class="section">
+  <header class="postnav">
+      {% set previousPost = collections.contribution | getPreviousCollectionItem(page) %}
+      {% set nextPost = collections.contribution | getNextCollectionItem(page) %}
+      {% if previousPost %}
+        <a class="postnav_back" href="{{ previousPost.url }}">
+          <div class="button">«</div>
+          <div class="label">{{ previousPost.data.title }}</div>
+        </a>
+      {% endif %}
+      {% if nextPost %}
+      <a class="postnav_next" href="{{ nextPost.url }}">
+          <div class="button">»</div>
+          <div class="label">{{ nextPost.data.title }}</div>
+      </a>
+      {% endif %}
+  </header>
+  <div class="column is-8 is-offset-2">
+    <div class="content">
+      <h1>{{ title}}</h1>
+      <p class="byline">
+        <b>{{ type }}</b><br>
+        {% for contributor in contributors %}
+          {% if not loop.first %}, {% endif %}
+          {{ contributor.name }}
+        {% endfor %}<br>
+        {% if url %}
+        <a href="{{ url }}">{{ url }}</a>
+        {% endif %}
+      </p>
+    </div>
+  </div>
   <div class="columns">
     <div class="column is-8 is-offset-2">
       <div class="content">
-        <h1>{{ title}}</h1>
-        <h2>{{ type }}</h2>
-        {{ content | safe }}
-        <hr>
-        {% set previousPost = collections.contribution | getPreviousCollectionItem(page) %}
-        {% set nextPost = collections.contribution | getNextCollectionItem(page) %}
-        {% if previousPost %}Previous Blog Post: <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a>{% endif %}
-        {% if nextPost %}Next Blog Post: <a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>{% endif %}
+        {% if images %}
+          <div class="image-grid">
+            {% for image in images %}
+              <img src="/images/{{ image.src }}" alt="{{ image.alt }}"
+                {% if image.key %} class="grid-focus"{% endif %}
+                {% if image.full %} class="grid-full"{% endif %}
+                {% if image.style %} style="{{ image.style }}"{% endif %}
+              >
+            {% endfor %}
+          </div>
+        {% endif %}
       </div>
     </div>
   </div>
+  <div class="columns">
+    <div class="column is-8 is-offset-2">
+      <div class="content">
+        {{ content | safe }}
+      </div>
+    </div>
+  </div>  
 </section>
 {% include "footer.njk" %}
 <script src="{{ '/scripts/scripts.js' | url }}"></script>

@@ -8,6 +8,7 @@
 <link rel="stylesheet" href="{{ '/styles/bundle.css' | url}}">
 </head>
 <body class="home-page has-navbar-fixed-top">
+<div class="wave-animation" id="wave-animation"></div>
 {% include "navbar.njk" %}
 {% include "hero.njk" %}
 <section class="section">
@@ -21,5 +22,7 @@
 </section>
 {% include "footer.njk" %}
 <script src="{{ '/scripts/scripts.js' | url }}"></script>
+<script src="{{ '/scripts/p5.min.js' | url }}"></script>
+<script src="{{ '/scripts/wave-animation.js' | url }}"></script>
 </body>
 </html>

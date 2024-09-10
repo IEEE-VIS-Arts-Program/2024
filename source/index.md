@@ -1,11 +1,12 @@
 ---
 title: "Home"
 layout: "home.njk"
+intro: "<p>The conference and exhibition will be held alongside <a href='https://ieeevis.org/year/2024/welcome'>IEEE VIS 2024</a> at TradeWinds Island Grand Beach Resort,  St. Pete Beach, Florida, 13&ndash;18 October 2024</p>"
+
 ---
 
-<div style="font-weight: bold; font-size: 1.25em;">The conference and exhibition will be held alongside <a href="https://ieeevis.org/year/2024/welcome">IEEE VIS 2024</a> at TradeWinds Island Grand Beach Resort,  St. Pete Beach, Florida, 13–18 October 2024</div>
 
-## VISAP 2024 Theme: Diverse Data
+# VISAP 2024 Theme: Diverse Data
 
 Data surrounds all life on planet Earth, and in this age of machine
 learning, there is no corner left untouched by informatic flows. From
@@ -76,7 +77,7 @@ limited to the following topics of interest and modes of inquiry:
 
 -   contribute to building a more equitable world for all.
 
-## About VISAP'24
+# About VISAP'24
 
 The VIS Arts Program (VISAP) is a mini-conference and exhibition where
 visualization researchers, designers, and artists come together to

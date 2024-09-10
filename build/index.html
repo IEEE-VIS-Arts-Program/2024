@@ -8,6 +8,7 @@
 <link rel="stylesheet" href="/styles/bundle.css">
 </head>
 <body class="home-page has-navbar-fixed-top">
+<div class="wave-animation" id="wave-animation"></div>
 <!--START NAVBAR-->
 <nav class="navbar is-fixed-top">
     <div class="container">
@@ -26,7 +27,11 @@
           
             <a class="navbar-item" 
                href="/">
-            Theme</a>
+            Home</a>
+          
+            <a class="navbar-item" 
+               href="/contributions">
+            Contributions</a>
           
             <a class="navbar-item" 
                href="/submission">
@@ -45,8 +50,13 @@
 <section class="hero">
   <div class="hero-body">
     <div class="columns">
-      <div class="column is-8 is-offset-2">
-          <img src="/images/visap24-lockup.svg" alt="IEEE VISAP 2024 Logo">
+      <div class="column is-4 is-offset-2" style="">
+          <img id="visap24-lockup" src="/images/visap24-lockup.svg" alt="IEEE VISAP 2024 Logo">
+      </div>
+      <div class="column is-3 is-offset-1" style="display: flex; align-items: flex-end">
+        <div class="hero_message content">
+          <p>The conference and exhibition will be held alongside <a href='https://ieeevis.org/year/2024/welcome'>IEEE VIS 2024</a> at TradeWinds Island Grand Beach Resort,  St. Pete Beach, Florida, 13&ndash;18 October 2024</p>
+        </div>
       </div>
     </div>
   </div>
@@ -56,8 +66,7 @@
   <div class="columns">
     <div class="column is-8 is-offset-2">
       <div class="content">
-        <div style="font-weight: bold; font-size: 1.25em;">The conference and exhibition will be held alongside <a href="https://ieeevis.org/year/2024/welcome">IEEE VIS 2024</a> at TradeWinds Island Grand Beach Resort,  St. Pete Beach, Florida, 13–18 October 2024</div>
-<h2>VISAP 2024 Theme: Diverse Data</h2>
+        <h1>VISAP 2024 Theme: Diverse Data</h1>
 <p>Data surrounds all life on planet Earth, and in this age of machine
 learning, there is no corner left untouched by informatic flows. From
 the smallest nanoparticle to the vast cosmos, we gather data about
@@ -138,7 +147,7 @@ Lives Matter, 2SLGBTQIA+ and more);</p>
 <p>contribute to building a more equitable world for all.</p>
 </li>
 </ul>
-<h2>About VISAP'24</h2>
+<h1>About VISAP'24</h1>
 <p>The VIS Arts Program (VISAP) is a mini-conference and exhibition where
 visualization researchers, designers, and artists come together to
 showcase and discuss works at the intersection of data visualization,
@@ -174,61 +183,72 @@ any work that is AI generated as being so.</p>
     </div>
   </div>
 </section>
+<!-- START FOOTER -->
 <footer class="footer">
-  <div class="columns">
-      <div class="column is-3 is-offset-2">
-        <div class="content">
-          <h4>IEEE VISAP 2024</h4>
-          
-            <p><a href="/">Theme</a></p>
-          
-            <p><a href="/submission">Submission Process</a></p>
-          
-            <p><a href="/organizers">Organizers</a></p>
-          
+    <div class="footer_head"></div>
+    <div class="footer_body">
+        <div class="columns">
+            <div class="column is-3 is-offset-2">
+            <div class="">
+                <h4>IEEE VISAP 2024</h4>
+                
+                  <p><a href="/">Home</a></p>
+                
+                  <p><a href="/contributions">Contributions</a></p>
+                
+                  <p><a href="/submission">Submission Process</a></p>
+                
+                  <p><a href="/organizers">Organizers</a></p>
+                
+            </div>
+            </div>
+            <div class="column is-3">
+            <div class="">
+                <h4>Contacts</h4>
+                <p>
+                  Email: <a href="mailto:art@ieeevis.org">art@ieeevis.org</a><br>
+                  Twitter: <a href="https://twitter.com/visapnet">@visapnet</a><br>
+                  Mastodon: <a href="https://vis.social/@visap">@visap@vis.social</a>
+                </p>
+                <p style="padding-top: 0.5em;">
+                  <a href="http://ieeevis.org/year/2023/welcome">
+                    <img src="/images/icon-ieee.svg" width="32" height="32" alt="IEEE">
+                  </a>
+                  <a href="https://twitter.com/visapnet">
+                    <img src="/images/icon-x.svg" width="32" height="32" alt="Twitter/X">
+                  </a>
+                  <a href="https://vis.social/@visap">
+                    <img src="/images/icon-mastodon.svg" width="32" height="32" alt="Mastodon">
+                  </a>
+                </p>
+            </div>
+            </div>
+            <div class="column is-2">
+            <div class="">
+                <h4>Previous editions</h4>
+                <p>
+                  <a href="https://visap.net/2023" class="">2023</a>, 
+                  <a href="https://visap.net/2022" class="">2022</a>, 
+                  <a href="https://visap.net/2021" class="">2021</a>, 
+                  <a href="https://visap.net/2020" class="">2020</a>, 
+                  <a href="https://visap.net/2019" class="">2019</a>, 
+                  <a href="https://visap.net/2018" class="">2018</a>, 
+                  <a href="https://visap.uic.edu/2017" class="">2017</a>, 
+                  <a href="https://visap.uic.edu/2016" class="">2016</a>, 
+                  <a href="https://visap.uic.edu/2015" class="">2015</a>, 
+                  <a href="https://visap.uic.edu/2014" class="">2014</a>, 
+                  <a href="https://visap.uic.edu/2013" class="">2013</a>
+                </p>
+            </div>
+            </div>
         </div>
-      </div>
-      <div class="column is-3">
-        <div class="content">
-          <h4>Contacts</h4>
-          <p>
-            Email: <a href="mailto:art@ieeevis.org">art@ieeevis.org</a><br>
-            Twitter: <a href="https://twitter.com/visapnet">@visapnet</a><br>
-            Mastodon: <a href="https://vis.social/@visap">@visap@vis.social</a>
-          </p>
-          <p style="padding-top: 0.5em;">
-            <a href="http://ieeevis.org/year/2023/welcome">
-              <img src="/images/icon-ieee.svg" width="32" height="32" alt="IEEE">
-            </a>
-            <a href="https://twitter.com/visapnet">
-              <img src="/images/icon-x.svg" width="32" height="32" alt="Twitter/X">
-            </a>
-            <a href="https://vis.social/@visap">
-              <img src="/images/icon-mastodon.svg" width="32" height="32" alt="Mastodon">
-            </a>
-        </p>
-        </div>
-      </div>
-      <div class="column is-2">
-        <div class="content">
-          <h4>Previous editions</h4>
-          <p>
-            <a href="https://visap.net/2023" class="">2023</a>, 
-            <a href="https://visap.net/2022" class="">2022</a>, 
-            <a href="https://visap.net/2021" class="">2021</a>, 
-            <a href="https://visap.net/2020" class="">2020</a>, 
-            <a href="https://visap.net/2019" class="">2019</a>, 
-            <a href="https://visap.net/2018" class="">2018</a>, 
-            <a href="https://visap.uic.edu/2017" class="">2017</a>, 
-            <a href="https://visap.uic.edu/2016" class="">2016</a>, 
-            <a href="https://visap.uic.edu/2015" class="">2015</a>, 
-            <a href="https://visap.uic.edu/2014" class="">2014</a>, 
-            <a href="https://visap.uic.edu/2013" class="">2013</a>
-          </p>
-        </div>
-      </div>
     </div>
 </footer>
+<!-- END FOOTER -->
+
+
 <script src="/scripts/scripts.js"></script>
+<script src="/scripts/p5.min.js"></script>
+<script src="/scripts/wave-animation.js"></script>
 </body>
 </html>

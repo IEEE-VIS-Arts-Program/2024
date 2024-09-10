@@ -1,7 +1,11 @@
 [
     {
-        "title": "Theme",
+        "title": "Home",
         "url": "/"
+    },
+    {
+        "title": "Contributions",
+        "url": "/contributions"
     },
     {
         "title": "Submission Process",

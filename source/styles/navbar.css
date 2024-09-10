@@ -1,0 +1,38 @@
+/* navbar.css*/
+
+.navbar {
+    font-family: reforma2018;
+    font-weight: 600;
+    font-size: 1.125em;
+    line-height: 1.125em;
+    color: #471a5c;
+    background-color: #ffe8e8;
+}
+
+.navbar:hover {
+    background-color: rgb(230, 218, 218);
+}
+
+
+@media screen and (max-width: 1023px) {
+    .navbar-menu {
+        background-color: #ffe8e8;
+    }
+}
+
+.navbar-item, .navbar-link {
+    color: #471a5c;    
+}
+
+a.navbar-item:hover {
+    color: #8282FF;
+    background-color: transparent;
+}
+
+.navbar-burger {
+    color: #471a5c;
+}
+
+.navbar-burger:hover {
+    background-color: transparent;
+}

@@ -1,0 +1,23 @@
+/* hero.css */
+
+.hero-body {
+    margin-top: 20vw;
+}
+
+.hero-body a {
+    color: #000;
+}
+
+.wave-animation {
+    position: absolute;
+    top: 0;
+    width: 100vw;
+    height: 100vw;
+    z-index: -1;
+}
+
+.hero_message.content p {
+    font-family: reforma2018;
+    font-weight: 600;;
+}
+
