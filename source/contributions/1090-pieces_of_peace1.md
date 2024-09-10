@@ -1,10 +1,10 @@
 ---
 tags: contribution
 layout: contribution-item
-type: artwork
+type: pictorial
 submission: 1090
 title: "Pieces of Peace: Women and Gender in Peace Agreements"
-thumb: /images/1090-pieces_of_peace1-thumb.jpg
+thumb: /images/1103-pieces_of_peace2-thumb.png
 contributors: 
 - name: Jenny Long
   affiliation: School of Informatics, University of Edinburgh

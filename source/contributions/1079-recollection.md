@@ -4,6 +4,7 @@ layout: contribution-item
 type: artwork
 submission: 1079
 title: "ReCollection"
+thumb: /images/1079-recollection-thumb.jpg
 url: "https://www.zhangweidi.com/recollection"
 contributors: 
 - name: weidi zhang
@@ -12,6 +13,16 @@ contributors:
 - name: Jieliang Luo
   affiliation: Independant Researcher
   location: Beijing, China
+images:
+- src: /images/1079-recollection-vis24k-sub1079-i7.jpg
+  alt: ""
+  full: true
+- src: /images/1079-recollection-vis24k-sub1079-i9.jpg
+  alt: ""
+  key: true
+- src: /images/1079-recollection-vis24k-sub1079-i8.jpg
+  alt: ""
+
 ---
 
 This artwork was born of witnessing my grandmother's memory regression
