@@ -108,6 +108,8 @@ will carefully evaluate whether this usage is fair and appropriate
 within the boundaries of relevance, ethics, and intention. Please mark
 any work that is AI generated as being so.
 
+<a name="supporters"></a>
+
 ## Supporters
 
 VISAP 2024 is possible thanks to the support of:

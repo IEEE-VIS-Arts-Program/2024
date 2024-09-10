@@ -19,13 +19,13 @@ _Queensland University of Technology_\
 
 ### Exhibition Chairs	
 
-Santiago Echeverry\
-_University of Tampa_\
-[echeverry.tv/](https://echeverry.tv/)
-
 Lori Jacques\
 _University of Tampa_\
 [www.ut.edu/directory/jacques-lori](https://www.ut.edu/directory/jacques-lori)
+
+Santiago Echeverry\
+_University of Tampa_\
+[echeverry.tv/](https://echeverry.tv/)
 
 ### Design Chairs	
 

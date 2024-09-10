@@ -3,43 +3,43 @@ blanca
 */
 @font-face {
     font-family: 'reforma_1918blanca';
-    src: url('./fonts/reforma1918blanca.woff2') format('woff2'),
-         url('./fonts/reforma1918blanca.woff') format('woff');
+    src: url('fonts/reforma1918blanca.woff2') format('woff2'),
+         url('fonts/reforma1918blanca.woff') format('woff');
     font-weight: 400;
     font-style: normal;
 }
 @font-face {
     font-family: 'reforma_1918blanca_italica';
-    src: url('./fonts/reforma1918blancaitalica.woff2') format('woff2'),
-         url('./fonts/reforma1918blancaitalica.woff') format('woff');
+    src: url('fonts/reforma1918blancaitalica.woff2') format('woff2'),
+         url('fonts/reforma1918blancaitalica.woff') format('woff');
     font-weight: 400;
     font-style: italic;
 }
 @font-face {
     font-family: 'reforma_1918gris';
-    src: url('./fonts/reforma1918gris.woff2') format('woff2'),
-         url('./fonts/reforma1918gris.woff') format('woff');
+    src: url('fonts/reforma1918gris.woff2') format('woff2'),
+         url('fonts/reforma1918gris.woff') format('woff');
     font-weight: 600;
     font-style: normal;
 }
 @font-face {
     font-family: 'reforma_1918gris_italica';
-    src: url('./fonts/reforma1918grisitalica.woff2') format('woff2'),
-         url('./fonts/reforma1918grisitalica.woff') format('woff');
+    src: url('fonts/reforma1918grisitalica.woff2') format('woff2'),
+         url('fonts/reforma1918grisitalica.woff') format('woff');
     font-weight: 600;
     font-style: italic;
 }
 @font-face {
     font-family: 'reforma_1918negra';
-    src: url('./fonts/reforma1918negra.woff2') format('woff2'),
-         url('./fonts/reforma1918negra.woff') format('woff');
+    src: url('fonts/reforma1918negra.woff2') format('woff2'),
+         url('fonts/reforma1918negra.woff') format('woff');
     font-weight: 800;
     font-style: normal;
 }
 @font-face {
     font-family: 'reforma_1918negra_italica';
-    src: url('./fonts/reforma1918negraitalica.woff2') format('woff2'),
-         url('./fonts/reforma1918negraitalica.woff') format('woff');
+    src: url('fonts/reforma1918negraitalica.woff2') format('woff2'),
+         url('fonts/reforma1918negraitalica.woff') format('woff');
     font-weight: 800;
     font-style: italic;
 }
