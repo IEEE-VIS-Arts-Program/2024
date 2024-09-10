@@ -47,7 +47,7 @@
         {% if images %}
           <div class="image-grid">
             {% for image in images %}
-              <img src="/images/{{ image.src }}" alt="{{ image.alt }}"
+              <img src="{{ "/images/" + image.src | url }}" alt="{{ image.alt }}"
                 {% if image.key %} class="grid-focus"{% endif %}
                 {% if image.full %} class="grid-full"{% endif %}
                 {% if image.style %} style="{{ image.style }}"{% endif %}
