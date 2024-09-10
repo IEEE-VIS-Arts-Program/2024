@@ -4,23 +4,23 @@ layout: contribution-item
 type: artwork
 submission: 1068
 title: "Rage Against the Archive"
-thumb: "1068-rage_against_the_archive-thumb.jpg"
+thumb: /images/1068-rage_against_the_archive-thumb.jpg
 url: "https://youtu.be/9XWW8zewTNY?si=szAFgz8n2P6oQTUY"
 contributors: 
 - name: Anshul Roy
   affiliation: College of Visual and Performing Arts, Syracuse University
   location: Syracuse, New York, United States
 images: 
-  - src: 1068-rage_against_the_archive-performance_lecture_2023_su_zelikha_final.jpg
+  - src: /images/1068-rage_against_the_archive-performance_lecture_2023_su_zelikha_final.jpg
     alt: "Performance lecture 2023"
     full: true
-  - src: 1068-rage_against_the_archive-nypl_website_intervention_performance_act_common_space_syracuse_28_april_2022-7.jpg
+  - src: /images/1068-rage_against_the_archive-nypl_website_intervention_performance_act_common_space_syracuse_28_april_2022-7.jpg
     alt: "NYPL website intervention performance. Act Common Space, Syracuse, 28 april, 2022"
-  - src: 1068-rage_against_the_archive-nypl_website_intervention_performance_act_common_space_syracuse_28_april_2022-9.jpg
+  - src: /images/1068-rage_against_the_archive-nypl_website_intervention_performance_act_common_space_syracuse_28_april_2022-9.jpg
     alt: "NYPL website intervention performance. Act Common Space, Syracuse, 28 april, 2022"
-  - src: 1068-rage_against_the_archive-nypl_website_intervention_performance_act_common_space_syracuse_28_april_2022.jpg
+  - src: /images/1068-rage_against_the_archive-nypl_website_intervention_performance_act_common_space_syracuse_28_april_2022.jpg
     alt: "NYPL website intervention performance. Act Common Space, Syracuse, 28 april, 2022"
-  - src: 1068-rage_against_the_archive-performance_lecture_2023_su_zelikha_final-2.jpg
+  - src: /images/1068-rage_against_the_archive-performance_lecture_2023_su_zelikha_final-2.jpg
     alt: "Performance lecture 2023"
 
 ---

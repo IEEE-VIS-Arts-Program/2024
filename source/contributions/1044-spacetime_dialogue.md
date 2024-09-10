@@ -4,7 +4,7 @@ layout: contribution-item
 type: paper
 submission: 1044
 title: "Spacetime Dialogue: Integrating Astronomical Data and Khoomei in Spatial Installation"
-thumb: "1044-spacetime_dialogue-thumb.jpg"
+thumb: /images/1044-spacetime_dialogue-thumb.jpg
 contributors: 
 - name: Fiona You Wang
   affiliation: The Hong Kong University of Science and Technology
@@ -22,7 +22,7 @@ contributors:
   affiliation: Washington University in St.Louis
   location: St.Louis, Missouri, United States
 images: 
-- src: /1044-spacetime_dialogue-thumb.jpg
+- src: /images//1044-spacetime_dialogue-thumb.jpg
   alt: "3D Rendering of “Spacetime Dialogue” with Audience Interaction"
   full: true
 

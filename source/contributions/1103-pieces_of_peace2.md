@@ -4,7 +4,7 @@ layout: contribution-item
 type: artwork
 submission: 1103
 title: "Pieces of Peace: Women and Gender in Peace Agreements"
-thumb: "1103-pieces_of_peace2-thumb.png"
+thumb: /images/1103-pieces_of_peace2-thumb.png
 contributors: 
 - name: Jinrui Wang
   affiliation: The School of Informatics, The University of Edinburgh
@@ -28,17 +28,17 @@ contributors:
   affiliation: School of Informatics, University of Edinburgh
   location: Edinburgh, United Kingdom
 images: 
-  - src: 1103-pieces_of_peace2-fig2_an_overview_of_the_9_peace_agreements_installed.jpg
+  - src: /images/1103-pieces_of_peace2-fig2_an_overview_of_the_9_peace_agreements_installed.jpg
     alt: ""
     full: true
-  - src: 1103-pieces_of_peace2-fig5_debossing_close_up.jpg
+  - src: /images/1103-pieces_of_peace2-fig5_debossing_close_up.jpg
     alt: ""
     full: true
-  - src: 1103-pieces_of_peace2-fig4_peace_agreements_with_light_torch.jpg
+  - src: /images/1103-pieces_of_peace2-fig4_peace_agreements_with_light_torch.jpg
     alt: ""
-  - src: 1103-pieces_of_peace2-fig1_a_peace_agreement_(id848)_from_the_afghanistan_2000s_post-intervention_process.jpg
+  - src: /images/1103-pieces_of_peace2-fig1_a_peace_agreement_(id848)_from_the_afghanistan_2000s_post-intervention_process.jpg
     alt: ""
-  - src: 1103-pieces_of_peace2-fig3_final_text_and_expression_choice.jpg
+  - src: /images/1103-pieces_of_peace2-fig3_final_text_and_expression_choice.jpg
     alt: ""
     
 ---

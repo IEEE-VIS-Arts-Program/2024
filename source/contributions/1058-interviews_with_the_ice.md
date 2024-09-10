@@ -4,7 +4,7 @@ layout: contribution-item
 type: artwork
 submission: 1058
 title: "Interviews with the Ice: Art and Science"
-thumb: "1058-interviews_with_the_ice-thumb.jpg"
+thumb: /images/1058-interviews_with_the_ice-thumb.jpg
 contributors: 
 - name: Francesca Samsel
   affiliation: University of Texas at Austin
@@ -13,16 +13,16 @@ contributors:
   affiliation: The University of Texas Institute for Geophysics (UTIG), University of Texas at Austin
   location: Austin, Texas, United States
 images: 
-  - src: 1058-interviews_with_the_ice-4_Panel5_detail.jpg
+  - src: /images/1058-interviews_with_the_ice-4_Panel5_detail.jpg
     alt: "Frontal shot of the sculpture."
     style: "grid-column: span 2; grid-row: span 4;"
-  - src: 1058-interviews_with_the_ice-1_Front_5_panel.jpg
+  - src: /images/1058-interviews_with_the_ice-1_Front_5_panel.jpg
     alt: "Angled shot of the sculpture."
-  - src: 1058-interviews_with_the_ice-2_Angled5Panel.jpg
+  - src: /images/1058-interviews_with_the_ice-2_Angled5Panel.jpg
     alt: "Three panels."
-  - src: 1058-interviews_with_the_ice-3_Panel_1-3.jpg
+  - src: /images/1058-interviews_with_the_ice-3_Panel_1-3.jpg
     alt: "Detail of panel 5."
-  - src: 1058-interviews_with_the_ice-5_panel4F_.jpg
+  - src: /images/1058-interviews_with_the_ice-5_panel4F_.jpg
     alt: "composition created from the sculptural and 2D elements of the work."
 
 ---

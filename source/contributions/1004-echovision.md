@@ -4,7 +4,7 @@ layout: contribution-item
 type: artwork
 submission: 1004
 title: "EchoVision"
-thumb: "1004-echovision-thumb.jpg"
+thumb: /images/1004-echovision-thumb.jpg
 url: "https://vimeo.com/955577972"
 contributors: 
 - name: Botao Amber Hu
@@ -26,16 +26,16 @@ contributors:
   affiliation: Reality Design Lab
   location: New York, New York, United States
 images: 
-- src: 1004-echovision-ar_30.jpg 
+- src: /images/1004-echovision-ar_30.jpg 
   alt: "The visualized echolocation with human detection, screenshot from EchoVision app on iPhone 15 Pro." 
   full: true
-- src: 1004-echovision-01_bat_bridge.jpg 
+- src: /images/1004-echovision-01_bat_bridge.jpg 
   alt: "The audience can pick up the mask, make some noise, and visualize the bat's echolocation process." 
-- src: 1004-echovision-ar.jpg 
+- src: /images/1004-echovision-ar.jpg 
   alt: "The visualized echolocation with human detection, screenshot from EchoVision app on iPhone 15 Pro." 
-- src: 1004-echovision-vis24k-sub1004-i7.jpg 
+- src: /images/1004-echovision-vis24k-sub1004-i7.jpg 
   alt: "The audience can share the experience with people next to them with conveniency text" 
-- src: 1004-echovision-vis24k-sub1004-i9.jpg 
+- src: /images/1004-echovision-vis24k-sub1004-i9.jpg 
   alt: "The audience can share the experience with people next to them with conveniency" 
 
 ---

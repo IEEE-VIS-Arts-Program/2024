@@ -4,37 +4,37 @@ layout: contribution-item
 type: artwork
 submission: 1041
 title: "Displacement Flowers: Visualizaing global human displacment due to natural disasters"
-thumb: "1041-displacement_flowers-thumb.png"
+thumb: /images/1041-displacement_flowers-thumb.png
 url: "https://vimeo.com/953616089"
 contributors: 
 - name: Elizabeth McCaffrey
   affiliation: Khoury College of Computer Sciences/College of Arts Media and Design, Northeastern University
   location: Boston, Massachusetts, United States
 images: 
-  - src: 1041-displacement_flowers-algeria.jpg
+  - src: /images/1041-displacement_flowers-algeria.jpg
     alt: "Algeria"
     key: true
-  - src: 1041-displacement_flowers-angola.jpg
+  - src: /images/1041-displacement_flowers-angola.jpg
     alt: "Angola"
-  - src: 1041-displacement_flowers-canada.jpg
+  - src: /images/1041-displacement_flowers-canada.jpg
     alt: "Canada"
-  - src: 1041-displacement_flowers-chile.jpg
+  - src: /images/1041-displacement_flowers-chile.jpg
     alt: "Chile"
-  - src: 1041-displacement_flowers-fiji.jpg
+  - src: /images/1041-displacement_flowers-fiji.jpg
     alt: "Fiji"
-  - src: 1041-displacement_flowers-greece.jpg
+  - src: /images/1041-displacement_flowers-greece.jpg
     alt: "Greece"
-  - src: 1041-displacement_flowers-guatemala.jpg
+  - src: /images/1041-displacement_flowers-guatemala.jpg
     alt: "Guatemala"
-  - src: 1041-displacement_flowers-japan.jpg
+  - src: /images/1041-displacement_flowers-japan.jpg
     alt: "Japan"
-  - src: 1041-displacement_flowers-mexico.jpg
+  - src: /images/1041-displacement_flowers-mexico.jpg
     alt: "Mexico"
-  - src: 1041-displacement_flowers-papua_new_guinea.jpg
+  - src: /images/1041-displacement_flowers-papua_new_guinea.jpg
     alt: "Papua New Guinea"
-  - src: 1041-displacement_flowers-united_kingdom.jpg
+  - src: /images/1041-displacement_flowers-united_kingdom.jpg
     alt: "United Kingdom"
-  - src: 1041-displacement_flowers-vietnam.jpg
+  - src: /images/1041-displacement_flowers-vietnam.jpg
     alt: "Vietnam"
 ---
 

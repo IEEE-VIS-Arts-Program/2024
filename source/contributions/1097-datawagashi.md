@@ -4,7 +4,7 @@ layout: contribution-item
 type: artwork
 submission: 1097
 title: "DataWagashi: Feeling Climate Data via New Design Medium"
-thumb: "1097-datawagashi-thumb.jpg"
+thumb: /images/1097-datawagashi-thumb.jpg
 url: "https://vimeo.com/892809493/dae9f9db99"
 contributors: 
 - name: Tiange Wang
@@ -14,16 +14,16 @@ contributors:
   affiliation: VLab
   location: Cambridge, Massachusetts, United States
 images: 
-  - src: 1097-datawagashi-DataWagashi_Ato_1.jpg
+  - src: /images/1097-datawagashi-DataWagashi_Ato_1.jpg
     alt: "DataWagashi set Ato (Carbon footprint in food production)"
     full: true
-  - src: 1097-datawagashi-DataWagashi_Ato_2.jpg
+  - src: /images/1097-datawagashi-DataWagashi_Ato_2.jpg
     alt: "DataWagashi set Ato"
-  - src: 1097-datawagashi-DataWagashi_Funka_1.jpg
+  - src: /images/1097-datawagashi-DataWagashi_Funka_1.jpg
     alt: "DataWagashi set Funka (Japanese volcanoes index)"
-  - src: 1097-datawagashi-DataWagashi_Funka_2.jpg
+  - src: /images/1097-datawagashi-DataWagashi_Funka_2.jpg
     alt: "DataWagashi set Funka"
-  - src: 1097-datawagashi-DataWagashi_KoriUmi_1.jpg
+  - src: /images/1097-datawagashi-DataWagashi_KoriUmi_1.jpg
     alt: "DataWagashi set Kori Umi (Ocean heat, CO2 and Arctic Ice Mass changes)"
 
 ---

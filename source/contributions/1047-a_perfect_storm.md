@@ -4,7 +4,7 @@ layout: contribution-item
 type: pictorial
 submission: 1047
 title: "A Perfect Storm"
-thumb: "1047-a_perfect_storm-thumb.jpg"
+thumb: /images/1047-a_perfect_storm-thumb.jpg
 url: "https://vimeo.com/901381287"
 contributors: 
 - name: Chloe Hudson Prock
@@ -17,7 +17,7 @@ contributors:
   affiliation: College of Arts Media and Design, Northeastern University
   location: Boston, Massachusetts, United States
 images:
-- src: 1047-a_perfect_storm-thumb.jpg
+- src: /images/1047-a_perfect_storm-thumb.jpg
   alt: "Still from a video developed for large scale display, including a legend at the top left corner."
   full: true
 

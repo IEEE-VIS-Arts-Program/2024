@@ -4,7 +4,7 @@ layout: contribution-item
 type: paper
 submission: 1055
 title: "What's My Line? Exploring the Expressive Capacity of Lines in Scientific Visualization"
-thumb: "1055-whats_my_line-thumb.png"
+thumb: /images/1055-whats_my_line-thumb.png
 contributors: 
 - name: Francesca Samsel
   affiliation: Texas Advanced Computing Center, University of Texas at Austin
@@ -19,16 +19,16 @@ contributors:
   affiliation: Texas Advanced Computing Center, University of Texa
   location: Austin, Texas, United States
 images: 
-  - src: 1055-whats_my_line-4_ComparisonLines1.jpg
+  - src: /images/1055-whats_my_line-4_ComparisonLines1.jpg
     alt: "Simulated current visualization, a birds-eye-view of currents that originated from different locations within the Gulf of Mexico and are defined by their line texture. (E3SM climate model, LANL, U.S. Dept. of Energy)"
     style: "grid-column: span 2; grid-row: span 4;"
-  - src: 1055-whats_my_line-1_LineComboC.jpg
+  - src: /images/1055-whats_my_line-1_LineComboC.jpg
     alt: "Visualization of currents originating from different locations within the Gulf of Mexico, a 3D perspective. The currents are visually defined by their line texture. (E3SM climate model, LANL, U.S. Dept. of Energy)"
-  - src: 1055-whats_my_line-2_Gulf_StreamLines_BW.jpg
+  - src: /images/1055-whats_my_line-2_Gulf_StreamLines_BW.jpg
     alt: "Visualization of currents in the Gulf of Mexico. The line selection illustrates the line distinguishability derived from line anchoring variations. (E3SM climate model, LANL, U.S. Dept. of Energy)"
-  - src: 1055-whats_my_line-3_Line_Anchor.jpg
+  - src: /images/1055-whats_my_line-3_Line_Anchor.jpg
     alt: "Comparison visualization showing traditional streamlines (top), same visualization as above with the addition of texture on the lines, same as above with the addition of color, same as above with the color selected to emphasize specific line sets and deemphasize others. Data - (E3SM climate model, LANL, U.S. Dept. of Energy)"
-  - src: 1055-whats_my_line-5_LineSetsDefined.jpg
+  - src: /images/1055-whats_my_line-5_LineSetsDefined.jpg
     alt: "Line set categories."
 
 ---

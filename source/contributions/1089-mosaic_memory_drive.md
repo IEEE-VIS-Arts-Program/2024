@@ -4,23 +4,23 @@ layout: contribution-item
 type: artwork
 submission: 1089
 title: "Mosaic Memory Drive"
-thumb: "1089-mosaic_memory_drive-thumb.jpg"
+thumb: /images/1089-mosaic_memory_drive-thumb.jpg
 url: "https://youtu.be/7kQUH994bhI?si=sK2V2Fl9ZauE2iVs"
 contributors: 
 - name: Ignacio Pérez-Messina
   affiliation: TU Wien, Institute of Visual Computing and Human-Centered Technology
   location: Vienna, Austria
 images: 
-  - src: 1089-mosaic_memory_drive-visap_images2.jpg
+  - src: /images/1089-mosaic_memory_drive-visap_images2.jpg
     alt: ""
     full: true
-  - src: 1089-mosaic_memory_drive-visap_images.jpg
+  - src: /images/1089-mosaic_memory_drive-visap_images.jpg
     alt: ""
-  - src: 1089-mosaic_memory_drive-visap_images5.jpg
+  - src: /images/1089-mosaic_memory_drive-visap_images5.jpg
     alt: ""
-  - src: 1089-mosaic_memory_drive-visap_images3.jpg
+  - src: /images/1089-mosaic_memory_drive-visap_images3.jpg
     alt: ""
-  - src: 1089-mosaic_memory_drive-visap_images4.jpg
+  - src: /images/1089-mosaic_memory_drive-visap_images4.jpg
     alt: ""
 
 ---

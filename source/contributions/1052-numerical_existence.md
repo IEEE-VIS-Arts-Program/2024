@@ -4,7 +4,7 @@ layout: contribution-item
 type: paper
 submission: 1052
 title: "Numerical Existence: Reflections on Curating Artistic Data Visualization Exhibitions"
-thumb: "1052-numerical_existence-thumb.jpg"
+thumb: /images/1052-numerical_existence-thumb.jpg
 url: "https://youtu.be/6VFDcuVqsC4?si=lNIxJz1fvjy8N8qP"
 contributors: 
 - name: Luiz Ludwig
@@ -17,7 +17,7 @@ contributors:
 - name: Doris Kosminsky
   affiliation: School of Fine Arts, Universidade Federal do Rio de Janeiro
   location: Rio de Janeiro, Brazil
-- src: 1052-numerical_existence-thumb.jpg
+- src: /images/1052-numerical_existence-thumb.jpg
   alt: "Woman helping a kid to write his name at Network of Us (2018)"
   full: true
 

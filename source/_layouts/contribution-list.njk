@@ -21,7 +21,7 @@
           {% if post.data.type == "artwork" %}
             <a class="card" href="{{ post.url | url }}">
               {% if post.data.thumb %}
-                <img src="{{ "/images/" + post.data.thumb | url }}" alt="{{ post.data.title }}">
+                <img src="{{ post.data.thumb | url }}" alt="{{ post.data.title }}">
               {% endif %}
                 <p>{{ post.data.title }}</p>
             </a>
@@ -38,7 +38,7 @@
             {% if post.data.type == "paper" %}
             <a class="card" href="{{ post.url | url }}">
               {% if post.data.thumb %}
-                <img src="{{ "/images/" + post.data.thumb | url }}" alt="{{ post.data.title }}">
+                <img src="{{ post.data.thumb | url }}" alt="{{ post.data.title }}">
               {% endif %}
                 <p>{{ post.data.title }}</p>
             </a>
@@ -55,7 +55,7 @@
             {% if post.data.type == "pictorial" %}
             <a class="card" href="{{ post.url | url }}">
               {% if post.data.thumb %}
-                <img src="{{ "/images/" + post.data.thumb | url }}" alt="{{ post.data.title }}">
+                <img src="{{ post.data.thumb | url }}" alt="{{ post.data.title }}">
               {% endif %}
                 <p>{{ post.data.title }}</p>
             </a>

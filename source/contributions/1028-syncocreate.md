@@ -4,7 +4,7 @@ layout: contribution-item
 type: artwork
 submission: 1028
 title: "SynCocreate: Fostering Interpersonal Connectedness via Brainwave-Driven Co-creation in Virtual Reality"
-thumb: "1028-syncocreate-thumb.jpg"
+thumb: /images/1028-syncocreate-thumb.jpg
 url: "https://vimeo.com/912243880"
 contributors: 
 - name: Xin Feng
@@ -14,17 +14,17 @@ contributors:
   affiliation: VLab, Independent Designer
   location: Cambridge, Massachusetts, United States
 images: 
-  - src: 1028-syncocreate-Representative_1.jpg
+  - src: /images/1028-syncocreate-Representative_1.jpg
     alt: "Representative image 1"
     full: true
-  - src: 1028-syncocreate-Representative_2.jpg
+  - src: /images/1028-syncocreate-Representative_2.jpg
     alt: "Representative image 2"
     key: true
-  - src: 1028-syncocreate-Sync_Art_1.jpg
+  - src: /images/1028-syncocreate-Sync_Art_1.jpg
     alt: "Synchronization results gallery 1"
-  - src: 1028-syncocreate-Sync_Art_2.jpg
+  - src: /images/1028-syncocreate-Sync_Art_2.jpg
     alt: "Synchronization results gallery 2"
-  - src: 1028-syncocreate-Typologies.jpg
+  - src: /images/1028-syncocreate-Typologies.jpg
     alt: "Examples of artwork generated based on various synchronization events between users"
 
 ---

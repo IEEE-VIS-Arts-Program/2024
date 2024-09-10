@@ -4,22 +4,22 @@ layout: contribution-item
 type: artwork
 submission: 1054
 title: "Curbside"
-thumb: "1054-curbside-thumb.jpg"
+thumb: /images/1054-curbside-thumb.jpg
 contributors: 
 - name: Karly Ross
   affiliation: University of Calgary
   location: Calgary, Alberta, Canada
 images: 
-  - src: 1054-curbside-1-117.jpg
+  - src: /images/1054-curbside-1-117.jpg
     alt: "Curbside in position at BRACKISH, view of full display."
     full: true
-  - src: 1054-curbside-1-80.jpg
+  - src: /images/1054-curbside-1-80.jpg
     alt: "Curbside on display during the BRACKISH exhibit"
-  - src: 1054-curbside-1-81.jpg
+  - src: /images/1054-curbside-1-81.jpg
     alt: "Curbside on display during the BRACKISH exhibit,"
-  - src: 1054-curbside-1-90.jpg
+  - src: /images/1054-curbside-1-90.jpg
     alt: "Curbside on display during the BRACKISH exhibit,"
-  - src: 1054-curbside-1-92.jpg
+  - src: /images/1054-curbside-1-92.jpg
     alt: "Curbside on display during the BRACKISH exhibit,"
 
 ---

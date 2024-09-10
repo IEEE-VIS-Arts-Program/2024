@@ -4,7 +4,7 @@ layout: contribution-item
 type: artwork
 submission: 1014
 title: "Flags of Inequality"
-thumb: "1014-flags_of_inequality-thumb.jpg"
+thumb: /images/1014-flags_of_inequality-thumb.jpg
 contributors: 
 - name: Rita Costa
   affiliation: Independent
@@ -13,15 +13,15 @@ contributors:
   affiliation: Independent
   location: Lisbon, Portugal
 images: 
-  - src: 1014-flags_of_inequality-still.jpg
+  - src: /images/1014-flags_of_inequality-still.jpg
     alt: "alt text"
     key: true
-  - src: 1014-flags_of_inequality-flags-grid.jpg
+  - src: /images/1014-flags_of_inequality-flags-grid.jpg
     alt: "An illustrative example of the display of the complete collection, in a grid."
     key: true
-  - src: 1014-flags_of_inequality-italy.jpg
+  - src: /images/1014-flags_of_inequality-italy.jpg
     alt: "An illustrative example of a single flag display, to be shown in a loop."
-  - src: 1014-flags_of_inequality-portugal.jpg
+  - src: /images/1014-flags_of_inequality-portugal.jpg
     alt: "An illustrative example of a single flag display, to be shown in a loop."
 
 ---

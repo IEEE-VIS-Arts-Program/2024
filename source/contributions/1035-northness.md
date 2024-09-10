@@ -4,7 +4,7 @@ layout: contribution-item
 type: pictorial
 submission: 1035
 title: '"Northness": Poetic Visualization of Data Infrastructure Inequality'
-thumb: "1035-northness-thumb.jpg"
+thumb: /images/1035-northness-thumb.jpg
 url: "https://youtu.be/IR1iZSixl54"
 contributors: 
 - name: Luiz Ludwig
@@ -14,7 +14,7 @@ contributors:
   affiliation: Universidade Federal do Rio de Janeiro 
   location: Rio de Janeiro, Brazil
 images: 
-- src: 1035-northness-thumb.jpg
+- src: /images/1035-northness-thumb.jpg
   alt: "Photo of the ruins: from a mistake to an integral part of the artwork. Photo by Diana Sandes."
   full: true
 ---

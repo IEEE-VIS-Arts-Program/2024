@@ -4,7 +4,7 @@ layout: contribution-item
 type: pictorial
 submission: 1082
 title: "Loading Ceramics: Visualising Possibilities of Robotics in Ceramics"
-thumb: "1082-loading_ceramics-thumb.jpg"
+thumb: /images/1082-loading_ceramics-thumb.jpg
 contributors: 
 - name: Varvara Guljajeva
   affiliation: Computational Media and Arts, Hong Kong University of Science and Technology
@@ -22,7 +22,7 @@ contributors:
   affiliation: Faculty of Architecture / 3DL, Estonian Academy of Arts
   location: Tallinn, Estonia
 images:
-- src: 1082-loading_ceramics-thumb.jpg
+- src: /images/1082-loading_ceramics-thumb.jpg
   alt: "Exhibition “Keraamika kannab | Loading Ceramics” at athe Estonian Architecture Museum from 12 Sep - 12 Nov 2023. Photos by Juta Kübarsepp."
   full: true
 

@@ -4,7 +4,7 @@ layout: contribution-item
 type: pictorial
 submission: 1077
 title: "City Pulse: Revealing City Identity Through Abstraction of Metro Lines"
-thumb: "1077-city_pulse-thumb.jpg"
+thumb: /images/1077-city_pulse-thumb.jpg
 url: "https://youtu.be/ShhqOakr7BE?si=we3FhuRwkV5giaIV"
 contributors: 
 - name: Xinyue Chen
@@ -29,7 +29,7 @@ contributors:
   affiliation: Peking University
   location: Beijing, China
 images:
-- src: 1077-city_pulse-thumb.jpg
+- src: /images/1077-city_pulse-thumb.jpg
   alt: "City metro graphic poster"
   full: true
 

@@ -4,14 +4,14 @@ layout: contribution-item
 type: paper
 submission: 1102
 title: "Humanity Test — EEG Data Mediated Artificial Intelligence Multiplayer Interactive System"
-thumb: "1102-humanity_test-thumb.jpg"
+thumb: /images/1102-humanity_test-thumb.jpg
 url: "https://youtu.be/iiCw3mZ2dOU?si=Vgv-o1P5N8aVZAHK"
 contributors: 
 - name: Fang Fang
   affiliation: College of Design and Innovation, Tongji University
   location: Shanghai, China
 images: 
-- src: 1102-humanity_test-thumb.jpg
+- src: /images/1102-humanity_test-thumb.jpg
   alt: "Voight-Kampff 2.0 interface design"
   full: true
   
