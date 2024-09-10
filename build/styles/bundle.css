@@ -12012,6 +12012,11 @@ body {
     max-width: 1400px;
 }
 
+.content a.nohover:hover {
+    background-color: transparent;
+    outline: 0;
+}
+
 hr {
     background-color: #999999;
     height: 1px;

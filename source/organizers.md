@@ -65,14 +65,8 @@ _Autodesk Research_
 Antonella Autuori\
 _SUPSI_
 
-Elena Aversa\
-_DensityDesign Lab, Politecnico di Milano_
-
 Andrea Benedetti\
 _Department of Design, Politecnico di Milano_
-
-Alison Bennett\
-_School of Art, RMIT University_
 
 David Bihanic\
 _Design Department, University of Paris 1 Pantheon-Sorbonne_
@@ -143,14 +137,8 @@ _University of Applied Sciences Mannheim_
 Lucas Oliveira\
 _Department of Systems Engineering and Computer Science, Federal University of Rio de Janeiro_
 
-Joel Ong\
-_Computational Arts, York University_
-
 Charles Perin\
 _Department of Computer Science, University of Victoria_
-
-Derek Reilly\
-_Dalhousie University_
 
 Charlie Roberts\
 _School of Interactive Games and Media, Rochester Institute of Technology_
@@ -172,9 +160,6 @@ _University of Calgary_
 
 Florian Windhager\
 _Department for Knowledge and Communication Management, Danube University Krems_
-
-Jo Wood\
-_City, University of London_
 
 Midori Yamazaki\
 _Out of Blue_
