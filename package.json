@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "eleventy --serve",
-    "build": "eleventy --pathprefix='2024'"
+    "build": "eleventy --pathprefix='/2024/'"
   },
   "author": "",
   "license": "ISC",
