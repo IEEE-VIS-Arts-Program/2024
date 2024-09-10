@@ -5,7 +5,7 @@ type: artwork
 submission: 1089
 title: "Mosaic Memory Drive"
 thumb: /images/1089-mosaic_memory_drive-thumb.jpg
-url: "https://youtu.be/7kQUH994bhI?si=sK2V2Fl9ZauE2iVs"
+url: "https://youtu.be/7kQUH994bhI"
 contributors: 
 - name: Ignacio Pérez-Messina
   affiliation: TU Wien, Institute of Visual Computing and Human-Centered Technology

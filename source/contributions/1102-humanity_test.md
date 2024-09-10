@@ -5,7 +5,7 @@ type: paper
 submission: 1102
 title: "Humanity Test — EEG Data Mediated Artificial Intelligence Multiplayer Interactive System"
 thumb: /images/1102-humanity_test-thumb.jpg
-url: "https://youtu.be/iiCw3mZ2dOU?si=Vgv-o1P5N8aVZAHK"
+url: "https://youtu.be/iiCw3mZ2dOU"
 contributors: 
 - name: Fang Fang
   affiliation: College of Design and Innovation, Tongji University
