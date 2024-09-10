@@ -14,13 +14,13 @@
       {% set previousPost = collections.contribution | getPreviousCollectionItem(page) %}
       {% set nextPost = collections.contribution | getNextCollectionItem(page) %}
       {% if previousPost %}
-        <a class="postnav_back" href="{{ previousPost.url }}">
+        <a class="postnav_back" href="{{ previousPost.url | url }}">
           <div class="button">«</div>
           <div class="label">{{ previousPost.data.title }}</div>
         </a>
       {% endif %}
       {% if nextPost %}
-      <a class="postnav_next" href="{{ nextPost.url }}">
+      <a class="postnav_next" href="{{ nextPost.url | url }}">
           <div class="button">»</div>
           <div class="label">{{ nextPost.data.title }}</div>
       </a>
