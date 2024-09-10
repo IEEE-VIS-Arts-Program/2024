@@ -11851,75 +11851,165 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
 /*# sourceMappingURL=bulma.css.map */
 @font-face {
     font-family: 'ancho';
-    src: url('fonts/ancholight-webfont.woff2') format('woff2'),
-         url('fonts/ancholight-webfont.woff') format('woff');
+    src: url('./fonts/ancholight-webfont.woff2') format('woff2'),
+         url('./fonts/ancholight-webfont.woff') format('woff');
     font-weight: 200;
     font-style: normal;
 }
 
-/*
 @font-face {
-    font-family: 'reforma2018';
-    src: url('fonts/reforma2018blanca-webfont.woff2') format('woff2'),
-         url('fonts/reforma2018blanca-webfont.woff') format('woff');
-    font-weight: normal;
+    font-family: 'ancho';
+    src: url('./fonts/ancho-ultrabold.woff2') format('woff2'),
+         url('./fonts/ancho-ultrabold.woff') format('woff');
+    font-weight: 800;
     font-style: normal;
 }
-@font-face {
-    font-family: 'reforma2018';
-    src: url('fonts/reforma2018blancaitalica-webfont.woff2') format('woff2'),
-         url('fonts/reforma2018blancaitalica-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: italic;
-}
+
+
+
+/*
+blanca
 */
 @font-face {
-    font-family: 'reforma2018';
-    src: url('fonts/reforma2018gris-webfont.woff2') format('woff2'),
-         url('fonts/reforma2018gris-webfont.woff') format('woff');
-    font-weight: normal;
+    font-family: 'reforma_1918blanca';
+    src: url('./fonts/reforma1918blanca.woff2') format('woff2'),
+         url('./fonts/reforma1918blanca.woff') format('woff');
+    font-weight: 400;
     font-style: normal;
 }
 @font-face {
-    font-family: 'reforma2018';
-    src: url('fonts/reforma2018grisitalica-webfont.woff2') format('woff2'),
-         url('fonts/reforma2018bgrisitalica-webfont.woff') format('woff');
-    font-weight: normal;
+    font-family: 'reforma_1918blanca_italica';
+    src: url('./fonts/reforma1918blancaitalica.woff2') format('woff2'),
+         url('./fonts/reforma1918blancaitalica.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'reforma_1918gris';
+    src: url('./fonts/reforma1918gris.woff2') format('woff2'),
+         url('./fonts/reforma1918gris.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'reforma_1918gris_italica';
+    src: url('./fonts/reforma1918grisitalica.woff2') format('woff2'),
+         url('./fonts/reforma1918grisitalica.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'reforma_1918negra';
+    src: url('./fonts/reforma1918negra.woff2') format('woff2'),
+         url('./fonts/reforma1918negra.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'reforma_1918negra_italica';
+    src: url('./fonts/reforma1918negraitalica.woff2') format('woff2'),
+         url('./fonts/reforma1918negraitalica.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'reforma_1969blanca';
+    src: url('./fonts/reforma1969blanca-webfont.woff2') format('woff2'),
+         url('./fonts/reforma1969blanca-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'reforma_1969blanca_italica';
+    src: url('./fonts/reforma1969blancaitalica-webfont.woff2') format('woff2'),
+         url('./fonts/reforma1969blancaitalica-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'reforma_1969gris';
+    src: url('./fonts/reforma1969gris-webfont.woff2') format('woff2'),
+         url('./fonts/reforma1969gris-webfont.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'reforma_1969gris_italica';
+    src: url('./fonts/reforma1969grisitalica-webfont.woff2') format('woff2'),
+         url('./fonts/reforma1969grisitalica-webfont.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'reforma_1969negra';
+    src: url('./fonts/reforma1969negra-webfont.woff2') format('woff2'),
+         url('./fonts/reforma1969negra-webfont.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'reforma_1969negra_italica';
+    src: url('./fonts/reforma1969negraitalica-webfont.woff2') format('woff2'),
+         url('./fonts/reforma1969negraitalica-webfont.woff') format('woff');
+    font-weight: 800;
     font-style: italic;
 }
 @font-face {
     font-family: 'reforma2018';
-    src: url('fonts/reforma2018negra-webfont.woff2') format('woff2'),
-         url('fonts/reforma2018negra-webfont.woff') format('woff');
-    font-weight: bold;
+    src: url('./fonts/reforma2018blanca.woff2') format('woff2'),
+         url('./fonts/reforma2018blanca.woff') format('woff');
+    font-weight: 400;
     font-style: normal;
 }
 @font-face {
     font-family: 'reforma2018';
-    src: url('fonts/reforma2018negraitalica-webfont.woff2') format('woff2'),
-         url('fonts/reforma2018negraitalica-webfont.woff') format('woff');
-    font-weight: bold;
+    src: url('./fonts/reforma2018blancaitalica.woff2') format('woff2'),
+         url('./fonts/reforma2018blancaitalica.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'reforma2018';
+    src: url('./fonts/reforma2018gris.woff2') format('woff2'),
+         url('./fonts/reforma2018gris.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'reforma2018';
+    src: url('./fonts/reforma2018grisitalica.woff2') format('woff2'),
+         url('./fonts/reforma2018bgrisitalica.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'reforma2018';
+    src: url('./fonts/reforma2018negra.woff2') format('woff2'),
+         url('./fonts/reforma2018negra.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'reforma2018';
+    src: url('./fonts/reforma2018negraitalica.woff2') format('woff2'),
+         url('./fonts/reforma2018negraitalica.woff') format('woff');
+    font-weight: 800;
     font-style: italic;
 }
 
+/* common.css */
+
 html {
-    background-color: #1682E5;
+    background-color: rgb(230, 218, 218);
 }
 
 body {
-    font-family: reforma2018;
-    background: linear-gradient(to bottom, #1682E5 0 ,#1682E5 60px, #FEEAFD 260px, #FEEAFD 100%);
-    min-height: 100vh;
+    /* background-color: #ffe8e8; */
 }
 
-.content a {
-   color: #F551EA;
-}
-
-.content a:hover {
-    color: #FFFFFF;
-    background-color: #F551EA;
-    outline: 4px solid #F551EA;
+.section {
+    margin: 0 auto;
+    max-width: 1400px;
 }
 
 .content a.nohover:hover {
@@ -11928,61 +12018,336 @@ body {
 }
 
 hr {
-    background-color: rgb(219,219,219);
+    background-color: #999999;
     height: 1px;
 }
 
-.navbar.is-fixed-top {
-  color: #FDDCFB;
-  background-color: #1682E5;
+.content h1 {
+    font-family: ancho;
+    font-size: 1.875em;
+    line-height: 1;
+    font-weight: 800;
+    color: #471a5c;
 }
+
+.content h2 {
+    font-family: ancho;
+    font-size: 1.125em;
+    line-height: 2.25em;
+    font-weight: 800;
+    color: #471a5c;
+}
+
+.content h3 {
+    font-family: ancho;
+    font-size: 1.125em;
+    line-height: 2.25em;
+    font-weight: 200;
+    /* color: #471a5c; */
+    /* color: #8282FF; */
+}
+
+.content p {
+    font-family: reforma1918;
+    font-size: 18pt;
+    line-height: 24pt;
+    color: #471a5c;
+}
+
+/* navbar.css*/
+
+.navbar {
+    font-family: reforma2018;
+    font-weight: 600;
+    font-size: 1.125em;
+    line-height: 1.125em;
+    color: #471a5c;
+    background-color: #ffe8e8;
+}
+
+.navbar:hover {
+    background-color: rgb(230, 218, 218);
+}
+
 
 @media screen and (max-width: 1023px) {
     .navbar-menu {
-        background-color: #1682E5;
-        box-shadow: 0 8px 16px rgba(10, 10, 10, 0.1);
-        padding: 0.5rem 0;
+        background-color: #ffe8e8;
     }
 }
 
-a.navbar-item {
-    color: #FDDCFB;
-    background-color: #1682E5;
+.navbar-item, .navbar-link {
+    color: #471a5c;    
 }
 
 a.navbar-item:hover {
-    color: #FDDCFB;
-    background-color: #48195C;
+    color: #8282FF;
+    background-color: transparent;
 }
 
-.navbar-brand {
-    font-family: ancho !important;
+.navbar-burger {
+    color: #471a5c;
+}
+
+.navbar-burger:hover {
+    background-color: transparent;
+}
+
+/* hero.css */
+
+.hero-body {
+    margin-top: 20vw;
+}
+
+.hero-body a {
+    color: #000;
+}
+
+.wave-animation {
+    position: absolute;
+    top: 0;
+    width: 100vw;
+    height: 100vw;
+    z-index: -1;
+}
+
+.hero_message.content p {
+    font-family: reforma2018;
+    font-weight: 600;;
+}
+
+
+/* contribution.css */
+
+h2.title {
+    font-family: ancho;
+    font-size: 1.875em;
+    line-height: 1;
+    font-weight: 800;
+    color: #471a5c;
+}
+
+h3.title {
+    font-family: ancho;
+    font-size: 1.125em;
+    line-height: 2.25em;
     font-weight: 200;
-    color: #FDDCFB;
+    color: #000000;
 }
 
-.navbar-brand a {
-    color: #FDDCFB;
+.content h3 {
+    margin-top: 3em;
+    /* margin-bottom: 3em; */
 }
 
-.navbar-brand a:hover {
-    color: #FDDCFB;
-    background-color: #48195C;
+.content p.content-type {
+    font-family: reforma2018;
+    font-size: 0.875em;
+    font-weight: 600;
+    line-height: 1.125em;
+    color: #471a5c;
+}
+.content p.byline {
+    font-family: reforma2018;
+    font-size: 0.875em;
+    line-height: 1.125em;
+    color: #471a5c;
 }
 
-.navbar-burger span {
-    background-color: #FDDCFB;
+.content p.byline a {
+    color: #471a5c;
 }
 
-.hero {
-    background: linear-gradient(0deg, #FEEAFD 0%, #1682E5 65%, #1682E5 100%);
+.content p {
+    font-family: reforma1918;
+    font-size: 18pt;
+    line-height: 24pt;
+    color: #471a5c;
 }
+
+p.secondary {
+    color: #000000;
+    font-family: reforma2018;
+    font-size: 1.125em;
+    line-height: 1.125;
+}
+
+.postnav {
+    padding: 1em 0;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.postnav .button {
+    border: 0;
+    padding: 0;
+    width: 3em;
+    font-size: 0.875em;
+    min-height: unset;
+    height: unset;
+    background-color: transparent;
+    flex: 1 0 0;
+    color: #471a5c;
+}
+
+.postnav .label {
+    padding: 2pt 0;
+    font-size: 0.875em;
+    font-weight: 400;
+    line-height: 1.125em;
+    flex: 4 0 0;
+    color: #471a5c;
+}
+
+.postnav_back {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    max-width: 8em;
+}
+
+.postnav_next {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-start;
+    text-align: right;
+    max-width: 8em;
+}
+
+@media screen and (min-width: 1024px) {
+    .postnav {
+        padding: 0;
+        display: static;
+    }
+    .postnav_back {
+        position: fixed;
+        top: 6.5em;
+        left: 4em;
+    }
+    .postnav_next {
+        position: fixed;
+        top: 6.5em;
+        right: 4em;
+    }
+}
+
+.art {
+    margin: 3em 0;
+    text-align: center;
+}
+
+.card-group {
+    column-width: 200px;
+    column-gap: 10px;
+}
+
+.card {
+    break-inside: avoid-column; /* Prevent element from breaking */
+    page-break-inside: avoid; /* Prevent element from breaking in Firefox */
+    margin-bottom: 10px;
+    display: block;
+    color:#471a5c;
+    background-color: #ffffff;
+    box-sizing: border-box;
+    padding: 0.5em;
+}
+
+.card p {
+    margin: 0.5em 0;
+    font-family: reforma2018;
+    font-size: 0.875em;
+    line-height: 1.5;
+    color: inherit;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+}
+
+.card:hover {
+    color: #ffffff;
+    background-color:#471a5c;
+}
+
+.image-grid {
+    margin: 2em 0 4em 0;
+    box-sizing: border-box;
+}
+
+.image-grid img {
+    width: 100%;
+    height: auto;
+}
+
+@media screen and (min-width: 900px) {
+    .image-grid {
+        width: 100%;
+        display: grid;
+        gap: 15px;
+        grid-template-columns: repeat(4, 1fr);
+    }
+    .grid-focus {
+        grid-column: span 2;
+        grid-row: span 2;
+    }
+    .grid-full {
+        grid-column: span 4;
+    }
+}
+@media screen and (max-width: 900px) {
+    .image-grid {
+        width: 100%;
+        display: grid;
+        gap: 15px;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .grid-focus {
+        grid-column: span 2;
+    }
+}
+/* footer.css */
 
 .footer {
-    background: linear-gradient(0deg, #A2CDF5 0%, #FEEAFD 100%);
+    margin: 0;
+    padding: 0 0 0 0;
+    font-family: reforma2018;
+    font-weight: 600;
+    font-size: 1.125em;
+    line-height: 1.75;
+    color: #8282FF;
+    background-color: transparent;
+}
+
+.footer .footer_head {
+    padding: 0;
+    background-image: url('../images/footer-wave.svg');
+    background-size: cover;
+    background-position: 0;
+}
+
+.footer .footer_head::before {
+    display: block;
+    content: '';
+    padding-bottom: 5%;
+}
+
+.footer .footer_body {
+    padding: 4em 0;
+    margin: 0;
+    background-color: #fef1f1;    
+}
+
+.footer .columns {
+    margin: 0;
+}
+
+.footer a {
+    color: #8282FF;
 }
 
 .footer h4 {
-    font-weight: bold;
+    font-weight: 800;
 }
 
