@@ -19,7 +19,7 @@
         {%  set sortedContributors = collections.contribution | sortContributions %}
         {% for post in sortedContributors %}
           {% if post.data.type == "artwork" %}
-            <a class="card" href="{{ post.url }}">
+            <a class="card" href="{{ post.url | url }}">
               {% if post.data.thumb %}
                 <img src="{{ "/images/" + post.data.thumb | url }}" alt="{{ post.data.title }}">
               {% endif %}
@@ -36,12 +36,12 @@
         <div class="card-group">
           {% for post in sortedContributors %}
             {% if post.data.type == "paper" %}
-              <a class="card" href="{{ post.url }}">
+            <a class="card" href="{{ post.url | url }}">
               {% if post.data.thumb %}
                 <img src="{{ "/images/" + post.data.thumb | url }}" alt="{{ post.data.title }}">
               {% endif %}
                 <p>{{ post.data.title }}</p>
-              </a>
+            </a>
             {% endif %}
           {% endfor %}
         </div>
@@ -53,12 +53,12 @@
           <div class="card-group">
           {% for post in sortedContributors %}
             {% if post.data.type == "pictorial" %}
-              <a class="card" href="{{ post.url }}">
+            <a class="card" href="{{ post.url | url }}">
               {% if post.data.thumb %}
                 <img src="{{ "/images/" + post.data.thumb | url }}" alt="{{ post.data.title }}">
               {% endif %}
                 <p>{{ post.data.title }}</p>
-              </a>
+            </a>
             {% endif %}
           {% endfor %}
         </div>
