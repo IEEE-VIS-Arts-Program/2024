@@ -10,7 +10,7 @@ If this is your first time running the app, install the dependencies:
 
 To build the website, run:
 
-`npm build`
+`npm run build`
 
 For loca development with live update, run:
 
