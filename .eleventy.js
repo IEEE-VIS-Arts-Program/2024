@@ -5,6 +5,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./source/images/");
   eleventyConfig.addPassthroughCopy("./source/scripts/");
   eleventyConfig.addPassthroughCopy("./source/downloads/");
+  eleventyConfig.addPassthroughCopy("./source/waves");
   eleventyConfig.addWatchTarget("./source/styles/");
   eleventyConfig.addFilter("sortContributions", function(collection) {
     return collection.sort((a, b) => {

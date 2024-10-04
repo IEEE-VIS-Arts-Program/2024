@@ -11851,8 +11851,8 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
 /*# sourceMappingURL=bulma.css.map */
 @font-face {
     font-family: 'ancho';
-    src: url('fonts/ancholight-webfont.woff2') format('woff2'),
-         url('fonts/ancholight-webfont.woff') format('woff');
+    src: url('fonts/ancholight.woff2') format('woff2'),
+         url('fonts/ancholight.woff') format('woff');
     font-weight: 200;
     font-style: normal;
 }
