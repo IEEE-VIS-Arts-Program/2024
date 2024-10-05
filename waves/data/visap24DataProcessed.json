@@ -1,550 +1,922 @@
 [
-  {
-    "Submission": 1004,
-    "Title": "EchoVision",
-    "FullTitle": "EchoVision",
-    "Category": "artwork",
-    "Year": 2024,
-    "URL": "https://vimeo.com/955577972",
-    "creators": [
-      {
-        "name": "Botao Amber Hu",
-        "institution": "Reality Design Lab",
-        "location": "New York, New York, United States",
-        "lat": 40.7128,
-        "lon": -74.006,
-        "x": 528.6850985946301,
-        "y": 442.5718110002298,
-        "dist": 64.22081216340173,
-        "angleRad": -1.107763546761807,
-        "angleDeg": -63.47017592789455
-      },
-      {
-        "name": "Danlin Huang",
-        "institution": "China Academy of Art",
-        "location": "HangZhou, China",
-        "lat": 30.2741,
-        "lon": 120.1551,
-        "x": 337.5898452951445,
-        "y": 103.3855931096935,
-        "dist": 428.6071406256139,
-        "angleRad": -1.9594312101313287,
-        "angleDeg": -112.26713858673669
-      },
-      {
-        "name": "Jiabao Li",
-        "institution": "School of Design and Creative Technologies, University of Texas at Austin",
-        "location": "Austin, Texas, United States",
-        "lat": 30.2672,
-        "lon": -97.7431,
-        "x": 443.3518383944568,
-        "y": 485.57591994581287,
-        "dist": 58.463178879493285,
-        "angleRad": -2.8917628826777486,
-        "angleDeg": -165.68580853001964
-      },
-      {
-        "name": "Jianan Johanna Liu",
-        "institution": "China Academy of Art",
-        "location": "HangZhou, China",
-        "lat": 30.2741,
-        "lon": 120.1551,
-        "x": 337.5898452951445,
-        "y": 103.3855931096935,
-        "dist": 428.6071406256139,
-        "angleRad": -1.9594312101313287,
-        "angleDeg": -112.26713858673669
-      },
-      {
-        "name": "Xiaobo Aaron Hu",
-        "institution": "Reality Design Lab",
-        "location": "New York, New York, United States",
-        "lat": 40.7128,
-        "lon": -74.006,
-        "x": 528.6850985946301,
-        "y": 442.5718110002298,
-        "dist": 64.22081216340173,
-        "angleRad": -1.107763546761807,
-        "angleDeg": -63.47017592789455
-      },
-      {
-        "name": "Yilan Elan Tao",
-        "institution": "Reality Design Lab",
-        "location": "New York, New York, United States",
-        "lat": 40.7128,
-        "lon": -74.006,
-        "x": 528.6850985946301,
-        "y": 442.5718110002298,
-        "dist": 64.22081216340173,
-        "angleRad": -1.107763546761807,
-        "angleDeg": -63.47017592789455
-      }
-    ]
-  },
-  {
-    "Submission": 1028,
-    "Title": "SynCocreate",
-    "FullTitle": "SynCocreate: Fostering Interpersonal Connectedness via Brainwave-Driven Co-creation in Virtual Reality",
-    "Category": "artwork",
-    "Year": 2024,
-    "URL": "https://vimeo.com/912243880",
-    "creators": [
-      {
-        "name": "Tiange Wang",
-        "institution": "VLab, Independent Designer",
-        "location": "Cambridge, Massachusetts, United States",
-        "lat": 42.3736,
-        "lon": -71.1097,
-        "x": 537.3440573036852,
-        "y": 434.52420499687713,
-        "dist": 75.40309646437045,
-        "angleRad": -1.052663463415565,
-        "angleDeg": -60.313173701335806
-      },
-      {
-        "name": "Xin Feng",
-        "institution": "Independent Researcher",
-        "location": "San Mateo, California, United States",
-        "lat": 37.563,
-        "lon": -122.3255,
-        "x": 367.48309797322474,
-        "y": 433.22841228867316,
-        "dist": 148.40222835158824,
-        "angleRad": -2.674669726799351,
-        "angleDeg": -153.24728693701175
-      }
-    ]
-  },
-  {
-    "Submission": 1035,
-    "Title": "Northness",
-    "FullTitle": "\"Northness\": Poetic Visualization of Data Infrastructure Inequality",
-    "Category": "pictorial",
-    "Year": 2024,
-    "URL": "https://youtu.be/IR1iZSixl54",
-    "creators": [
-      {
-        "name": "Doris Kosminsky School of Fine Arts",
-        "institution": "Universidade Federal do Rio de Janeiro",
-        "location": "Rio de Janeiro, Brazil",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "x": 672.0454758678438,
-        "y": 698.5779882070336,
-        "dist": 262.7181582789485,
-        "angleRad": 0.8567895858071007,
-        "angleDeg": 49.090427197508774
-      },
-      {
-        "name": "Luiz Ludwig",
-        "institution": "Pontifical Catholic University of Rio de Janeiro; PPGAV, Federal University of Rio de Janeiro",
-        "location": "Rio de Janeiro, Brazil",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "x": 672.0454758678438,
-        "y": 698.5779882070336,
-        "dist": 262.7181582789485,
-        "angleRad": 0.8567895858071007,
-        "angleDeg": 49.090427197508774
-      }
-    ]
-  },
-  {
-    "Submission": 1039,
-    "Title": "Transferscope",
-    "FullTitle": "Transferscope — Synthesized Reality: Sample anything. Transform everything.",
-    "Category": "artwork",
-    "Year": 2024,
-    "URL": "https://vimeo.com/929277009",
-    "creators": [
-      {
-        "name": "Christopher Pietsch",
-        "institution": "AI+Design Lab, University of Design Schwäbisch Gmünd",
-        "location": "Schwäbisch Gmünd, Germany",
-        "lat": 48.7981,
-        "lon": 9.7984,
-        "x": 702.0723403199459,
-        "y": 291.596688107058,
-        "dist": 290.30639131295146,
-        "angleRad": -0.8008930943833624,
-        "angleDeg": -45.88779414933936
-      }
-    ]
-  },
-  {
-    "Submission": 1041,
-    "Title": "Displacement \nFlowers",
-    "FullTitle": "Displacement Flowers: Visualizaing global human displacment due to natural disasters",
-    "Category": "artwork",
-    "Year": 2024,
-    "URL": "https://vimeo.com/953616089",
-    "creators": [
-      {
-        "name": "Elizabeth McCaffrey",
-        "institution": "Khoury College of Computer Sciences/College of Arts Media and Design, Northeastern University",
-        "location": "Boston, Massachusetts, United States",
-        "lat": 42.3601,
-        "lon": -71.0589,
-        "x": 537.5149783931276,
-        "y": 434.56502591268384,
-        "dist": 75.4524722802961,
-        "angleRad": -1.050427566159569,
-        "angleDeg": -60.18506622514236
-      }
-    ]
-  },
-  {
-    "Submission": 1047,
-    "Title": "A Perfect Storm",
-    "FullTitle": "A Perfect Storm",
-    "Category": "pictorial",
-    "Year": 2024,
-    "URL": "https://vimeo.com/901381287",
-    "creators": [
-      {
-        "name": "Chloe Hudson Prock",
-        "institution": "College of Arts Media and Design, Northeastern University",
-        "location": "Boston, Massachusetts, United States",
-        "lat": 42.3601,
-        "lon": -71.0589,
-        "x": 537.5149783931276,
-        "y": 434.56502591268384,
-        "dist": 75.4524722802961,
-        "angleRad": -1.050427566159569,
-        "angleDeg": -60.18506622514236
-      },
-      {
-        "name": "Gregory Gold",
-        "institution": "College of Arts Media and Design, Northeastern University",
-        "location": "Boston, Massachusetts, United States",
-        "lat": 42.3601,
-        "lon": -71.0589,
-        "x": 537.5149783931276,
-        "y": 434.56502591268384,
-        "dist": 75.4524722802961,
-        "angleRad": -1.050427566159569,
-        "angleDeg": -60.18506622514236
-      },
-      {
-        "name": "Pedro M. Cruz",
-        "institution": "College of Arts Media and Design, Northeastern University",
-        "location": "Boston, Massachusetts, United States",
-        "lat": 42.3601,
-        "lon": -71.0589,
-        "x": 537.5149783931276,
-        "y": 434.56502591268384,
-        "dist": 75.4524722802961,
-        "angleRad": -1.050427566159569,
-        "angleDeg": -60.18506622514236
-      }
-    ]
-  },
-  {
-    "Submission": 1052,
-    "Title": "Numerical \nExistence",
-    "FullTitle": "Numerical Existence: Reflections on Curating Artistic Data Visualization Exhibitions",
-    "Category": "paper",
-    "Year": 2024,
-    "URL": "https://youtu.be/6VFDcuVqsC4?si=lNIxJz1fvjy8N8qP",
-    "creators": [
-      {
-        "name": "Barbara Castro Escola",
-        "institution": "Superior de Desenho Industrial, Rio de Janeiro State University",
-        "location": "Rio de Janeiro, Brazil",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "x": 672.0454758678438,
-        "y": 698.5779882070336,
-        "dist": 262.7181582789485,
-        "angleRad": 0.8567895858071007,
-        "angleDeg": 49.090427197508774
-      },
-      {
-        "name": "Doris Kosminsky",
-        "institution": "School of Fine Arts, Universidade Federal do Rio de Janeiro",
-        "location": "Rio de Janeiro, Brazil",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "x": 672.0454758678438,
-        "y": 698.5779882070336,
-        "dist": 262.7181582789485,
-        "angleRad": 0.8567895858071007,
-        "angleDeg": 49.090427197508774
-      },
-      {
-        "name": "Luiz Ludwig",
-        "institution": "PPGAV, Federal University of Rio de Janeiro; Brazil Pontifical Catholic University of Rio de Janeiro",
-        "location": "Rio de Janeiro, Brazil",
-        "lat": -22.9068,
-        "lon": -43.1729,
-        "x": 672.0454758678438,
-        "y": 698.5779882070336,
-        "dist": 262.7181582789485,
-        "angleRad": 0.8567895858071007,
-        "angleDeg": 49.090427197508774
-      }
-    ]
-  },
-  {
-    "Submission": 1068,
-    "Title": "Rage Against \nthe Archive",
-    "FullTitle": "Rage Against the Archive",
-    "Category": "artwork",
-    "Year": 2024,
-    "URL": "https://youtu.be/9XWW8zewTNY?si=szAFgz8n2P6oQTUY",
-    "creators": [
-      {
-        "name": "Anshul Roy",
-        "institution": "College of Visual and Performing Arts, Syracuse University",
-        "location": "Syracuse, New York, United States",
-        "lat": 43.0481,
-        "lon": -76.1474,
-        "x": 520.865008928576,
-        "y": 432.95549813893405,
-        "dist": 70.24512436351216,
-        "angleRad": -1.2692140755648413,
-        "angleDeg": -72.72060982846375
-      }
-    ]
-  },
-  {
-    "Submission": 1077,
-    "Title": "City Pulse",
-    "FullTitle": "City Pulse: Revealing City Identity Through Abstraction of Metro Lines",
-    "Category": "pictorial",
-    "Year": 2024,
-    "URL": "https://youtu.be/ShhqOakr7BE?si=we3FhuRwkV5giaIV",
-    "creators": [
-      {
-        "name": "Dr. Wai Ping Chan",
-        "institution": "Central Academy of Fine Arts",
-        "location": "Beijing, China",
-        "lat": 39.9042,
-        "lon": 116.4074,
-        "x": 390.83828187383693,
-        "y": 105.15488578622933,
-        "dist": 409.6863099964434,
-        "angleRad": -1.8405063504675985,
-        "angleDeg": -105.45324604881934
-      },
-      {
-        "name": "Jing Chen",
-        "institution": "Nanjing University of the Arts, NUA School of Design",
-        "location": "Nanjing, China",
-        "lat": 32.0603,
-        "lon": 118.7969,
-        "x": 352.26583508950864,
-        "y": 100.63528981648517,
-        "dist": 425.84240838042297,
-        "angleRad": -1.9250837718710472,
-        "angleDeg": -110.2991753373364
-      },
-      {
-        "name": "Rebecca Ruige Xu",
-        "institution": "College of Visual & Performing Arts, Syracuse University",
-        "location": "Syrcause, New York, United States",
-        "lat": 43.0481,
-        "lon": -76.1474,
-        "x": 520.865008928576,
-        "y": 432.95549813893405,
-        "dist": 70.24512436351216,
-        "angleRad": -1.2692140755648413,
-        "angleDeg": -72.72060982846375
-      },
-      {
-        "name": "Xiaoru Yuan",
-        "institution": "Peking University",
-        "location": "Beijing, China",
-        "lat": 39.9042,
-        "lon": 116.4074,
-        "x": 390.83828187383693,
-        "y": 105.15488578622933,
-        "dist": 409.6863099964434,
-        "angleRad": -1.8405063504675985,
-        "angleDeg": -105.45324604881934
-      },
-      {
-        "name": "Xinyue Chen",
-        "institution": "Peking University",
-        "location": "Beijing, China",
-        "lat": 39.9042,
-        "lon": 116.4074,
-        "x": 390.83828187383693,
-        "y": 105.15488578622933,
-        "dist": 409.6863099964434,
-        "angleRad": -1.8405063504675985,
-        "angleDeg": -105.45324604881934
-      },
-      {
-        "name": "Yixuan Zhang",
-        "institution": "Central Academy of Fine Arts",
-        "location": "Beijing, China",
-        "lat": 39.9042,
-        "lon": 116.4074,
-        "x": 390.83828187383693,
-        "y": 105.15488578622933,
-        "dist": 409.6863099964434,
-        "angleRad": -1.8405063504675985,
-        "angleDeg": -105.45324604881934
-      },
-      {
-        "name": "Yutong Yang",
-        "institution": "Shanghai Jiao Tong University",
-        "location": "Shanghai, China",
-        "lat": 31.2304,
-        "lon": 121.4737,
-        "x": 333.62764224034544,
-        "y": 108.30073440982625,
-        "dist": 425.5958330793939,
-        "angleRad": -1.972423250324556,
-        "angleDeg": -113.01152765707295
-      }
-    ]
-  },
-  {
-    "Submission": 1078,
-    "Title": "BioRhythms",
-    "FullTitle": "BioRhythms: Artistic research with plants, real-time animation and sound",
-    "Category": "artwork",
-    "Year": 2024,
-    "URL": "https://youtu.be/Q5D8ABeS060?si=oHwwtxTeKzOOdPM6",
-    "creators": [
-      {
-        "name": "Rewa Wright",
-        "institution": "School of Creative Practice, Queensland University of Technology",
-        "location": "Brisbane, Queensland, Australia",
-        "lat": -27.4698,
-        "lon": 153.0251,
-        "x": 57.2246973924548,
-        "y": 605.6833380256298,
-        "dist": 455.20603387075977,
-        "angleRad": 2.90735720335105,
-        "angleDeg": 166.5792972889734
-      }
-    ]
-  },
-  {
-    "Submission": 1079,
-    "Title": "ReCollection",
-    "FullTitle": "ReCollection",
-    "Category": "artwork",
-    "Year": 2024,
-    "URL": "https://www.zhangweidi.com/recollection",
-    "creators": [
-      {
-        "name": "Jieliang Luo",
-        "institution": "Independant Researcher",
-        "location": "Beijing, China",
-        "lat": 39.9042,
-        "lon": 116.4074,
-        "x": 390.83828187383693,
-        "y": 105.15488578622933,
-        "dist": 409.6863099964434,
-        "angleRad": -1.8405063504675985,
-        "angleDeg": -105.45324604881934
-      },
-      {
-        "name": "weidi zhang",
-        "institution": "media and immersive experience center, Arizona State University",
-        "location": "Tempe, Arizona, United States",
-        "lat": 33.4255,
-        "lon": -111.94,
-        "x": 395.2562225393385,
-        "y": 462.0105123339049,
-        "dist": 111.43053032477737,
-        "angleRad": -2.7934024061059644,
-        "angleDeg": -160.05016835156098
-      }
-    ]
-  },
-  {
-    "Submission": 1089,
-    "Title": "Mosaic \nMemory \nDrive",
-    "FullTitle": "Mosaic Memory Drive",
-    "Category": "artwork",
-    "Year": 2024,
-    "URL": "https://youtu.be/7kQUH994bhI?si=sK2V2Fl9ZauE2iVs",
-    "creators": [
-      {
-        "name": "Ignacio Pérez-Messina",
-        "institution": "TU Wien, Institute of Visual Computing and Human-Centered Technology",
-        "location": "Vienna, Austria",
-        "lat": 48.2082,
-        "lon": 16.3738,
-        "x": 707.7150185673634,
-        "y": 276.472037678928,
-        "dist": 305.1619653654299,
-        "angleRad": -0.8221176222441888,
-        "angleDeg": -47.103870017922546
-      }
-    ]
-  },
-  {
-    "Submission": 1097,
-    "Title": "DataWagashi",
-    "FullTitle": "DataWagashi: Feeling Climate Data via New Design Medium",
-    "Category": "artwork",
-    "Year": 2024,
-    "URL": "https://vimeo.com/892809493/dae9f9db99",
-    "creators": [
-      {
-        "name": "I-Yang Huang",
-        "institution": "VLab",
-        "location": "Cambridge, Massachusetts, United States",
-        "lat": 42.3736,
-        "lon": -71.1097,
-        "x": 537.3440573036852,
-        "y": 434.52420499687713,
-        "dist": 75.40309646437045,
-        "angleRad": -1.052663463415565,
-        "angleDeg": -60.313173701335806
-      },
-      {
-        "name": "Tiange Wang",
-        "institution": "VLab",
-        "location": "Cambridge, Massachusetts, United States",
-        "lat": 42.3736,
-        "lon": -71.1097,
-        "x": 537.3440573036852,
-        "y": 434.52420499687713,
-        "dist": 75.40309646437045,
-        "angleRad": -1.052663463415565,
-        "angleDeg": -60.313173701335806
-      }
-    ]
-  },
-  {
-    "Submission": 1102,
-    "Title": "Humanity Test",
-    "FullTitle": "Humanity Test — EEG Data Mediated Artificial Intelligence Multiplayer Interactive System",
-    "Category": "paper",
-    "Year": 2024,
-    "URL": "https://youtu.be/iiCw3mZ2dOU?si=Vgv-o1P5N8aVZAHK",
-    "creators": [
-      {
-        "name": "Fang Fang",
-        "institution": "College of Design and Innovation, Tongji University",
-        "location": "Shanghai, China",
-        "lat": 31.2304,
-        "lon": 121.4737,
-        "x": 333.62764224034544,
-        "y": 108.30073440982625,
-        "dist": 425.5958330793939,
-        "angleRad": -1.972423250324556,
-        "angleDeg": -113.01152765707295
-      },
-      {
-        "name": "Fang Fang",
-        "institution": "College of Design and Innovation, Tongji University",
-        "location": "Shanghai, China",
-        "lat": 31.2304,
-        "lon": 121.4737,
-        "x": 333.62764224034544,
-        "y": 108.30073440982625,
-        "dist": 425.5958330793939,
-        "angleRad": -1.972423250324556,
-        "angleDeg": -113.01152765707295
-      }
-    ]
-  }
+    {
+        "Submission": 1004,
+        "Title": "EchoVision",
+        "FullTitle": "EchoVision",
+        "Category": "artwork",
+        "Year": 2024,
+        "URL": "https://vimeo.com/955577972",
+        "creators": [
+            {
+                "name": "Botao Amber Hu",
+                "institution": "Reality Design Lab",
+                "location": "New York, New York, United States",
+                "lat": 40.7128,
+                "lon": -74.006,
+                "x": 528.6850985946301,
+                "y": 442.5718110002298,
+                "dist": 64.22081216340173,
+                "angleRad": -1.107763546761807,
+                "angleDeg": -63.47017592789455
+            },
+            {
+                "name": "Danlin Huang",
+                "institution": "China Academy of Art",
+                "location": "HangZhou, China",
+                "lat": 30.2741,
+                "lon": 120.1551,
+                "x": 337.5898452951445,
+                "y": 103.3855931096935,
+                "dist": 428.6071406256139,
+                "angleRad": -1.9594312101313287,
+                "angleDeg": -112.26713858673669
+            },
+            {
+                "name": "Jiabao Li",
+                "institution": "School of Design and Creative Technologies, University of Texas at Austin",
+                "location": "Austin, Texas, United States",
+                "lat": 30.2672,
+                "lon": -97.7431,
+                "x": 443.3518383944568,
+                "y": 485.57591994581287,
+                "dist": 58.463178879493285,
+                "angleRad": -2.8917628826777486,
+                "angleDeg": -165.68580853001964
+            },
+            {
+                "name": "Jianan Johanna Liu",
+                "institution": "China Academy of Art",
+                "location": "HangZhou, China",
+                "lat": 30.2741,
+                "lon": 120.1551,
+                "x": 337.5898452951445,
+                "y": 103.3855931096935,
+                "dist": 428.6071406256139,
+                "angleRad": -1.9594312101313287,
+                "angleDeg": -112.26713858673669
+            },
+            {
+                "name": "Xiaobo Aaron Hu",
+                "institution": "Reality Design Lab",
+                "location": "New York, New York, United States",
+                "lat": 40.7128,
+                "lon": -74.006,
+                "x": 528.6850985946301,
+                "y": 442.5718110002298,
+                "dist": 64.22081216340173,
+                "angleRad": -1.107763546761807,
+                "angleDeg": -63.47017592789455
+            },
+            {
+                "name": "Yilan Elan Tao",
+                "institution": "Reality Design Lab",
+                "location": "New York, New York, United States",
+                "lat": 40.7128,
+                "lon": -74.006,
+                "x": 528.6850985946301,
+                "y": 442.5718110002298,
+                "dist": 64.22081216340173,
+                "angleRad": -1.107763546761807,
+                "angleDeg": -63.47017592789455
+            }
+        ]
+    },
+    {
+        "Submission": 1028,
+        "Title": "SynCocreate",
+        "FullTitle": "SynCocreate: Fostering Interpersonal Connectedness via Brainwave-Driven Co-creation in Virtual Reality",
+        "Category": "artwork",
+        "Year": 2024,
+        "URL": "https://vimeo.com/912243880",
+        "creators": [
+            {
+                "name": "Tiange Wang",
+                "institution": "VLab, Independent Designer",
+                "location": "Cambridge, Massachusetts, United States",
+                "lat": 42.3736,
+                "lon": -71.1097,
+                "x": 537.3440573036852,
+                "y": 434.52420499687713,
+                "dist": 75.40309646437045,
+                "angleRad": -1.052663463415565,
+                "angleDeg": -60.313173701335806
+            },
+            {
+                "name": "Xin Feng",
+                "institution": "Independent Researcher",
+                "location": "San Mateo, California, United States",
+                "lat": 37.563,
+                "lon": -122.3255,
+                "x": 367.48309797322474,
+                "y": 433.22841228867316,
+                "dist": 148.40222835158824,
+                "angleRad": -2.674669726799351,
+                "angleDeg": -153.24728693701175
+            }
+        ]
+    },
+    {
+        "Submission": 1035,
+        "Title": "Northness",
+        "FullTitle": "\"Northness\": Poetic Visualization of Data Infrastructure Inequality",
+        "Category": "pictorial",
+        "Year": 2024,
+        "URL": "https://youtu.be/IR1iZSixl54",
+        "creators": [
+            {
+                "name": "Doris Kosminsky School of Fine Arts",
+                "institution": "Universidade Federal do Rio de Janeiro",
+                "location": "Rio de Janeiro, Brazil",
+                "lat": -22.9068,
+                "lon": -43.1729,
+                "x": 672.0454758678438,
+                "y": 698.5779882070336,
+                "dist": 262.7181582789485,
+                "angleRad": 0.8567895858071007,
+                "angleDeg": 49.090427197508774
+            },
+            {
+                "name": "Luiz Ludwig",
+                "institution": "Pontifical Catholic University of Rio de Janeiro; PPGAV, Federal University of Rio de Janeiro",
+                "location": "Rio de Janeiro, Brazil",
+                "lat": -22.9068,
+                "lon": -43.1729,
+                "x": 672.0454758678438,
+                "y": 698.5779882070336,
+                "dist": 262.7181582789485,
+                "angleRad": 0.8567895858071007,
+                "angleDeg": 49.090427197508774
+            }
+        ]
+    },
+    {
+        "Submission": 1039,
+        "Title": "Transferscope",
+        "FullTitle": "Transferscope — Synthesized Reality: Sample anything. Transform everything.",
+        "Category": "artwork",
+        "Year": 2024,
+        "URL": "https://vimeo.com/929277009",
+        "creators": [
+            {
+                "name": "Christopher Pietsch",
+                "institution": "AI+Design Lab, University of Design Schwäbisch Gmünd",
+                "location": "Schwäbisch Gmünd, Germany",
+                "lat": 48.7981,
+                "lon": 9.7984,
+                "x": 702.0723403199459,
+                "y": 291.596688107058,
+                "dist": 290.30639131295146,
+                "angleRad": -0.8008930943833624,
+                "angleDeg": -45.88779414933936
+            }
+        ]
+    },
+    {
+        "Submission": 1041,
+        "Title": "Displacement Flowers",
+        "FullTitle": "Displacement Flowers: Visualizaing global human displacment due to natural disasters",
+        "Category": "artwork",
+        "Year": 2024,
+        "URL": "https://vimeo.com/953616089",
+        "creators": [
+            {
+                "name": "Elizabeth McCaffrey",
+                "institution": "Khoury College of Computer Sciences/College of Arts Media and Design, Northeastern University",
+                "location": "Boston, Massachusetts, United States",
+                "lat": 42.3601,
+                "lon": -71.0589,
+                "x": 537.5149783931276,
+                "y": 434.56502591268384,
+                "dist": 75.4524722802961,
+                "angleRad": -1.050427566159569,
+                "angleDeg": -60.18506622514236
+            }
+        ]
+    },
+    {
+        "Submission": 1047,
+        "Title": "A Perfect Storm",
+        "FullTitle": "A Perfect Storm",
+        "Category": "pictorial",
+        "Year": 2024,
+        "URL": "https://vimeo.com/901381287",
+        "creators": [
+            {
+                "name": "Chloe Hudson Prock",
+                "institution": "College of Arts Media and Design, Northeastern University",
+                "location": "Boston, Massachusetts, United States",
+                "lat": 42.3601,
+                "lon": -71.0589,
+                "x": 537.5149783931276,
+                "y": 434.56502591268384,
+                "dist": 75.4524722802961,
+                "angleRad": -1.050427566159569,
+                "angleDeg": -60.18506622514236
+            },
+            {
+                "name": "Gregory Gold",
+                "institution": "College of Arts Media and Design, Northeastern University",
+                "location": "Boston, Massachusetts, United States",
+                "lat": 42.3601,
+                "lon": -71.0589,
+                "x": 537.5149783931276,
+                "y": 434.56502591268384,
+                "dist": 75.4524722802961,
+                "angleRad": -1.050427566159569,
+                "angleDeg": -60.18506622514236
+            },
+            {
+                "name": "Pedro M. Cruz",
+                "institution": "College of Arts Media and Design, Northeastern University",
+                "location": "Boston, Massachusetts, United States",
+                "lat": 42.3601,
+                "lon": -71.0589,
+                "x": 537.5149783931276,
+                "y": 434.56502591268384,
+                "dist": 75.4524722802961,
+                "angleRad": -1.050427566159569,
+                "angleDeg": -60.18506622514236
+            }
+        ]
+    },
+    {
+        "Submission": 1052,
+        "Title": "Numerical Existence",
+        "FullTitle": "Numerical Existence: Reflections on Curating Artistic Data Visualization Exhibitions",
+        "Category": "paper",
+        "Year": 2024,
+        "URL": "https://youtu.be/6VFDcuVqsC4?si=lNIxJz1fvjy8N8qP",
+        "creators": [
+            {
+                "name": "Barbara Castro Escola",
+                "institution": "Superior de Desenho Industrial, Rio de Janeiro State University",
+                "location": "Rio de Janeiro, Brazil",
+                "lat": -22.9068,
+                "lon": -43.1729,
+                "x": 672.0454758678438,
+                "y": 698.5779882070336,
+                "dist": 262.7181582789485,
+                "angleRad": 0.8567895858071007,
+                "angleDeg": 49.090427197508774
+            },
+            {
+                "name": "Doris Kosminsky",
+                "institution": "School of Fine Arts, Universidade Federal do Rio de Janeiro",
+                "location": "Rio de Janeiro, Brazil",
+                "lat": -22.9068,
+                "lon": -43.1729,
+                "x": 672.0454758678438,
+                "y": 698.5779882070336,
+                "dist": 262.7181582789485,
+                "angleRad": 0.8567895858071007,
+                "angleDeg": 49.090427197508774
+            },
+            {
+                "name": "Luiz Ludwig",
+                "institution": "PPGAV, Federal University of Rio de Janeiro; Brazil Pontifical Catholic University of Rio de Janeiro",
+                "location": "Rio de Janeiro, Brazil",
+                "lat": -22.9068,
+                "lon": -43.1729,
+                "x": 672.0454758678438,
+                "y": 698.5779882070336,
+                "dist": 262.7181582789485,
+                "angleRad": 0.8567895858071007,
+                "angleDeg": 49.090427197508774
+            }
+        ]
+    },
+    {
+        "Submission": 1068,
+        "Title": "Rage Against the Archive",
+        "FullTitle": "Rage Against the Archive",
+        "Category": "artwork",
+        "Year": 2024,
+        "URL": "https://youtu.be/9XWW8zewTNY?si=szAFgz8n2P6oQTUY",
+        "creators": [
+            {
+                "name": "Anshul Roy",
+                "institution": "College of Visual and Performing Arts, Syracuse University",
+                "location": "Syracuse, New York, United States",
+                "lat": 43.0481,
+                "lon": -76.1474,
+                "x": 520.865008928576,
+                "y": 432.95549813893405,
+                "dist": 70.24512436351216,
+                "angleRad": -1.2692140755648413,
+                "angleDeg": -72.72060982846375
+            }
+        ]
+    },
+    {
+        "Submission": 1077,
+        "Title": "City Pulse",
+        "FullTitle": "City Pulse: Revealing City Identity Through Abstraction of Metro Lines",
+        "Category": "pictorial",
+        "Year": 2024,
+        "URL": "https://youtu.be/ShhqOakr7BE?si=we3FhuRwkV5giaIV",
+        "creators": [
+            {
+                "name": "Dr. Wai Ping Chan",
+                "institution": "Central Academy of Fine Arts",
+                "location": "Beijing, China",
+                "lat": 39.9042,
+                "lon": 116.4074,
+                "x": 390.83828187383693,
+                "y": 105.15488578622933,
+                "dist": 409.6863099964434,
+                "angleRad": -1.8405063504675985,
+                "angleDeg": -105.45324604881934
+            },
+            {
+                "name": "Jing Chen",
+                "institution": "Nanjing University of the Arts, NUA School of Design",
+                "location": "Nanjing, China",
+                "lat": 32.0603,
+                "lon": 118.7969,
+                "x": 352.26583508950864,
+                "y": 100.63528981648517,
+                "dist": 425.84240838042297,
+                "angleRad": -1.9250837718710472,
+                "angleDeg": -110.2991753373364
+            },
+            {
+                "name": "Rebecca Ruige Xu",
+                "institution": "College of Visual & Performing Arts, Syracuse University",
+                "location": "Syrcause, New York, United States",
+                "lat": 43.0481,
+                "lon": -76.1474,
+                "x": 520.865008928576,
+                "y": 432.95549813893405,
+                "dist": 70.24512436351216,
+                "angleRad": -1.2692140755648413,
+                "angleDeg": -72.72060982846375
+            },
+            {
+                "name": "Xiaoru Yuan",
+                "institution": "Peking University",
+                "location": "Beijing, China",
+                "lat": 39.9042,
+                "lon": 116.4074,
+                "x": 390.83828187383693,
+                "y": 105.15488578622933,
+                "dist": 409.6863099964434,
+                "angleRad": -1.8405063504675985,
+                "angleDeg": -105.45324604881934
+            },
+            {
+                "name": "Xinyue Chen",
+                "institution": "Peking University",
+                "location": "Beijing, China",
+                "lat": 39.9042,
+                "lon": 116.4074,
+                "x": 390.83828187383693,
+                "y": 105.15488578622933,
+                "dist": 409.6863099964434,
+                "angleRad": -1.8405063504675985,
+                "angleDeg": -105.45324604881934
+            },
+            {
+                "name": "Yixuan Zhang",
+                "institution": "Central Academy of Fine Arts",
+                "location": "Beijing, China",
+                "lat": 39.9042,
+                "lon": 116.4074,
+                "x": 390.83828187383693,
+                "y": 105.15488578622933,
+                "dist": 409.6863099964434,
+                "angleRad": -1.8405063504675985,
+                "angleDeg": -105.45324604881934
+            },
+            {
+                "name": "Yutong Yang",
+                "institution": "Shanghai Jiao Tong University",
+                "location": "Shanghai, China",
+                "lat": 31.2304,
+                "lon": 121.4737,
+                "x": 333.62764224034544,
+                "y": 108.30073440982625,
+                "dist": 425.5958330793939,
+                "angleRad": -1.972423250324556,
+                "angleDeg": -113.01152765707295
+            }
+        ]
+    },
+    {
+        "Submission": 1078,
+        "Title": "BioRhythms",
+        "FullTitle": "BioRhythms: Artistic research with plants, real-time animation and sound",
+        "Category": "artwork",
+        "Year": 2024,
+        "URL": "https://youtu.be/Q5D8ABeS060?si=oHwwtxTeKzOOdPM6",
+        "creators": [
+            {
+                "name": "Rewa Wright",
+                "institution": "School of Creative Practice, Queensland University of Technology",
+                "location": "Brisbane, Queensland, Australia",
+                "lat": -27.4698,
+                "lon": 153.0251,
+                "x": 57.2246973924548,
+                "y": 605.6833380256298,
+                "dist": 455.20603387075977,
+                "angleRad": 2.90735720335105,
+                "angleDeg": 166.5792972889734
+            }
+        ]
+    },
+    {
+        "Submission": 1079,
+        "Title": "ReCollection",
+        "FullTitle": "ReCollection",
+        "Category": "artwork",
+        "Year": 2024,
+        "URL": "https://www.zhangweidi.com/recollection",
+        "creators": [
+            {
+                "name": "Jieliang Luo",
+                "institution": "Independant Researcher",
+                "location": "Beijing, China",
+                "lat": 39.9042,
+                "lon": 116.4074,
+                "x": 390.83828187383693,
+                "y": 105.15488578622933,
+                "dist": 409.6863099964434,
+                "angleRad": -1.8405063504675985,
+                "angleDeg": -105.45324604881934
+            },
+            {
+                "name": "weidi zhang",
+                "institution": "media and immersive experience center, Arizona State University",
+                "location": "Tempe, Arizona, United States",
+                "lat": 33.4255,
+                "lon": -111.94,
+                "x": 395.2562225393385,
+                "y": 462.0105123339049,
+                "dist": 111.43053032477737,
+                "angleRad": -2.7934024061059644,
+                "angleDeg": -160.05016835156098
+            }
+        ]
+    },
+    {
+        "Submission": 1089,
+        "Title": "Mosaic Memory Drive",
+        "FullTitle": "Mosaic Memory Drive",
+        "Category": "artwork",
+        "Year": 2024,
+        "URL": "https://youtu.be/7kQUH994bhI?si=sK2V2Fl9ZauE2iVs",
+        "creators": [
+            {
+                "name": "Ignacio Pérez-Messina",
+                "institution": "TU Wien, Institute of Visual Computing and Human-Centered Technology",
+                "location": "Vienna, Austria",
+                "lat": 48.2082,
+                "lon": 16.3738,
+                "x": 707.7150185673634,
+                "y": 276.472037678928,
+                "dist": 305.1619653654299,
+                "angleRad": -0.8221176222441888,
+                "angleDeg": -47.103870017922546
+            }
+        ]
+    },
+    {
+        "Submission": 1097,
+        "Title": "DataWagashi",
+        "FullTitle": "DataWagashi: Feeling Climate Data via New Design Medium",
+        "Category": "artwork",
+        "Year": 2024,
+        "URL": "https://vimeo.com/892809493/dae9f9db99",
+        "creators": [
+            {
+                "name": "I-Yang Huang",
+                "institution": "VLab",
+                "location": "Cambridge, Massachusetts, United States",
+                "lat": 42.3736,
+                "lon": -71.1097,
+                "x": 537.3440573036852,
+                "y": 434.52420499687713,
+                "dist": 75.40309646437045,
+                "angleRad": -1.052663463415565,
+                "angleDeg": -60.313173701335806
+            },
+            {
+                "name": "Tiange Wang",
+                "institution": "VLab",
+                "location": "Cambridge, Massachusetts, United States",
+                "lat": 42.3736,
+                "lon": -71.1097,
+                "x": 537.3440573036852,
+                "y": 434.52420499687713,
+                "dist": 75.40309646437045,
+                "angleRad": -1.052663463415565,
+                "angleDeg": -60.313173701335806
+            }
+        ]
+    },
+    {
+        "Submission": 1102,
+        "Title": "Humanity Test",
+        "FullTitle": "Humanity Test — EEG Data Mediated Artificial Intelligence Multiplayer Interactive System",
+        "Category": "paper",
+        "Year": 2024,
+        "URL": "https://youtu.be/iiCw3mZ2dOU?si=Vgv-o1P5N8aVZAHK",
+        "creators": [
+            {
+                "name": "Fang Fang",
+                "institution": "College of Design and Innovation, Tongji University",
+                "location": "Shanghai, China",
+                "lat": 31.2304,
+                "lon": 121.4737,
+                "x": 333.62764224034544,
+                "y": 108.30073440982625,
+                "dist": 425.5958330793939,
+                "angleRad": -1.972423250324556,
+                "angleDeg": -113.01152765707295
+            },
+            {
+                "name": "Fang Fang",
+                "institution": "College of Design and Innovation, Tongji University",
+                "location": "Shanghai, China",
+                "lat": 31.2304,
+                "lon": 121.4737,
+                "x": 333.62764224034544,
+                "y": 108.30073440982625,
+                "dist": 425.5958330793939,
+                "angleRad": -1.972423250324556,
+                "angleDeg": -113.01152765707295
+            }
+        ]
+    },
+    {
+        "Submission": 1014,
+        "Title": "Flags of Inequality",
+        "FullTitle": "Flags of Inequality",
+        "Category": "artwork",
+        "Year": 2024,
+        "creators": [
+            {
+                "name": "Rita Costa",
+                "institution": "Independent",
+                "location": "Lisbon, Portugal",
+                "lat": 38.736946,
+                "lon": -9.142685,
+                "x": 716.7905799668308,
+                "y": 369.45705107033615,
+                "dist": 253.07613205370984,
+                "angleRad": -0.5421099137657482,
+                "angleDeg": -31.060610090978383
+            },
+            {
+                "name": "Beatriz Malveiro",
+                "institution": "Independent",
+                "location": "Lisbon, Portugal",
+                "lat": 38.736946,
+                "lon": -9.142685,
+                "x": 716.7905799668308,
+                "y": 369.45705107033615,
+                "dist": 253.07613205370984,
+                "angleRad": -0.5421099137657482,
+                "angleDeg": -31.060610090978383
+            }
+        ]
+    },
+    {
+        "Submission": 1044,
+        "Title": "Spacetime Dialogue",
+        "FullTitle": "Spacetime Dialogue: Integrating Astronomical Data and Khoomei in Spatial Installation",
+        "Category": "paper",
+        "Year": 2024,
+        "creators": [
+            {
+                "name": "Fiona You Wang",
+                "affiliation": "The Hong Kong University of Science and Technology",
+                "location": "Guangzhou, China",
+                "lat": 23.128994,
+                "lon": 113.25325,
+                "x": 359.3163500912068,
+                "y": 75.57146054590271,
+                "dist": 447.1657352950684,
+                "angleRad": -1.8908440637472843,
+                "angleDeg": -108.33738457008498
+            },
+            {
+                "name": "Kang Zhang",
+                "affiliation": "The Hong Kong University of Science and Technology",
+                "location": "Guangzhou, China",
+                "lat": 23.128994,
+                "lon": 113.25325,
+                "x": 359.3163500912068,
+                "y": 75.57146054590271,
+                "dist": 447.1657352950684,
+                "angleRad": -1.8908440637472843,
+                "angleDeg": -108.33738457008498
+            },
+            {
+                "name": "Joshua Nijiati Alimujiang",
+                "affiliation": "The Hong Kong University of Science and Technology",
+                "location": "Guangzhou, China",
+                "lat": 23.128994,
+                "lon": 113.25325,
+                "x": 359.3163500912068,
+                "y": 75.57146054590271,
+                "dist": 447.1657352950684,
+                "angleRad": -1.8908440637472843,
+                "angleDeg": -108.33738457008498
+            },
+            {
+                "name": "Violet Wei Wu",
+                "affiliation": "BNU-HKBU United International College",
+                "location": "Guangzhou, China",
+                "lat": 23.128994,
+                "lon": 113.25325,
+                "x": 359.3163500912068,
+                "y": 75.57146054590271,
+                "dist": 447.1657352950684,
+                "angleRad": -1.8908440637472843,
+                "angleDeg": -108.33738457008498
+            },
+            {
+                "name": "Rose Liu",
+                "affiliation": "Washington University in St.Louis",
+                "location": "St.Louis, Missouri, United States",
+                "lat": 38.63,
+                "lon": -90.2,
+                "x": 474.1508763166106,
+                "y": 451.86086357904287,
+                "dist": 54.66691591685791,
+                "angleRad": -2.0633160967055364,
+                "angleDeg": -118.21930414263406
+            }
+        ]
+    },
+    {
+        "Submission": 1054,
+        "Title": "Curbside",
+        "FullTitle": "Curbside",
+        "Category": "artwork",
+        "Year": 2024,
+        "creators": [
+            {
+                "name": "Karly Ross",
+                "institution": "University of Calgary",
+                "location": "Calgary, Alberta, Canada",
+                "lat": 51.0447,
+                "lon": 114.0719,
+                "x": 429.82545490414134,
+                "y": 124.01442234909467,
+                "dist": 382.5080472482056,
+                "angleRad": -1.7553003560332623,
+                "angleDeg": -100.5713021785167
+            }
+        ]
+    },
+    {
+        "Submission": 1055,
+        "Title": "What's My Line?",
+        "FullTitle": "What's My Line? Exploring the Expressive Capacity of Lines in Scientific Visualization",
+        "Category": "paper",
+        "Year": 2024,
+        "creators": [
+            {
+                "name": "Francesca Samsel",
+                "affiliation": "Texas Advanced Computing Center, University of Texas at Austin",
+                "location": "Austin, Texas, United States",
+                "lat": 30.2672,
+                "lon": 97.7431,
+                "x": 497.024365285143,
+                "y": 62.80259751771581,
+                "dist": 437.2378268995091,
+                "angleRad": -1.5776019083383974,
+                "angleDeg": -90.38993109957472
+            },
+            {
+                "name": "Dr. Lyn Bartram",
+                "affiliation": "School of Interactive Art and Technology, Simon Fraser University",
+                "location": "Surrey, British Columbia, Canada",
+                "lat": 49.1913,
+                "lon": 122.849,
+                "x": 390.9124548359144,
+                "y": 133.60543254878957,
+                "dist": 382.3182904361299,
+                "angleRad": -1.8601488719211066,
+                "angleDeg": -106.57867962710053
+            },
+            {
+                "name": "Dr. Greg Abram",
+                "affiliation": "Texas Advanced Computing Center, University of Texas at Austin",
+                "location": "Austin, Texas, United States",
+                "lat": 30.2672,
+                "lon": 97.7431,
+                "x": 497.024365285143,
+                "y": 62.80259751771581,
+                "dist": 437.2378268995091,
+                "angleRad": -1.5776019083383974,
+                "angleDeg": -90.38993109957472
+            },
+            {
+                "name": "Anne Bowen",
+                "affiliation": "Texas Advanced Computing Center, University of Texa",
+                "location": "Austin, Texas, United States",
+                "lat": 30.2672,
+                "lon": 97.7431,
+                "x": 497.024365285143,
+                "y": 62.80259751771581,
+                "dist": 437.2378268995091,
+                "angleRad": -1.5776019083383974,
+                "angleDeg": -90.38993109957472
+            }
+        ]
+    },
+    {
+        "Submission": 1058,
+        "Title": "Interviews with the Ice",
+        "FullTitle": "Interviews with the Ice: Art and Science",
+        "Category": "artwork",
+        "Year": 2024,
+        "creators": [
+            {
+                "name": "Francesca Samsel",
+                "affiliation": "University of Texas at Austin",
+                "location": "Austin, Texas, United States",
+                "lat": 30.2672,
+                "lon": 97.7431,
+                "x": 497.024365285143,
+                "y": 62.80259751771581,
+                "dist": 437.2378268995091,
+                "angleRad": -1.5776019083383974,
+                "angleDeg": -90.38993109957472
+            },
+            {
+                "name": "Benjamin Keisling",
+                "affiliation": "The University of Texas Institute for Geophysics (UTIG), University of Texas at Austin",
+                "location": "Austin, Texas, United States",
+                "lat": 30.2672,
+                "lon": 97.7431,
+                "x": 497.024365285143,
+                "y": 62.80259751771581,
+                "dist": 437.2378268995091,
+                "angleRad": -1.5776019083383974,
+                "angleDeg": -90.38993109957472
+            }
+        ]
+    },
+    {
+        "Submission": 1090,
+        "Title": "Pieces of Peace",
+        "FullTitle": "Pieces of Peace: Women and Gender in Peace Agreements",
+        "Category": "pictorial",
+        "Year": 2024,
+        "creators": [
+            {
+                "name": "Jenny Long",
+                "affiliation": "School of Informatics, University of Edinburgh",
+                "location": "Edinburgh, United Kingdom",
+                "lat": 55.953251,
+                "lon": -3.188267,
+                "x": 660.1288969356373,
+                "y": 300.62356738939,
+                "dist": 255.74266013293155,
+                "angleRad": -0.8942126582133001,
+                "angleDeg": -51.23461130279649
+            },
+            {
+                "name": "Jinrui Wang",
+                "affiliation": "School of Informatics, The University of Edinburgh",
+                "location": "Edinburgh, United Kingdom",
+                "lat": 55.953251,
+                "lon": -3.188267,
+                "x": 660.1288969356373,
+                "y": 300.62356738939,
+                "dist": 255.74266013293155,
+                "angleRad": -0.8942126582133001,
+                "angleDeg": -51.23461130279649
+            },
+            {
+                "name": "Tomas Vancisin",
+                "affiliation": "School of Law (PeaceRep)",
+                "location": "Edinburgh, United Kingdom",
+                "lat": 55.953251,
+                "lon": -3.188267,
+                "x": 660.1288969356373,
+                "y": 300.62356738939,
+                "dist": 255.74266013293155,
+                "angleRad": -0.8942126582133001,
+                "angleDeg": -51.23461130279649
+            },
+            {
+                "name": "Laura Wise",
+                "affiliation": "School of Law (PeaceRep)",
+                "location": "Edinburgh, United Kingdom",
+                "lat": 55.953251,
+                "lon": -3.188267,
+                "x": 660.1288969356373,
+                "y": 300.62356738939,
+                "dist": 255.74266013293155,
+                "angleRad": -0.8942126582133001,
+                "angleDeg": -51.23461130279649
+            },
+            {
+                "name": "Xinhuan Shu",
+                "affiliation": "School of Computing, Newcastle University",
+                "location": "Newcastle Upon Tyne, United Kingdom",
+                "lat": 54.9783,
+                "lon": 1.6178,
+                "x": 668.6750568876682,
+                "y": 293.8745850815635,
+                "dist": 266.3671397949832,
+                "angleRad": -0.8850604232290296,
+                "angleDeg": -50.7102268650858
+            },
+            {
+                "name": "Tara Capel",
+                "affiliation": "University of Edinburgh",
+                "location": "Edinburgh, United Kingdom",
+                "lat": 55.953251,
+                "lon": -3.188267,
+                "x": 660.1288969356373,
+                "y": 300.62356738939,
+                "dist": 255.74266013293155,
+                "angleRad": -0.8942126582133001,
+                "angleDeg": -51.23461130279649
+            },
+            {
+                "name": "Uta Hinrichs",
+                "affiliation": "School of Informatics, University of Edinburgh",
+                "location": "Edinburgh, United Kingdom",
+                "lat": 55.953251,
+                "lon": -3.188267,
+                "x": 660.1288969356373,
+                "y": 300.62356738939,
+                "dist": 255.74266013293155,
+                "angleRad": -0.8942126582133001,
+                "angleDeg": -51.23461130279649
+            }
+        ]
+    },
+    {
+        "Submission": 1094,
+        "Title": "Rap Tapestry",
+        "FullTitle": "Rap Tapestry: A Music Visualization Tool with Physical Weaving Data Physicalization",
+        "Category": "artwork",
+        "Year": 2024,
+        "creators": [
+            {
+                "name": "Carmen Hull",
+                "affiliation": "College of Arts Media and Design, Northeastern University",
+                "location": "Boston, Massachusetts, United States",
+                "lat": 42.3601,
+                "lon": 71.0589,
+                "x": 635.67277192588,
+                "y": 125.0356548005696,
+                "dist": 398.7832546097657,
+                "angleRad": -1.2236488612999181,
+                "angleDeg": -70.10991535847437
+            }
+        ]
+    },
+    {
+        "Submission": 1099,
+        "Title": "Design Process of \n'Shredded Lives'",
+        "FullTitle": "Design Process of 'Shredded Lives': An Illustrated Exploration",
+        "Category": "pictorial",
+        "Year": 2024,
+        "creators": [
+            {
+                "name": "Foroozan Daneshzand",
+                "affiliation": "Simon Fraser University",
+                "location": "Burnaby, British Columbia, Canada",
+                "lat": 49.2488,
+                "lon": 122.9805,
+                "x": 390.61269231994476,
+                "y": 133.94814011133195,
+                "dist": 382.0755554552371,
+                "angleRad": -1.8611567522733996,
+                "angleDeg": -106.63642691754109
+            },
+            {
+                "name": "Charles Perin",
+                "affiliation": "Department of Computer Science, University of Victoria",
+                "location": "Victoria, British Columbia, Canada",
+                "lat": 48.4284,
+                "lon": 123.3656,
+                "x": 386.47892606907436,
+                "y": 133.282464149411,
+                "dist": 383.9153663664199,
+                "angleRad": -1.8709771694874242,
+                "angleDeg": -107.19909537696232
+            },
+            {
+                "name": "Sheelagh Carpendale",
+                "affiliation": "Simon Fraser University",
+                "location": "Burnaby, British Columbia, Canada",
+                "lat": 49.2488,
+                "lon": 122.9805,
+                "x": 390.61269231994476,
+                "y": 133.94814011133195,
+                "dist": 382.0755554552371,
+                "angleRad": -1.8611567522733996,
+                "angleDeg": -106.63642691754109
+            }
+        ]
+    }
 ]
