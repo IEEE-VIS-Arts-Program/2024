@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Data Driven: Additive Waves Animated</title>
+<link rel="stylesheet" href="ancho.css">
 <style>
 body {background: #000; font-family: sans-serif;}
 #creators {
@@ -46,6 +47,7 @@ let config = {
     "hueSpread": 45,
     "saturation": 10,
     "brightness": 100,
+    "drawTitle": true,
     "drawFill": true
 };
 
@@ -67,6 +69,7 @@ class WaveSet {
         this.colorRange = [100, -100];
         this.saturation = 10;
         this.brightness = 100;
+        this.drawTitle = true;
         this.drawFill = true;
     }
     makeWave(amplitude, period, phase){
@@ -88,7 +91,7 @@ class WaveSet {
             vertex(0, -this.height);
         } else {
             noFill();
-            stroke(0);
+            stroke(200, 20, 100);
         }
         for (let x=0; x < this.width; x++){
             let y = 0;
@@ -124,13 +127,15 @@ class Wave {
 
 // ---------------
 
+
 function preload(){
     data = loadJSON('./data/visap24DataProcessed.json');
+    logo = loadImage('./img/visap24-logo.png');
 }
 
 function setup(){
-    const pd = pixelDensity();
-    createCanvas(1920 / pd,1080 / pd);
+    // const pd = pixelDensity();
+    createCanvas(1920 / 2,1080 / 2);
     colorMode(HSB);
     // gui widgets
     let gui = new dat.GUI();
@@ -141,6 +146,7 @@ function setup(){
     gui.add(config, "hueSpread", 0, 180);
     gui.add(config, "saturation", 0, 100);
     gui.add(config, "brightness", 0, 100);
+    gui.add(config, "drawTitle");
     gui.add(config, "drawFill");
 
 }
@@ -171,6 +177,16 @@ function draw(){
     translate(0, height)    
     ws.drawWaves();
     emitCreators(creators, "creators", title);
+
+    if (config.drawTitle) {
+        fill(281, 72, 36);
+        textFont("ancho");
+        textSize(18);
+        textLeading(23);
+        text(replaceColon(title), 540,430);
+        image(logo, 60, 305, 360, 175);
+    }
+
 }
 
 // ---------------
@@ -182,6 +198,10 @@ function emitCreators(creatorsArr, elemID, title){
         str += `<p>D: ${d.dist.toFixed(0)}, ${d.name}\n${d.location}</p>`;
     });
     dom.innerHTML = str;
+}
+
+function replaceColon(inputString) {
+    return inputString.replace(/: /g, '\n');
 }
 
 function getObjLength(dataObj){
