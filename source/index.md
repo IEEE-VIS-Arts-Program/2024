@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: "home.njk"
-intro: "<p>The conference and exhibition will be held alongside <a href='https://ieeevis.org/year/2024/welcome'>IEEE VIS 2024</a> at TradeWinds Island Grand Beach Resort,  St. Pete Beach, Florida, 13&ndash;18 October 2024</p>"
+intro: "<p>The conference and exhibition will be held alongside <a href='https://ieeevis.org/year/2024/welcome'>IEEE VIS 2024</a> at TBD, Florida, 13&ndash;18 October 2024</p>"
 
 ---
 
@@ -94,8 +94,7 @@ either submitted to a paper/pictorials track, or to an exhibition track.
 
 VISAP will take place face-to-face and in person. For artists and
 researchers present in Tampa, there will be an opportunity to connect
-with the VISAP and local artistic community via talks and/or workshops
-at our central St. Pete's Beach location.
+with the VISAP and local artistic community via talks and/or workshops.
 
 Accepted works will be published on the official VISAP website and in a
 dedicated exhibition catalog. Papers and pictorials will be indexed in
