@@ -10,6 +10,8 @@ contributors:
 - name: Elizabeth McCaffrey
   affiliation: Khoury College of Computer Sciences/College of Arts Media and Design, Northeastern University
   location: Boston, Massachusetts, United States
+  bio: "Elizabeth McCaffrey is a student of Computer Science and Design at Northeastern University. Her design practice includes data visualization and computational arts. Her visualization style can be described as abstract and metaphorical, intending to bridge data visualization with both art and design."
+  headshot: /images/headshots/elizabeth-mccaffrey.jpg
 images: 
   - src: /images/1041-displacement_flowers-algeria.jpg
     alt: "Algeria"

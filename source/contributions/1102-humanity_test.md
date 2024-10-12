@@ -10,6 +10,8 @@ contributors:
 - name: Fang Fang
   affiliation: College of Design and Innovation, Tongji University
   location: Shanghai, China
+  bio: "Fang fang, An undergraduate student at the School of New Media Art and Design in Beihang University, now become a MSc candidate at the Shanghai International Design and Innovation College of Tongji University. My major is digital media art and technology."
+  headshot: /images/headshots/fang-fang.jpg
 images: 
 - src: /images/1102-humanity_test-thumb.jpg
   alt: "Voight-Kampff 2.0 interface design"

@@ -9,9 +9,13 @@ contributors:
 - name: Jenny Long
   affiliation: School of Informatics, University of Edinburgh
   location: Edinburgh, United Kingdom
+  bio: "Jenny Long is a PhD candidate at the University of Edinburgh, affiliated with the VisHub Lab under the supervision of Dr. Uta Hinrichs and Dr. Tara Capel. Her research focuses on questioning the data visualization design process and critique through a feminist and intersectional lens."
+  headshot: /images/headshots/jenny-long.jpg
 - name: Jinrui Wang
   affiliation: School of Informatics, The University of Edinburgh
   location: Edinburgh, United Kingdom
+  bio: "Jinrui Wang is a PhD student supervised by Dr. Uta Hinrichs and Dr. Benjamin Bach. Her research focuses on visualization atlases as an emerging form of open data visualizations. She has a strong passion in visualization design, and actively collaborates with PeaceRep where this artwork was created."
+  headshot: /images/headshots/jinrui-wang.jpg
 - name: Tomas Vancisin
   affiliation: School of Law (PeaceRep)
   location: Edinburgh, United Kingdom

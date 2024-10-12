@@ -62,6 +62,42 @@
     <div class="column is-8 is-offset-2">
       <div class="content">
         {{ content | safe }}
+
+<h2>Contributors</h2>
+
+{% set hasHeadshot = false %}
+
+{% for contributor in contributors %}
+  {% if contributor.headshot %}
+    {% set hasHeadshot = true %}
+  {% endif %}
+{% endfor %}
+
+<table class="contributor">
+<tbody>
+{% for contributor in contributors %}
+  <tr>
+    {% if hasHeadshot %}
+    <td class="headshot">
+      {% if contributor.headshot %}
+      <img class="headshot-img" src="{{ contributor.headshot | url }}" alt="{{ contributor.name }}">
+      {% else %}
+      <img class="headshot-img" src="{{ '/images/headshots/placeholder.png' | url }}" alt="placeholder">
+      {% endif %}
+    </td>
+    {% endif %}
+    <td class="bio">
+      <p><strong>{{ contributor.name }}</strong><br>
+      <em>{{ contributor.affiliation }}</em><br>
+      <em>{{ contributor.location }}</em></p>
+      <p>{{ contributor.bio | safe }}</p>
+    </td>
+  </tr>
+{% endfor %}
+</tbody>
+</table>
+
+
       </div>
     </div>
   </div>  

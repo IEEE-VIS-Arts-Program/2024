@@ -10,6 +10,8 @@ contributors:
 - name: Christopher Pietsch
   affiliation: AI+Design Lab, University of Design Schwäbisch Gmünd
   location: Schwäbisch Gmünd, Germany
+  bio: "Christopher Pietsch is an artist and researcher blending design, technology, and AI. He creates interactive data visualizations and intuitive interfaces that make complex information accessible. A graduate of the University of Applied Sciences Potsdam, Pietsch is advancing user-centric technology."
+  headshot: /images/headshots/christopher-pietsch.jpg
 images: 
   - src: /images/1039-transferscope-steps.jpg
     alt: ""

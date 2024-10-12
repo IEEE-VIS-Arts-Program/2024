@@ -9,9 +9,13 @@ contributors:
 - name: Rita Costa
   affiliation: Independent
   location: Lisbon, Portugal
+  bio: "Rita Costa is a Data Visualization professional based in Portugal. She leads the Data Visualization Research team at Feedzai. Passionate about storytelling through data, Rita enjoys crafting innovative visual metaphors that focus on pressing social issues."
+  headshot: /images/headshots/rita-costa.jpg
 - name: Beatriz Malveiro
   affiliation: Independent
   location: Lisbon, Portugal
+  bio: "Beatriz Malveiro is a data visualization professional at Diagonal Works and previously at Interactive Things and Feedzai. Her work focuses on experiences to make data understandable to the broad public and foster positive social change, as well as tools that enable expressive reasoning with data. "
+  headshot: /images/headshots/beatriz-malveiro.jpg
 images: 
   - src: /images/1014-flags_of_inequality-still.jpg
     alt: "alt text"

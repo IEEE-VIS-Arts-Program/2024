@@ -10,6 +10,8 @@ contributors:
 - name: Xinyue Chen
   affiliation: Peking University
   location: Beijing, China
+  bio: "A PhD candidate in InfoVis&VA. An admirer of data-driven, generative, interactive art. A data journalist, crafting stories with keystrokes. I delve into the flow of information, exploring generous human-AI interfaces. Wandering through the garden of forking paths, I write lines of data poetry."
+  headshot: /images/headshots/xinyue-chen.jpg
 - name: Yixuan Zhang
   affiliation: Central Academy of Fine Arts
   location: Beijing, China
@@ -19,12 +21,18 @@ contributors:
 - name: Jing Chen
   affiliation: Nanjing University of the Arts, NUA School of Design
   location: Nanjing, China
+  bio: "Master student at Nanjing University of the Arts, research direction: information visualization design. His works have been shortlisted for the National Art Exhibition (2024), PacificVis 2024 Visual Data Storytelling, and selected for the China VISAP’24 Art Exhibition."
+  headshot: /images/headshots/jing-chen.jpg
 - name: Rebecca Ruige Xu
   affiliation: College of Visual & Performing Arts, Syracuse University
   location: Syrcause, New York, United States
+  bio: "Rebecca Ruige Xu, a professor of computer art at Syracuse University, focuses on artistic data visualization, experimental animation, visual music, and digital performance. Her work has been featured at venues like IEEE VIS, SIGGRAPH, Ars Electronica, and museums worldwide. <a href='http://rebeccaxu.com'>rebeccaxu.com</a>"
+  headshot: /images/headshots/rebecca-ruige-xu.jpg
 - name: Dr. Wai Ping Chan
   affiliation: Central Academy of Fine Arts
   location: Beijing, China
+  bio: "Ph.D., Associate Professor, Central Academy of Fine Arts (CAFA). The Committee on Visualization and Visual Analytics of the China Society of Image & Graphics, Chairman of the ChinaVis 2024 Art Project. He previously served as the AD of the Olympic Art Research Center at the CAFA."
+  headshot: /images/headshots/dr-wai-ping-chan.jpg
 - name: Xiaoru Yuan
   affiliation: Peking University
   location: Beijing, China

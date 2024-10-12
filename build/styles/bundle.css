@@ -12070,7 +12070,7 @@ strong {
     color: #471a5c;
 }
 
-
+/* tables */
 
 .table {
   border-collapse: collapse;
@@ -12117,17 +12117,24 @@ strong {
   background-color: rgb(220, 177, 208, 0.3);
 }
 
+/* bio table */
 
-table.bio td, 
-table.bio td p {
-    font-family: reforma2018, sans-serif;
-    font-weight: 400;
-    font-size: 1em;
-    line-height: 1.33;
+table.contributor td:first-of-type {
+  padding-left: 0;
 }
-table.bio img {
-    width: 36rem;
+table.contributor td.headshot {
+    width: 25%;
 }
+table.contributor td.bio {
+    width: 75%;
+}
+table.contributor td.bio p {
+    font-family: reforma2018, sans-serif; 
+    font-weight: 400; 
+    font-size: 1em; 
+    line-height: 1.33; 
+}
+
 /* navbar.css*/
 
 .navbar {
@@ -12168,6 +12175,14 @@ a.navbar-item:hover {
 }
 
 /* hero.css */
+
+.hero {
+    justify-content: start;
+}
+
+.hero img {
+    margin-top: 0.25em
+}
 
 .hero-body {
     margin-top: 20vw;

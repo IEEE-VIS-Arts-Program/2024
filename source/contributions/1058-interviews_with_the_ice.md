@@ -9,9 +9,13 @@ contributors:
 - name: Francesca Samsel
   affiliation: University of Texas at Austin
   location: Austin, Texas, United States
+  bio: "Focusing on multidisciplinary collaboration, Francesca Samsel, a research scientist who trained as an artist, collaborates with environmental scientists, scientific visualization research teams, applying her artistic voice to the science that underpins the climate challenges of this generation."
+  headshot: /images/headshots/francesca-samsel.png
 - name: Benjamin Keisling
   affiliation: The University of Texas Institute for Geophysics (UTIG), University of Texas at Austin
   location: Austin, Texas, United States
+  bio: "Benjamin Keisling, a glaciologist at the University of Texas Institute for Geophysics, researches the ice sheets of Greenland and Antarctica in order to understand the mechanisms involved in past ice-sheet change to understand how those same processes will impact ice-sheet change in the future."
+  headhsot: /images/headshots/benjamin-keisling.png
 images: 
   - src: /images/1058-interviews_with_the_ice-4_Panel5_detail.jpg
     alt: "Frontal shot of the sculpture."
