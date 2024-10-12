@@ -23,6 +23,10 @@ hr {
     height: 1px;
 }
 
+strong {
+    color: inherit;
+}
+
 .content h1 {
     font-family: ancho;
     font-size: 1.875em;
@@ -31,7 +35,7 @@ hr {
     color: #471a5c;
 }
 
-.content h2 {
+.content h2  {
     font-family: ancho;
     font-size: 1.125em;
     line-height: 2.25em;
@@ -39,13 +43,17 @@ hr {
     color: #471a5c;
 }
 
+
 .content h3 {
     font-family: ancho;
     font-size: 1.125em;
     line-height: 2.25em;
     font-weight: 200;
-    /* color: #471a5c; */
-    /* color: #8282FF; */
+    color: #471a5c;
+}
+
+.content h4  {
+    color: #471a5c;
 }
 
 .content p {
@@ -53,4 +61,71 @@ hr {
     font-size: 18pt;
     line-height: 24pt;
     color: #471a5c;
+}
+
+.content ul:not(:last-child), .content ol:not(:last-child) {
+    margin-bottom: 2em;
+}
+
+.content li {
+    color: #471a5c;
+}
+
+
+
+.table {
+  border-collapse: collapse;
+  border-top: 1px solid #471a5c;
+  font-family: reforma2018, sans-serif;
+  font-weight: 600;
+  font-size: 1em;
+  width: 100%;
+  color: #471a5c;
+  background-color: transparent;
+}
+
+.table * {
+    color: #471a5c;
+}
+
+.table tr {
+    border-top-color: transparent !important;
+    border-bottom: 1px solid #471a5c;
+}
+
+.table .time {
+    white-space: nowrap; 
+    min-width: 8em;
+}
+
+.content table td {
+    border-width: 0;
+}
+
+.table th, .table td {
+  padding: 0.875em 0.5em;
+}
+
+.table td.l1 {
+  background-color: rgb(27, 208, 230, 0.3);
+}
+
+.table td.l2 {
+  background-color: rgb(220, 143, 230, 0.3);
+}
+
+.table td.l3 {
+  background-color: rgb(220, 177, 208, 0.3);
+}
+
+
+table.bio td, 
+table.bio td p {
+    font-family: reforma2018, sans-serif;
+    font-weight: 400;
+    font-size: 1em;
+    line-height: 1.33;
+}
+table.bio img {
+    width: 36rem;
 }

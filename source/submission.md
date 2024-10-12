@@ -5,17 +5,17 @@ layout: default
 
 ## Important Dates
 
-<table>
+<table class="table">
 <colgroup>
   <col style="width: 50%;">
   <col style="width: 50%;">
 </colgroup>
-<tr><td>Call opening:</td><td>April, 2024</td>
-<tr><td>Submissions deadline:</td><td><s>June 2, 2024</s> June 9, 2024</td>
-<tr><td>Acceptance notifications:</td><td>July 26, 2024</td>
-<tr><td>Camera ready deadline:</td><td>August 14, 2024</td>
-<tr><td>Exhibition materials submission:</td><td>August 14, 2024</td>
-<tr><td>VISAP exhibition:</td><td>
+<tr><td><strong>Call opening</strong></td><td>April, 2024</td>
+<tr><td><strong>Submissions deadline</strong></td><td><s>June 2, 2024</s> June 9, 2024</td>
+<tr><td><strong>Acceptance notifications</strong></td><td>July 26, 2024</td>
+<tr><td><strong>Camera ready deadline</strong></td><td>August 14, 2024</td>
+<tr><td><strong>Exhibition materials submission</strong></td><td>August 14, 2024</td>
+<tr><td><strong>VISAP exhibition</strong></td><td>
     October 14&ndash;17, 2024<br>
     <a href="https://ieeevis.org/year/2024/destination">Tradewinds Island Grand Beach Resort</a>
 </a>

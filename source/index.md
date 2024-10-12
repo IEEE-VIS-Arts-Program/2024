@@ -44,37 +44,17 @@ seeking innovative and original contributions to the field of data
 visualization, aesthetics and process that might include but are not
 limited to the following topics of interest and modes of inquiry:
 
--   original creative work using generative technologies engaging data
-    and its aesthetic manifestations;
-
--   experimental and analog processes that enhance new perspectives on a
-    body of data
-
--   advanced prototypes for eco-critical and sustainable technology in a
-    visualization context;
-
--   critical and playful data interactions that explore diversity from a
-    social, cultural or political standpoint;
-
+-   original creative work using generative technologies engaging data and its aesthetic manifestations;
+-   experimental and analog processes that enhance new perspectives on a body of data
+-   advanced prototypes for eco-critical and sustainable technology in a visualization context;
+-   critical and playful data interactions that explore diversity from a social, cultural or political standpoint;
 -   creative work that questions the origin of data and its nature;
-
--   prototype experimental models to visualize information in the
-    context of AR/XR/VR;
-
+-   prototype experimental models to visualize information in the context of AR/XR/VR;
 -   visualizations of the more-than-human world;
-
--   contributions to an understanding of planetary ecology and climate
-    change;
-
--   help to build telematic co-presence in physically remote
-    environments;
-
--   manifest culturally safe and inclusive practices, such as
-    facilitating impact in social movements (Indigenous futures, Black
-    Lives Matter, 2SLGBTQIA+ and more);
-
+-   contributions to an understanding of planetary ecology and climate change;
+-   help to build telematic co-presence in physically remote environments;
+-   manifest culturally safe and inclusive practices, such as facilitating impact in social movements (Indigenous futures, Black Lives Matter, 2SLGBTQIA+ and more);
 -   narrow the digital divide manifest in the Global South;
-
 -   contribute to building a more equitable world for all.
 
 # About VISAP'24
