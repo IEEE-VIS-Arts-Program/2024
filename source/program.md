@@ -3,6 +3,8 @@ title: "Program"
 layout: default
 ---
 
+[Register now to join us online for VISAP 2024](https://www.eventbrite.com/e/2024-ieee-vis-visualization-and-visual-analytics-tickets-885829258157).
+
 <h3><strong>Tuesday, October 15</strong> (Eastern Time)</h3>
 
 <table class="table">
