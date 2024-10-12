@@ -10,6 +10,8 @@ contributors:
 - name: Rewa Wright
   affiliation: School of Creative Practice, Queensland University of Technology
   location: Brisbane, Queensland, Australia
+  bio: "Uncalculated Studio (aka  Rewa Wright and Simon Howden) hail from Aotearoa New Zealand. We are practice based researchers using speculative methods to explore emerging technologies of sound and vision, with a focus on ephemera and frequency. Our  performances blend bespoke sonics with extended reality, haptic and gestural interfaces, and we often co-create with the nonhuman: plants and algorithms. Notably, artworks have been recently included in Expanded Animation at Ars Electronica 2024, Federation Square Digital Screen, Bunjil Place Arts Centre, various Ars Electronica 'Gardens' (2020 and 2021), the SIGGRAPH Asia Art Gallery (2019), SIGGRAPH Asia Art Papers (2024), VIVID Sydney, the Wrong Biennale, Aotearoa Digital Arts Symposium, as well as numerous iterations of the International Symposium on Electronic Art (2013-2024)."
+  headshot: /images/uncalculated-studio.jpg
 images:
 - src: /images/1078-biorhythms-vis24k-sub1078-i8.jpg
   alt: "alt text"

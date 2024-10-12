@@ -9,6 +9,8 @@ contributors:
 - name: Karly Ross
   affiliation: University of Calgary
   location: Calgary, Alberta, Canada
+  bio: "Karly Ross is a graduate student in computational media design at the University of Calgary. Karly’s work —creative and otherwise— ponders data absences and orientations while attending to physical mobility in urban space."
+  headhsot: karly-ross.jpg
 images: 
   - src: /images/1054-curbside-1-117.jpg
     alt: "Curbside in position at BRACKISH, view of full display."
