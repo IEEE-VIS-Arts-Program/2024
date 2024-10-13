@@ -5,7 +5,7 @@ type: artwork
 submission: 1089
 title: "Mosaic Memory Drive"
 thumb: /images/1089-mosaic_memory_drive-thumb.jpg
-url: "https://youtu.be/7kQUH994bhI"
+youtube: 7kQUH994bhI
 contributors: 
 - name: Baltazar Pérez
   affiliation: TU Wien, Institute of Visual Computing and Human-Centered Technology

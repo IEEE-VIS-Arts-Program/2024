@@ -5,7 +5,7 @@ type: paper
 submission: 1052
 title: "Numerical Existence: Reflections on Curating Artistic Data Visualization Exhibitions"
 thumb: /images/1052-numerical_existence-thumb.jpg
-url: "https://youtu.be/6VFDcuVqsC4"
+youtube: 6VFDcuVqsC4
 contributors: 
 - name: Luiz Ludwig
   affiliation: PPGAV, Federal University of Rio de Janeiro; Brazil Pontifical Catholic University of

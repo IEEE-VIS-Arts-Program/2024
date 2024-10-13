@@ -217,4 +217,5 @@ Historians of visualization often say that the 19th century was a Golden Age of 
 </tr>
 </table>
 
+{% include "supporters.njk" %}
 

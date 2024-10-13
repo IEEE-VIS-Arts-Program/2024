@@ -5,7 +5,7 @@ type: pictorial
 submission: 1035
 title: '"Northness": Poetic Visualization of Data Infrastructure Inequality'
 thumb: /images/1035-northness-thumb.jpg
-url: "https://youtu.be/IR1iZSixl54"
+youtube: IR1iZSixl54
 contributors: 
 - name: Luiz Ludwig
   affiliation: Pontifical Catholic University of Rio de Janeiro; PPGAV, Federal University of Rio de Janeiro

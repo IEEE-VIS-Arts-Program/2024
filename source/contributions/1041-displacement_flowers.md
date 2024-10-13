@@ -5,7 +5,7 @@ type: artwork
 submission: 1041
 title: "Displacement Flowers: Visualizaing global human displacment due to natural disasters"
 thumb: /images/1041-displacement_flowers-thumb.png
-url: "https://vimeo.com/953616089"
+vimeo: 953616089
 contributors: 
 - name: Elizabeth McCaffrey
   affiliation: Khoury College of Computer Sciences/College of Arts Media and Design, Northeastern University
