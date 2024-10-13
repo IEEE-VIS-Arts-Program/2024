@@ -9,6 +9,7 @@ contributors:
 - name: Fiona You Wang
   affiliation: The Hong Kong University of Science and Technology
   location: Guangzhou, China
+  bio: "Fiona You Wang is a artist and curator, PhD candidate of HKUST(GZ).She is a pioneer in the field of space art and cosmic aesthetics, and interprets the practical and theoretical analysis of the dialogue between human beings and the universe in an interdisciplinary manner."
 - name: Kang Zhang
   affiliation: The Hong Kong University of Science and Technology
   location: Guangzhou, China

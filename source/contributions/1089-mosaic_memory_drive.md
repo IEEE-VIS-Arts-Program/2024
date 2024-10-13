@@ -7,9 +7,11 @@ title: "Mosaic Memory Drive"
 thumb: /images/1089-mosaic_memory_drive-thumb.jpg
 url: "https://youtu.be/7kQUH994bhI"
 contributors: 
-- name: Ignacio Pérez-Messina
+- name: Baltazar Pérez
   affiliation: TU Wien, Institute of Visual Computing and Human-Centered Technology
   location: Vienna, Austria
+  bio: Baltazar Pérez (Santiago de Chile, 1994) is a recurrent VISAP artist, designing and studying visualizations in academia and out for nearly a decade while investigating visualization as a form of art. Currently in his final PhD year at TU Wien, where he explores mixed-initiative visual analytics.
+  headshot: /images/headshots/baltazar-perez.png
 images: 
   - src: /images/1089-mosaic_memory_drive-visap_images2.jpg
     alt: ""

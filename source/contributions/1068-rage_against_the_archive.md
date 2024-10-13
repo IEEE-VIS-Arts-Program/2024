@@ -10,6 +10,8 @@ contributors:
 - name: Anshul Roy
   affiliation: College of Visual and Performing Arts, Syracuse University
   location: Syracuse, New York, United States
+  bio: "Anshul Roy (b. 1997, India) is a visual artist with an MFA in Art Photography from Syracuse University, NY. His artistic practice is inspired by Postcolonial discourses, exploring issues like identity, historical memory, cultural representation, and visual ethics."
+  headshot: /images/headshots/anshul-roy.jpg
 images: 
   - src: /images/1068-rage_against_the_archive-performance_lecture_2023_su_zelikha_final.jpg
     alt: "Performance lecture 2023"

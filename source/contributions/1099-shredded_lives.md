@@ -12,9 +12,13 @@ contributors:
 - name: Charles Perin
   affiliation: Department of Computer Science, University of Victoria
   location: Victoria, British Columbia, Canada
+  bio: "Charles Perin is an Associate Professor of Computer Science at the University of Victoria, where he co-leads the VIXI lab. He is interested in new interactions for visualizations, in mobile and physical visualization, and in personal visualization."
+  headshot: /images/headshots/charles-perin.jpg
 - name: Sheelagh Carpendale
   affiliation: Simon Fraser University
   location: Burnaby, British Columbia, Canada
+  bio: "Sheelagh Carpendale, Professor, Canada Research Chair at Simon Fraser University has received many awards including IEEE Visualization Career Award, and a BAFTA. She is a Fellow in the Royal Society of Canada and has been inducted into the IEEE Visualization Academy and the ACM CHI Academy."
+  headshot: /images/headshots/sheelagh-carpendale.jpg
 images: 
   - src: /images/1099-shredded_lives-figure_7-zoom_3.jpg
     alt: "Design Exploration Diagram Zoom 3."

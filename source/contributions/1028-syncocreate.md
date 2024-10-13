@@ -10,9 +10,13 @@ contributors:
 - name: Xin Feng
   affiliation: Independent Researcher
   location: San Mateo, California, United States
+  bio: "Xin Feng is a VR creative technologist focused on social well-being and affective computing. Her work blends game development and XR prototyping, creating human-centered experiences that bridge digital and physical realms. Her work has been showcased at CHI 2024, Siggraph 2023, and more."
+  headshot: /images/headshots/xin-feng.jpg
 - name: Tiange Wang
   affiliation: VLab, Independent Designer
   location: Cambridge, Massachusetts, United States
+  bio: "Tiange Wang is an award-winning and internationally-exhibiting designer and creative technologist. Her work investigates innovative interactive paradigms among humans, technology and the environment, addressing climate change, holistic wellbeing, humanizing emerging tech, and speculative futures."
+  headshot: /images/headshots/tiange-wang.jpg
 images: 
   - src: /images/1028-syncocreate-Representative_1.jpg
     alt: "Representative image 1"

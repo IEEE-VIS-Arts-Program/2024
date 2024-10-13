@@ -9,6 +9,8 @@ contributors:
 - name: Francesca Samsel
   affiliation: Texas Advanced Computing Center, University of Texas at Austin
   location: Austin, Texas, United States
+  bio: "Focusing on multidisciplinary collaboration, Francesca Samsel, a research scientist who trained as an artist, collaborates with environmental scientists, scientific visualization research teams, applying her artistic voice to the science that underpins the climate challenges of this generation."
+  headshot: /images/headshots/francesca-samsel.png
 - name: Dr. Lyn Bartram
   affiliation: School of Interactive Art and Technology, Simon Fraser University
   location: Surrey, British Columbia, Canada

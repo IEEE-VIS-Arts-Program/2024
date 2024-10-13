@@ -1,5 +1,13 @@
 /* hero.css */
 
+.hero {
+    justify-content: start;
+}
+
+.hero img {
+    margin-top: 0.25em
+}
+
 .hero-body {
     margin-top: 20vw;
 }

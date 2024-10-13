@@ -10,6 +10,8 @@ contributors:
 - name: weidi zhang
   affiliation: media and immersive experience center, Arizona State University 
   location: Tempe, Arizona, United States
+  bio: "Weidi Zhang is a new media artist based in Pheonix and Los Angeles. she is an Assistant Professor at the Media and Immersive eXperience center of Arizona State University. Her research investigates Speculative Assemblages at the intersection of immersive media, data visualization, and AI art."
+  headshot: /images/headshots/weidi-zhang.jpg
 - name: Jieliang Luo
   affiliation: Independant Researcher
   location: Beijing, China
