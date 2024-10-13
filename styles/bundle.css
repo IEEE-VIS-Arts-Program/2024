@@ -12007,6 +12007,18 @@ body {
     /* background-color: #ffe8e8; */
 }
 
+p a {
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-style: wavy;
+  }
+
+p a:hover {
+    color:  #485fc7;
+    text-underline-offset: 0.3em;
+}
+
+
 .section {
     margin: 0 auto;
     max-width: 1400px;
@@ -12135,6 +12147,56 @@ table.contributor td.bio p {
     line-height: 1.33; 
 }
 
+/* video */
+
+.responsive-video {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    margin-bottom: 5em;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    background: #000;
+  }
+  
+  .responsive-video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+
+/* organizers */
+
+.content .organizers p {
+    font-family: reforma2018, sans-serif;
+    font-weight: 600;
+    font-size: 1em;
+    line-height: 1.33; 
+}
+
+/* supporters */
+
+.supporters {
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+}
+.supporters div {
+    flex: 1;
+}
+.supporters img {
+    width: 100%;
+}
+
+@media (width >= 1000px) {
+    .supporters {
+        flex-direction: row;
+    }
+}
+
 /* navbar.css*/
 
 .navbar {
@@ -12203,6 +12265,13 @@ a.navbar-item:hover {
 .hero_message.content p {
     font-family: reforma2018;
     font-weight: 600;
+}
+
+@media (width <= 1200px) {
+    .hero_message.content p {
+        font-size: 1rem;
+        line-height: 1.33;
+    }
 }
 
 
