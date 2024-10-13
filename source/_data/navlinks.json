@@ -8,16 +8,16 @@
         "url": "/contributions"
     },
     {
-        "title": "Submission",
-        "url": "/submission"
-    },
-    {
         "title": "Program",
         "url": "/program"
     },
     {
         "title": "Supporters",
         "url": "/#supporters"
+    },
+    {
+        "title": "Submission",
+        "url": "/submission"
     },
     {
         "title": "Organizers",

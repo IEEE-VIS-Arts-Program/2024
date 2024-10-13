@@ -17,7 +17,8 @@ layout: default
 <tr><td><strong>Exhibition materials submission</strong></td><td>August 14, 2024</td>
 <tr><td><strong>VISAP exhibition</strong></td><td>
     October 14&ndash;17, 2024<br>
-    <a href="https://ieeevis.org/year/2024/destination">Tradewinds Island Grand Beach Resort</a>
+    <s><a href="https://ieeevis.org/year/2024/destination">Tradewinds Island Grand Beach Resort</a></s><br>
+    Virtual
 </a>
 </td>
 </table>

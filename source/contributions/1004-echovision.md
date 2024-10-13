@@ -5,7 +5,7 @@ type: artwork
 submission: 1004
 title: "EchoVision"
 thumb: /images/1004-echovision-thumb.jpg
-url: "https://vimeo.com/955577972"
+vimeo: 955577972
 contributors: 
 - name: Botao Amber Hu
   affiliation: Reality Design Lab

@@ -29,3 +29,10 @@
     font-weight: 600;
 }
 
+@media (width <= 1200px) {
+    .hero_message.content p {
+        font-size: 1rem;
+        line-height: 1.33;
+    }
+}
+
