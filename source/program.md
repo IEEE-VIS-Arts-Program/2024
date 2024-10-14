@@ -28,7 +28,7 @@ layout: default
       </td>
     </tr>
     <tr>
-      <td><strong>EchoVision</strong> &mdash; Botao&nbsp;Amber&nbsp;</td>
+      <td><strong>EchoVision</strong> &mdash; Jiabao&nbsp;Li</td>
     </tr>
     <tr>
       <td><strong>Flags of Inequality</strong> &mdash; Rita&nbsp;Costa</td>
