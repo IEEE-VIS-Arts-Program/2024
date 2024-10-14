@@ -190,7 +190,7 @@ layout: default
       <td><strong>A Perfect Storm</strong> &mdash; Chloe Hudson Prock</td>
     </tr>
     <tr>
-      <td class="time">11:2&ndash;11:30&nbsp;a.m.</td>
+      <td class="time">11:20&ndash;11:30&nbsp;a.m.</td>
       <td><strong>Q&amp;A</strong></td>
     </tr>
   </tbody>
