@@ -1,7 +1,7 @@
 // config vars for the gui
 let config = {
     "idx": 13,
-    "velocity": 0.8,
+    "velocity": 1.8,
     "nWaves": 32,
     "shift": 40,
     "hueSpread": 45,
@@ -113,6 +113,7 @@ function setup(){
     let renderer = createCanvas(windowWidth, windowWidth * 0.65);
     renderer.parent("wave-animation");
     colorMode(HSB);
+    frameRate(24);
 }
 
 function windowResized() {
@@ -120,6 +121,10 @@ function windowResized() {
 }
 
 function draw(){
+    console.log(
+        frameRate()
+    );
+
     // WaveSet(nWaves, shift, width, height)
     ws = new WaveSet(config.nWaves, config.shift, width, height);
     creators = data[config.idx].creators;

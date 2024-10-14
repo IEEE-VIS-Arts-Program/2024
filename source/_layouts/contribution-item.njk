@@ -29,10 +29,7 @@
       <h1>{{ title }}</h1>
       <p class="byline">
         <em>{{ type | capitalize }}</em><br>
-        {% for contributor in contributors %}
-          {% if not loop.first %}, {% endif %}
-          <strong>{{ contributor.name }}</strong>
-        {% endfor %}<br>
+        {% for contributor in contributors %}{% if not loop.first %}, {% endif %}<strong>{{ contributor.name }}</strong>{% endfor %}<br>
         {% if url %}
         <a href="{{ url }}">{{ url }}</a>
         {% endif %}
