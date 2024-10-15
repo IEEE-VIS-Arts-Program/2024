@@ -5,7 +5,7 @@ type: artwork
 submission: 1039
 title: "Transferscope — Synthesized Reality: Sample anything. Transform everything."
 thumb: /images/1039-transferscope-thumb.jpg
-vimeo: 929277009
+vimeo: 1019178391
 contributors: 
 - name: Christopher Pietsch
   affiliation: AI+Design Lab, University of Design Schwäbisch Gmünd
