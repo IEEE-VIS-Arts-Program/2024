@@ -154,7 +154,7 @@ layout: default
     <tr>
       <td class="time">10:15&ndash;10:25&nbsp;a.m.</td>
       <td>
-        <strong>Loading Ceramics: Visualising Possibilities of Robotics in Ceramics</strong> &mdash; Varvara Guljajeva
+        <strong>Loading Ceramics: Visualising Possibilities of Robotics in Ceramics</strong> &mdash; Martin Melioranski
       </td>
     </tr>
     <tr>
