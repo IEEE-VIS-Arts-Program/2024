@@ -3,7 +3,7 @@ tags: contribution
 layout: contribution-item
 type: artwork
 submission: 1041
-title: "Displacement Flowers: Visualizaing global human displacment due to natural disasters"
+title: "Displacement Flowers: Visualizing global human displacement due to natural disasters"
 thumb: /images/1041-displacement_flowers-thumb.png
 vimeo: 953616089
 contributors: 
