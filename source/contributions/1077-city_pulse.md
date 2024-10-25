@@ -18,6 +18,8 @@ contributors:
 - name: Yutong Yang
   affiliation: Shanghai Jiao Tong University
   location: Shanghai, China 
+  bio: "She is an idea proposer, currently a third-year master's student with interest in the intersection of data science, art and humanities. She loves visualization for its inclusiveness and creativity, and is willing to delve into the related research field. For more information: <a href='https://yutong-yang.github.io'>yutong-yang.github.io</a>."
+  headshot: /images/headshots/yutong-yang.jpg
 - name: Jing Chen
   affiliation: Nanjing University of the Arts, NUA School of Design
   location: Nanjing, China
