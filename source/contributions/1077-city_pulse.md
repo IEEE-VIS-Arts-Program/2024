@@ -15,6 +15,8 @@ contributors:
 - name: Yixuan Zhang
   affiliation: Central Academy of Fine Arts
   location: Beijing, China
+  bio: "Yixuan Zhang, a graduate student at the Central Academy of Fine Arts in China, majoring in Visual Communication and Interaction Design, is passionate about creating diverse forms of visual art and data visualization."
+  headshot: /images/headshots/yixuan-zhang.jpg
 - name: Yutong Yang
   affiliation: Shanghai Jiao Tong University
   location: Shanghai, China 
