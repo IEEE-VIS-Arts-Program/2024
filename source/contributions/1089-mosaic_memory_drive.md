@@ -20,9 +20,9 @@ images:
     alt: ""
   - src: /images/1089-mosaic_memory_drive-visap_images5.jpg
     alt: ""
-  - src: /images/1089-mosaic_memory_drive-visap_images3.jpg
+  - src: /images/1089-mosaic_memory_drive-visap_23.jpg
     alt: ""
-  - src: /images/1089-mosaic_memory_drive-visap_images4.jpg
+  - src: /images/1089-mosaic_memory_drive-visap_2.jpg
     alt: ""
 
 ---
