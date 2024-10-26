@@ -40,6 +40,8 @@ contributors:
 - name: Xiaoru Yuan
   affiliation: Peking University
   location: Beijing, China
+  bio: "Xiaoru Yuan, a professor at Peking University, leads the Visualization Lab, specializing in complex data visualization. An IEEE VIS award recipient, he is a key figure in IEEE VIS, ChinaVis, and serves on CCF committees for big data, HCI, and graphics."
+  headshot: /images/headshots/xiaoru-yuan.jpg
 images:
 - src: /images/1077-city_pulse-thumb.jpg
   alt: "City metro graphic poster"
